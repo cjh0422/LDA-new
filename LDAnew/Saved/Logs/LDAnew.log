@@ -4503,3 +4503,1138 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2025.04.27-04.06.32:103][964]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/assets/Freeasset/table_Stütze_3.table_Stütze_3
 [2025.04.27-04.06.32:103][964]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/assets/Freeasset/WoodSeemles.WoodSeemles
 [2025.04.27-04.06.32:103][964]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/assets/Freeasset/WoodSeemles1.WoodSeemles1
+[2025.04.27-04.07.29:669][551]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2025.04.27-04.07.29:682][551]LogContentBrowser: Creating deferred item: NewFolder
+[2025.04.27-04.07.29:695][552]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2025.04.27-04.07.34:702][ 95]LogContentBrowser: Attempting asset rename: NewFolder -> table
+[2025.04.27-04.07.34:704][ 95]LogContentBrowser: End creating deferred item NewFolder
+[2025.04.27-04.07.42:927][723]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.04.27-04.07.42:998][723]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/assets/Freeasset/table/Mat" FILE="../../../../../../Users/Microsoft/Documents/GitHub/LDA-new/LDAnew/Content/assets/Freeasset/table/Mat.uasset" SILENT=true
+[2025.04.27-04.07.43:000][723]LogSavePackage: Moving output files for package: /Game/assets/Freeasset/table/Mat
+[2025.04.27-04.07.43:000][723]LogSavePackage: Moving '../../../../../../Users/Microsoft/Documents/GitHub/LDA-new/LDAnew/Saved/MatDB31E40A4C06BA4D8CC56EA3107D2E49.tmp' to '../../../../../../Users/Microsoft/Documents/GitHub/LDA-new/LDAnew/Content/assets/Freeasset/table/Mat.uasset'
+[2025.04.27-04.07.43:001][723]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/assets/Freeasset/table/Mat_1" FILE="../../../../../../Users/Microsoft/Documents/GitHub/LDA-new/LDAnew/Content/assets/Freeasset/table/Mat_1.uasset" SILENT=true
+[2025.04.27-04.07.43:002][723]LogSavePackage: Moving output files for package: /Game/assets/Freeasset/table/Mat_1
+[2025.04.27-04.07.43:002][723]LogSavePackage: Moving '../../../../../../Users/Microsoft/Documents/GitHub/LDA-new/LDAnew/Saved/Mat_12936B57E48693A4F8D8FC98D17443309.tmp' to '../../../../../../Users/Microsoft/Documents/GitHub/LDA-new/LDAnew/Content/assets/Freeasset/table/Mat_1.uasset'
+[2025.04.27-04.07.43:003][723]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/assets/Freeasset/table/Mat_5" FILE="../../../../../../Users/Microsoft/Documents/GitHub/LDA-new/LDAnew/Content/assets/Freeasset/table/Mat_5.uasset" SILENT=true
+[2025.04.27-04.07.43:005][723]LogSavePackage: Moving output files for package: /Game/assets/Freeasset/table/Mat_5
+[2025.04.27-04.07.43:005][723]LogSavePackage: Moving '../../../../../../Users/Microsoft/Documents/GitHub/LDA-new/LDAnew/Saved/Mat_5CC5A338C48C28CD967D3AD9C7759FFFC.tmp' to '../../../../../../Users/Microsoft/Documents/GitHub/LDA-new/LDAnew/Content/assets/Freeasset/table/Mat_5.uasset'
+[2025.04.27-04.07.43:006][723]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/assets/Freeasset/table/Mat_1_1" FILE="../../../../../../Users/Microsoft/Documents/GitHub/LDA-new/LDAnew/Content/assets/Freeasset/table/Mat_1_1.uasset" SILENT=true
+[2025.04.27-04.07.43:007][723]LogSavePackage: Moving output files for package: /Game/assets/Freeasset/table/Mat_1_1
+[2025.04.27-04.07.43:007][723]LogSavePackage: Moving '../../../../../../Users/Microsoft/Documents/GitHub/LDA-new/LDAnew/Saved/Mat_1_1E03EC30E436CE7BAE93F89BBA7F3C4A7.tmp' to '../../../../../../Users/Microsoft/Documents/GitHub/LDA-new/LDAnew/Content/assets/Freeasset/table/Mat_1_1.uasset'
+[2025.04.27-04.07.43:008][723]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/assets/Freeasset/table/Mat_1_2" FILE="../../../../../../Users/Microsoft/Documents/GitHub/LDA-new/LDAnew/Content/assets/Freeasset/table/Mat_1_2.uasset" SILENT=true
+[2025.04.27-04.07.43:010][723]LogSavePackage: Moving output files for package: /Game/assets/Freeasset/table/Mat_1_2
+[2025.04.27-04.07.43:010][723]LogSavePackage: Moving '../../../../../../Users/Microsoft/Documents/GitHub/LDA-new/LDAnew/Saved/Mat_1_2025820834449410AC0A0E1AC5032243E.tmp' to '../../../../../../Users/Microsoft/Documents/GitHub/LDA-new/LDAnew/Content/assets/Freeasset/table/Mat_1_2.uasset'
+[2025.04.27-04.07.43:010][723]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/assets/Freeasset/table/Mat_1_5" FILE="../../../../../../Users/Microsoft/Documents/GitHub/LDA-new/LDAnew/Content/assets/Freeasset/table/Mat_1_5.uasset" SILENT=true
+[2025.04.27-04.07.43:012][723]LogSavePackage: Moving output files for package: /Game/assets/Freeasset/table/Mat_1_5
+[2025.04.27-04.07.43:012][723]LogSavePackage: Moving '../../../../../../Users/Microsoft/Documents/GitHub/LDA-new/LDAnew/Saved/Mat_1_55454E43540AA615B49EB34B29BDFC4D8.tmp' to '../../../../../../Users/Microsoft/Documents/GitHub/LDA-new/LDAnew/Content/assets/Freeasset/table/Mat_1_5.uasset'
+[2025.04.27-04.07.43:014][723]LogSavePackage: Moving output files for package: /Game/assets/Freeasset/table/Mat_1_ncl1_1
+[2025.04.27-04.07.43:014][723]LogSavePackage: Moving '../../../../../../Users/Microsoft/Documents/GitHub/LDA-new/LDAnew/Saved/Mat_1_ncl1_174AB8864464BB5B80B6BB99B30FB5C39.tmp' to '../../../../../../Users/Microsoft/Documents/GitHub/LDA-new/LDAnew/Content/assets/Freeasset/table/Mat_1_ncl1_1.uasset'
+[2025.04.27-04.07.43:015][723]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/assets/Freeasset/table/table" FILE="../../../../../../Users/Microsoft/Documents/GitHub/LDA-new/LDAnew/Content/assets/Freeasset/table/table.uasset" SILENT=true
+[2025.04.27-04.07.43:018][723]LogSavePackage: Moving output files for package: /Game/assets/Freeasset/table/table
+[2025.04.27-04.07.43:018][723]LogSavePackage: Moving '../../../../../../Users/Microsoft/Documents/GitHub/LDA-new/LDAnew/Saved/table644590F14787458E8D2608B31AC54021.tmp' to '../../../../../../Users/Microsoft/Documents/GitHub/LDA-new/LDAnew/Content/assets/Freeasset/table/table.uasset'
+[2025.04.27-04.07.43:019][723]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/assets/Freeasset/table" FILE="../../../../../../Users/Microsoft/Documents/GitHub/LDA-new/LDAnew/Content/assets/Freeasset/table.uasset" SILENT=true
+[2025.04.27-04.07.43:020][723]LogSavePackage: Moving output files for package: /Game/assets/Freeasset/table
+[2025.04.27-04.07.43:021][723]LogSavePackage: Moving '../../../../../../Users/Microsoft/Documents/GitHub/LDA-new/LDAnew/Saved/tableC3837B0E40139AEC0CC4809611C552AA.tmp' to '../../../../../../Users/Microsoft/Documents/GitHub/LDA-new/LDAnew/Content/assets/Freeasset/table.uasset'
+[2025.04.27-04.07.43:023][723]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/assets/Freeasset/table/table_Bein" FILE="../../../../../../Users/Microsoft/Documents/GitHub/LDA-new/LDAnew/Content/assets/Freeasset/table/table_Bein.uasset" SILENT=true
+[2025.04.27-04.07.43:026][723]LogSavePackage: Moving output files for package: /Game/assets/Freeasset/table/table_Bein
+[2025.04.27-04.07.43:026][723]LogSavePackage: Moving '../../../../../../Users/Microsoft/Documents/GitHub/LDA-new/LDAnew/Saved/table_Bein3A147ED8470BFC6BE3C88A8D6F2797DF.tmp' to '../../../../../../Users/Microsoft/Documents/GitHub/LDA-new/LDAnew/Content/assets/Freeasset/table/table_Bein.uasset'
+[2025.04.27-04.07.43:028][723]LogSavePackage: Moving output files for package: /Game/assets/Freeasset/table/table_Bein_2
+[2025.04.27-04.07.43:028][723]LogSavePackage: Moving '../../../../../../Users/Microsoft/Documents/GitHub/LDA-new/LDAnew/Saved/table_Bein_2D9DFEDAA4A2F7E910CD3F98172093B02.tmp' to '../../../../../../Users/Microsoft/Documents/GitHub/LDA-new/LDAnew/Content/assets/Freeasset/table/table_Bein_2.uasset'
+[2025.04.27-04.07.43:032][723]LogSavePackage: Moving output files for package: /Game/assets/Freeasset/table/table_Bein_3
+[2025.04.27-04.07.43:032][723]LogSavePackage: Moving '../../../../../../Users/Microsoft/Documents/GitHub/LDA-new/LDAnew/Saved/table_Bein_30D93A8024E6EEB05D967459B96271313.tmp' to '../../../../../../Users/Microsoft/Documents/GitHub/LDA-new/LDAnew/Content/assets/Freeasset/table/table_Bein_3.uasset'
+[2025.04.27-04.07.43:034][723]LogSavePackage: Moving output files for package: /Game/assets/Freeasset/table/table_Bein_4
+[2025.04.27-04.07.43:034][723]LogSavePackage: Moving '../../../../../../Users/Microsoft/Documents/GitHub/LDA-new/LDAnew/Saved/table_Bein_4A777C5FC49A84DB2A1A56DA51BC84490.tmp' to '../../../../../../Users/Microsoft/Documents/GitHub/LDA-new/LDAnew/Content/assets/Freeasset/table/table_Bein_4.uasset'
+[2025.04.27-04.07.43:037][723]LogSavePackage: Moving output files for package: /Game/assets/Freeasset/table/table_Platte
+[2025.04.27-04.07.43:037][723]LogSavePackage: Moving '../../../../../../Users/Microsoft/Documents/GitHub/LDA-new/LDAnew/Saved/table_Platte496863F54E92B40CEF6236BCFF7A0C16.tmp' to '../../../../../../Users/Microsoft/Documents/GitHub/LDA-new/LDAnew/Content/assets/Freeasset/table/table_Platte.uasset'
+[2025.04.27-04.07.43:041][723]LogSavePackage: Moving output files for package: /Game/assets/Freeasset/table/table_Stütze
+[2025.04.27-04.07.43:041][723]LogSavePackage: Moving '../../../../../../Users/Microsoft/Documents/GitHub/LDA-new/LDAnew/Saved/table_StützeB185A6CE442C4347138EFFADED964A46.tmp' to '../../../../../../Users/Microsoft/Documents/GitHub/LDA-new/LDAnew/Content/assets/Freeasset/table/table_Stütze.uasset'
+[2025.04.27-04.07.43:044][723]LogSavePackage: Moving output files for package: /Game/assets/Freeasset/table/table_Stütze_2
+[2025.04.27-04.07.43:044][723]LogSavePackage: Moving '../../../../../../Users/Microsoft/Documents/GitHub/LDA-new/LDAnew/Saved/table_Stütze_2109584CE4E2772EC86D7EAB36C766616.tmp' to '../../../../../../Users/Microsoft/Documents/GitHub/LDA-new/LDAnew/Content/assets/Freeasset/table/table_Stütze_2.uasset'
+[2025.04.27-04.07.43:047][723]LogSavePackage: Moving output files for package: /Game/assets/Freeasset/table/table_Stütze_3
+[2025.04.27-04.07.43:047][723]LogSavePackage: Moving '../../../../../../Users/Microsoft/Documents/GitHub/LDA-new/LDAnew/Saved/table_Stütze_325C957484480B200DEA22C8537D51047.tmp' to '../../../../../../Users/Microsoft/Documents/GitHub/LDA-new/LDAnew/Content/assets/Freeasset/table/table_Stütze_3.uasset'
+[2025.04.27-04.07.43:049][723]LogSavePackage: Moving output files for package: /Game/assets/Freeasset/table/WoodSeemles
+[2025.04.27-04.07.43:049][723]LogSavePackage: Moving '../../../../../../Users/Microsoft/Documents/GitHub/LDA-new/LDAnew/Saved/WoodSeemles043FCB9145E41E35314ED0BB065F8149.tmp' to '../../../../../../Users/Microsoft/Documents/GitHub/LDA-new/LDAnew/Content/assets/Freeasset/table/WoodSeemles.uasset'
+[2025.04.27-04.07.43:052][723]LogSavePackage: Moving output files for package: /Game/assets/Freeasset/table/WoodSeemles1
+[2025.04.27-04.07.43:052][723]LogSavePackage: Moving '../../../../../../Users/Microsoft/Documents/GitHub/LDA-new/LDAnew/Saved/WoodSeemles1499773A340A047B6A1595A850904FBC6.tmp' to '../../../../../../Users/Microsoft/Documents/GitHub/LDA-new/LDAnew/Content/assets/Freeasset/table/WoodSeemles1.uasset'
+[2025.04.27-04.07.43:062][723]LogFileHelpers: InternalPromptForCheckoutAndSave took 134 ms (total: 18.8 sec)
+[2025.04.27-04.07.43:124][723]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2025.04.27-04.07.43:136][723]LogUObjectHash: Compacting FUObjectHashTables data took   0.46ms
+[2025.04.27-04.07.43:142][723]LogUObjectHash: Compacting FUObjectHashTables data took   0.23ms
+[2025.04.27-04.07.43:178][723]AssetCheck: New page: Asset Save: multiple assets
+[2025.04.27-04.07.43:178][723]LogContentValidation: Display: Validating /Script/Engine.Material /Game/assets/Freeasset/table/Mat.Mat
+[2025.04.27-04.07.43:178][723]LogContentValidation: Display: Validating /Script/Engine.Material /Game/assets/Freeasset/table/Mat_1.Mat_1
+[2025.04.27-04.07.43:178][723]LogContentValidation: Display: Validating /Script/Engine.Material /Game/assets/Freeasset/table/Mat_5.Mat_5
+[2025.04.27-04.07.43:178][723]LogContentValidation: Display: Validating /Script/Engine.Material /Game/assets/Freeasset/table/Mat_1_1.Mat_1_1
+[2025.04.27-04.07.43:178][723]LogContentValidation: Display: Validating /Script/Engine.Material /Game/assets/Freeasset/table/Mat_1_2.Mat_1_2
+[2025.04.27-04.07.43:178][723]LogContentValidation: Display: Validating /Script/Engine.Material /Game/assets/Freeasset/table/Mat_1_5.Mat_1_5
+[2025.04.27-04.07.43:178][723]LogContentValidation: Display: Validating /Script/Engine.Material /Game/assets/Freeasset/table/Mat_1_ncl1_1.Mat_1_ncl1_1
+[2025.04.27-04.07.43:178][723]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/assets/Freeasset/table/table.table
+[2025.04.27-04.07.43:178][723]LogContentValidation: Display: Validating /Script/CoreUObject.ObjectRedirector /Game/assets/Freeasset/table.table
+[2025.04.27-04.07.43:178][723]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/assets/Freeasset/table/table_Bein.table_Bein
+[2025.04.27-04.07.43:178][723]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/assets/Freeasset/table/table_Bein_2.table_Bein_2
+[2025.04.27-04.07.43:178][723]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/assets/Freeasset/table/table_Bein_3.table_Bein_3
+[2025.04.27-04.07.43:178][723]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/assets/Freeasset/table/table_Bein_4.table_Bein_4
+[2025.04.27-04.07.43:178][723]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/assets/Freeasset/table/table_Platte.table_Platte
+[2025.04.27-04.07.43:178][723]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/assets/Freeasset/table/table_Stütze.table_Stütze
+[2025.04.27-04.07.43:178][723]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/assets/Freeasset/table/table_Stütze_2.table_Stütze_2
+[2025.04.27-04.07.43:178][723]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/assets/Freeasset/table/table_Stütze_3.table_Stütze_3
+[2025.04.27-04.07.43:178][723]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/assets/Freeasset/table/WoodSeemles.WoodSeemles
+[2025.04.27-04.07.43:178][723]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/assets/Freeasset/table/WoodSeemles1.WoodSeemles1
+[2025.04.27-04.08.19:545][253]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\Microsoft\Downloads\48-crate\Wooden Crate\Wooden Crate.fbx)
+[2025.04.27-04.08.19:551][253]LogFbx: Loading FBX Scene from C:\Users\Microsoft\Downloads\48-crate\Wooden Crate\Wooden Crate.fbx
+[2025.04.27-04.08.19:558][253]LogFbx: FBX Scene Loaded Succesfully
+[2025.04.27-04.08.23:351][253]LogSlate: Window 'FBX Import Options' being destroyed
+[2025.04.27-04.08.23:578][253]LogCore: PNG has complex alpha channel, will not fill RGB in transparent background, due to setting PNGInfill == OnlyOnBinaryTransparency
+[2025.04.27-04.08.23:578][253]LogEditorFactories: Display: Image imported as : TSF BGRA8
+[2025.04.27-04.08.23:606][253]LogTexture: Display: Building textures: /Game/assets/Freeasset/Wooden_Crate_Crate_BaseColor.Wooden_Crate_Crate_BaseColor (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 288.062484 MB), EncodeSpeed: Fast
+[2025.04.27-04.08.23:790][253]LogEditorFactories: Display: Image imported as : TSF G8
+[2025.04.27-04.08.23:795][253]LogTexture: Display: Building textures: /Game/assets/Freeasset/Wooden_Crate_Crate_Roughness.Wooden_Crate_Crate_Roughness (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 276.062484 MB), EncodeSpeed: Fast
+[2025.04.27-04.08.24:020][253]LogEditorFactories: Display: Image imported as : TSF BGRA8
+[2025.04.27-04.08.24:032][253]LogTexture: Display: Building textures: /Game/assets/Freeasset/Wooden_Crate_Crate_Normal.Wooden_Crate_Crate_Normal (TFO_BC5, 2048x2048 x1x1x1) (Required Memory Estimate: 336.562488 MB), EncodeSpeed: Fast
+[2025.04.27-04.08.24:175][253]LogFbx: Display: Triangulating static mesh Crate
+[2025.04.27-04.08.24:200][253]LogStaticMesh: Display: Building static mesh Wooden_Crate...
+[2025.04.27-04.08.24:288][253]LogStaticMesh: Built static mesh [0.09s] /Game/assets/Freeasset/Wooden_Crate.Wooden_Crate
+[2025.04.27-04.08.24:300][253]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2025.04.27-04.08.25:928][253]LogMeshUtilities: Finished distance field build in 1.6s - 98x98x98 sparse distance field, 1.3Mb total, 0.0Mb always loaded, 81% occupied, 196 triangles, Wooden_Crate
+[2025.04.27-04.08.27:375][300]LogSlate: Window 'Message Log' being destroyed
+[2025.04.27-04.08.27:385][300]LogSlate: Window 'Message Log' being destroyed
+[2025.04.27-04.08.27:975][338]LogMeshUtilities: Finished distance field build in 2.0s - 98x98x98 sparse distance field, 1.3Mb total, 0.0Mb always loaded, 81% occupied, 196 triangles, Wooden_Crate
+[2025.04.27-04.08.28:579][370]LogShaderCompilers: Display: ================================================
+[2025.04.27-04.08.28:580][370]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2025.04.27-04.08.28:580][370]LogShaderCompilers: Display: Total job queries 1,446, among them cache hits 1,260 (87.14%)
+[2025.04.27-04.08.28:580][370]LogShaderCompilers: Display: Tracking 183 distinct input hashes that result in 105 distinct outputs (57.38%)
+[2025.04.27-04.08.28:580][370]LogShaderCompilers: Display: RAM used: 4.22 MiB of 409.60 MiB budget. Usage: 1.03%
+[2025.04.27-04.08.28:580][370]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2025.04.27-04.08.28:580][370]LogShaderCompilers: Display: Shaders Compiled: 149
+[2025.04.27-04.08.28:580][370]LogShaderCompilers: Display: Jobs assigned 152, completed 149 (98.03%)
+[2025.04.27-04.08.28:580][370]LogShaderCompilers: Display: Average time worker was idle: 142.95 s
+[2025.04.27-04.08.28:580][370]LogShaderCompilers: Display: Time job spent in pending queue: average 0.15 s, longest 1.63 s
+[2025.04.27-04.08.28:580][370]LogShaderCompilers: Display: Job execution time: average 1.12 s, max 2.34 s
+[2025.04.27-04.08.28:580][370]LogShaderCompilers: Display: Job life time (pending + execution): average 1.27 s, max 2.58
+[2025.04.27-04.08.28:580][370]LogShaderCompilers: Display: Shader code size: average 40.579 KiB, min 31.266 KiB, max 61.465 KiB
+[2025.04.27-04.08.28:580][370]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 43.44 s
+[2025.04.27-04.08.28:580][370]LogShaderCompilers: Display: Jobs were issued in 152 batches (only local compilation was used), average 1.00 jobs/batch
+[2025.04.27-04.08.28:580][370]LogShaderCompilers: Display: Average processing rate: 3.43 jobs/sec
+[2025.04.27-04.08.28:580][370]LogShaderCompilers: Display: Total thread time: 121.553 s
+[2025.04.27-04.08.28:580][370]LogShaderCompilers: Display: Total thread preprocess time: 14.814 s
+[2025.04.27-04.08.28:580][370]LogShaderCompilers: Display: Percentage time preprocessing: 12.19%
+[2025.04.27-04.08.28:580][370]LogShaderCompilers: Display: Effective parallelization: 2.80 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2025.04.27-04.08.28:580][370]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2025.04.27-04.08.28:580][370]LogShaderCompilers: Display:        TBasePassPSFCachedPointIndirectLightingPolicySkylight (compiled    7 times, average 1.18 sec, max 1.66 sec, min 0.42 sec)
+[2025.04.27-04.08.28:580][370]LogShaderCompilers: Display: TBasePassPSFPrecomputedVolumetricLightmapLightingPolicySkylight (compiled    7 times, average 1.10 sec, max 1.51 sec, min 0.36 sec)
+[2025.04.27-04.08.28:580][370]LogShaderCompilers: Display:       TBasePassPSFCachedVolumeIndirectLightingPolicySkylight (compiled    7 times, average 1.09 sec, max 1.46 sec, min 0.44 sec)
+[2025.04.27-04.08.28:580][370]LogShaderCompilers: Display:               TBasePassPSFCachedVolumeIndirectLightingPolicy (compiled    7 times, average 1.07 sec, max 1.42 sec, min 0.41 sec)
+[2025.04.27-04.08.28:580][370]LogShaderCompilers: Display:                TBasePassPSFCachedPointIndirectLightingPolicy (compiled    7 times, average 1.06 sec, max 1.38 sec, min 0.39 sec)
+[2025.04.27-04.08.28:580][370]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2025.04.27-04.08.28:580][370]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 12.48% of total time (compiled   17 times, average 0.89 sec, max 1.35 sec, min 0.38 sec)
+[2025.04.27-04.08.28:580][370]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 10.98% of total time (compiled   17 times, average 0.79 sec, max 1.15 sec, min 0.34 sec)
+[2025.04.27-04.08.28:580][370]LogShaderCompilers: Display:                                                 FLumenCardVS - 9.36% of total time (compiled   15 times, average 0.76 sec, max 1.12 sec, min 0.34 sec)
+[2025.04.27-04.08.28:580][370]LogShaderCompilers: Display:        TBasePassPSFCachedPointIndirectLightingPolicySkylight - 6.82% of total time (compiled    7 times, average 1.18 sec, max 1.66 sec, min 0.42 sec)
+[2025.04.27-04.08.28:580][370]LogShaderCompilers: Display: TBasePassPSFPrecomputedVolumetricLightmapLightingPolicySkylight - 6.35% of total time (compiled    7 times, average 1.10 sec, max 1.51 sec, min 0.36 sec)
+[2025.04.27-04.08.28:580][370]LogShaderCompilers: Display: ================================================
+[2025.04.27-04.08.35:733][938]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/assets/Freeasset/Wooden_Crate.Wooden_Crate
+[2025.04.27-04.08.35:733][938]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/assets/Freeasset/Wooden_Crate.Wooden_Crate
+[2025.04.27-04.08.35:734][938]LogActorFactory: Actor Factory spawned StaticMesh /Game/assets/Freeasset/Wooden_Crate.Wooden_Crate as actor: StaticMeshActor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_56
+[2025.04.27-04.08.36:397][991]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/assets/Freeasset/Wooden_Crate.Wooden_Crate
+[2025.04.27-04.08.36:397][991]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/assets/Freeasset/Wooden_Crate.Wooden_Crate
+[2025.04.27-04.08.36:399][991]LogActorFactory: Actor Factory spawned StaticMesh /Game/assets/Freeasset/Wooden_Crate.Wooden_Crate as actor: StaticMeshActor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_A036BC6D4AA5E26202_1801250825
+[2025.04.27-04.08.44:825][683]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: StaticMeshComponent /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_A036BC6D4AA5E26202_1801250825.StaticMeshComponent0, from: Remove from navoctree)
+[2025.04.27-04.10.16:520][325]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 9078.008789
+[2025.04.27-04.10.16:923][360]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.04.27-04.10.16:923][360]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 9078.397461, Update Interval: 316.322510
+[2025.04.27-04.10.20:253][628]Cmd: DUPLICATE
+[2025.04.27-04.10.20:253][628]Cmd: ACTOR DUPLICATE
+[2025.04.27-04.10.41:387][394]Cmd: DUPLICATE
+[2025.04.27-04.10.41:387][394]Cmd: ACTOR DUPLICATE
+[2025.04.27-04.11.13:524][ 15]Cmd: DUPLICATE
+[2025.04.27-04.11.13:524][ 15]Cmd: ACTOR DUPLICATE
+[2025.04.27-04.11.23:204][810]Cmd: DUPLICATE
+[2025.04.27-04.11.23:204][810]Cmd: ACTOR DUPLICATE
+[2025.04.27-04.11.31:900][499]Cmd: DUPLICATE
+[2025.04.27-04.11.31:900][499]Cmd: ACTOR DUPLICATE
+[2025.04.27-04.12.07:224][292]Cmd: DUPLICATE
+[2025.04.27-04.12.07:225][292]Cmd: ACTOR DUPLICATE
+[2025.04.27-04.12.32:196][325]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2025.04.27-04.12.32:205][325]LogContentBrowser: Creating deferred item: NewFolder
+[2025.04.27-04.12.32:217][326]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2025.04.27-04.12.36:956][705]LogContentBrowser: Attempting asset rename: NewFolder -> woodenbox
+[2025.04.27-04.12.36:957][705]LogContentBrowser: End creating deferred item NewFolder
+[2025.04.27-04.12.41:011][ 39]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.04.27-04.12.42:218][ 39]LogShaderCompilers: Display: ================================================
+[2025.04.27-04.12.42:218][ 39]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2025.04.27-04.12.42:218][ 39]LogShaderCompilers: Display: Total job queries 1,458, among them cache hits 1,260 (86.42%)
+[2025.04.27-04.12.42:218][ 39]LogShaderCompilers: Display: Tracking 198 distinct input hashes that result in 114 distinct outputs (57.58%)
+[2025.04.27-04.12.42:218][ 39]LogShaderCompilers: Display: RAM used: 4.60 MiB of 409.60 MiB budget. Usage: 1.12%
+[2025.04.27-04.12.42:218][ 39]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2025.04.27-04.12.42:218][ 39]LogShaderCompilers: Display: Shaders Compiled: 164
+[2025.04.27-04.12.42:218][ 39]LogShaderCompilers: Display: Jobs assigned 164, completed 164 (100%)
+[2025.04.27-04.12.42:218][ 39]LogShaderCompilers: Display: Average time worker was idle: 171.23 s
+[2025.04.27-04.12.42:218][ 39]LogShaderCompilers: Display: Time job spent in pending queue: average 0.16 s, longest 1.63 s
+[2025.04.27-04.12.42:218][ 39]LogShaderCompilers: Display: Job execution time: average 1.11 s, max 2.45 s
+[2025.04.27-04.12.42:218][ 39]LogShaderCompilers: Display: Job life time (pending + execution): average 1.26 s, max 2.58
+[2025.04.27-04.12.42:218][ 39]LogShaderCompilers: Display: Shader code size: average 40.905 KiB, min 31.266 KiB, max 62.52 KiB
+[2025.04.27-04.12.42:218][ 39]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 44.86 s
+[2025.04.27-04.12.42:218][ 39]LogShaderCompilers: Display: Jobs were issued in 164 batches (only local compilation was used), average 1.00 jobs/batch
+[2025.04.27-04.12.42:218][ 39]LogShaderCompilers: Display: Average processing rate: 3.66 jobs/sec
+[2025.04.27-04.12.42:218][ 39]LogShaderCompilers: Display: Total thread time: 127.912 s
+[2025.04.27-04.12.42:218][ 39]LogShaderCompilers: Display: Total thread preprocess time: 15.444 s
+[2025.04.27-04.12.42:218][ 39]LogShaderCompilers: Display: Percentage time preprocessing: 12.07%
+[2025.04.27-04.12.42:218][ 39]LogShaderCompilers: Display: Effective parallelization: 2.85 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2025.04.27-04.12.42:218][ 39]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2025.04.27-04.12.42:218][ 39]LogShaderCompilers: Display:        TBasePassPSFCachedPointIndirectLightingPolicySkylight (compiled    8 times, average 1.10 sec, max 1.66 sec, min 0.42 sec)
+[2025.04.27-04.12.42:218][ 39]LogShaderCompilers: Display: TBasePassPSFPrecomputedVolumetricLightmapLightingPolicySkylight (compiled    8 times, average 1.02 sec, max 1.51 sec, min 0.36 sec)
+[2025.04.27-04.12.42:218][ 39]LogShaderCompilers: Display:       TBasePassPSFCachedVolumeIndirectLightingPolicySkylight (compiled    8 times, average 1.02 sec, max 1.46 sec, min 0.44 sec)
+[2025.04.27-04.12.42:218][ 39]LogShaderCompilers: Display:               TBasePassPSFCachedVolumeIndirectLightingPolicy (compiled    8 times, average 0.99 sec, max 1.42 sec, min 0.41 sec)
+[2025.04.27-04.12.42:218][ 39]LogShaderCompilers: Display:                TBasePassPSFCachedPointIndirectLightingPolicy (compiled    8 times, average 0.99 sec, max 1.38 sec, min 0.39 sec)
+[2025.04.27-04.12.42:218][ 39]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2025.04.27-04.12.42:218][ 39]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 12.30% of total time (compiled   18 times, average 0.87 sec, max 1.35 sec, min 0.38 sec)
+[2025.04.27-04.12.42:218][ 39]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 10.84% of total time (compiled   18 times, average 0.77 sec, max 1.15 sec, min 0.34 sec)
+[2025.04.27-04.12.42:218][ 39]LogShaderCompilers: Display:                                                 FLumenCardVS - 9.30% of total time (compiled   16 times, average 0.74 sec, max 1.12 sec, min 0.34 sec)
+[2025.04.27-04.12.42:218][ 39]LogShaderCompilers: Display:        TBasePassPSFCachedPointIndirectLightingPolicySkylight - 6.87% of total time (compiled    8 times, average 1.10 sec, max 1.66 sec, min 0.42 sec)
+[2025.04.27-04.12.42:219][ 39]LogShaderCompilers: Display: TBasePassPSFPrecomputedVolumetricLightmapLightingPolicySkylight - 6.41% of total time (compiled    8 times, average 1.02 sec, max 1.51 sec, min 0.36 sec)
+[2025.04.27-04.12.42:219][ 39]LogShaderCompilers: Display: ================================================
+[2025.04.27-04.12.42:280][ 39]LogSavePackage: Moving output files for package: /Game/assets/Freeasset/woodenbox/Material_001
+[2025.04.27-04.12.42:280][ 39]LogSavePackage: Moving '../../../../../../Users/Microsoft/Documents/GitHub/LDA-new/LDAnew/Saved/Material_00183E5F9054B776DD25C060491F3A1F2C9.tmp' to '../../../../../../Users/Microsoft/Documents/GitHub/LDA-new/LDAnew/Content/assets/Freeasset/woodenbox/Material_001.uasset'
+[2025.04.27-04.12.42:295][ 39]LogSavePackage: Moving output files for package: /Game/assets/Freeasset/woodenbox/Wooden_Crate
+[2025.04.27-04.12.42:295][ 39]LogSavePackage: Moving '../../../../../../Users/Microsoft/Documents/GitHub/LDA-new/LDAnew/Saved/Wooden_Crate0524397A450BA7BCCFAB1CA0CB0BCD79.tmp' to '../../../../../../Users/Microsoft/Documents/GitHub/LDA-new/LDAnew/Content/assets/Freeasset/woodenbox/Wooden_Crate.uasset'
+[2025.04.27-04.12.42:403][ 39]LogSavePackage: Moving output files for package: /Game/assets/Freeasset/woodenbox/Wooden_Crate_Crate_BaseColor
+[2025.04.27-04.12.42:403][ 39]LogSavePackage: Moving '../../../../../../Users/Microsoft/Documents/GitHub/LDA-new/LDAnew/Saved/Wooden_Crate_Crate_BaseColorB189EF8C4916525C8487B7A3E59450AD.tmp' to '../../../../../../Users/Microsoft/Documents/GitHub/LDA-new/LDAnew/Content/assets/Freeasset/woodenbox/Wooden_Crate_Crate_BaseColor.uasset'
+[2025.04.27-04.12.42:525][ 39]LogSavePackage: Moving output files for package: /Game/assets/Freeasset/woodenbox/Wooden_Crate_Crate_Normal
+[2025.04.27-04.12.42:525][ 39]LogSavePackage: Moving '../../../../../../Users/Microsoft/Documents/GitHub/LDA-new/LDAnew/Saved/Wooden_Crate_Crate_Normal7420CE124AF02B71828407A9A9947CD5.tmp' to '../../../../../../Users/Microsoft/Documents/GitHub/LDA-new/LDAnew/Content/assets/Freeasset/woodenbox/Wooden_Crate_Crate_Normal.uasset'
+[2025.04.27-04.12.42:551][ 39]LogSavePackage: Moving output files for package: /Game/assets/Freeasset/woodenbox/Wooden_Crate_Crate_Roughness
+[2025.04.27-04.12.42:551][ 39]LogSavePackage: Moving '../../../../../../Users/Microsoft/Documents/GitHub/LDA-new/LDAnew/Saved/Wooden_Crate_Crate_Roughness09F9590E46B27730637C14A2DDE871CA.tmp' to '../../../../../../Users/Microsoft/Documents/GitHub/LDA-new/LDAnew/Content/assets/Freeasset/woodenbox/Wooden_Crate_Crate_Roughness.uasset'
+[2025.04.27-04.12.42:559][ 39]LogFileHelpers: InternalPromptForCheckoutAndSave took 1.54 sec (total: 20.4 sec)
+[2025.04.27-04.12.42:585][ 39]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2025.04.27-04.12.42:596][ 39]LogUObjectHash: Compacting FUObjectHashTables data took   0.46ms
+[2025.04.27-04.12.42:602][ 39]LogUObjectHash: Compacting FUObjectHashTables data took   0.25ms
+[2025.04.27-04.12.42:625][ 39]AssetCheck: New page: Asset Save: multiple assets
+[2025.04.27-04.12.42:625][ 39]LogContentValidation: Display: Validating /Script/Engine.Material /Game/assets/Freeasset/woodenbox/Material_001.Material_001
+[2025.04.27-04.12.42:625][ 39]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/assets/Freeasset/woodenbox/Wooden_Crate.Wooden_Crate
+[2025.04.27-04.12.42:625][ 39]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/assets/Freeasset/woodenbox/Wooden_Crate_Crate_BaseColor.Wooden_Crate_Crate_BaseColor
+[2025.04.27-04.12.42:625][ 39]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/assets/Freeasset/woodenbox/Wooden_Crate_Crate_Normal.Wooden_Crate_Crate_Normal
+[2025.04.27-04.12.42:625][ 39]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/assets/Freeasset/woodenbox/Wooden_Crate_Crate_Roughness.Wooden_Crate_Crate_Roughness
+[2025.04.27-04.13.11:143][703]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2025.04.27-04.13.11:147][703]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/D/RL/PWW6QJ4UFX23CK3ZW3T9UD_Auto4
+[2025.04.27-04.13.11:147][703]LogSavePackage: Moving '../../../../../../Users/Microsoft/Documents/GitHub/LDA-new/LDAnew/Saved/PWW6QJ4UFX23CK3ZW3T9UD_Auto408248C34433799EC8C8F908EC224042D.tmp' to '../../../../../../Users/Microsoft/Documents/GitHub/LDA-new/LDAnew/Saved/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/D/RL/PWW6QJ4UFX23CK3ZW3T9UD_Auto4.uasset'
+[2025.04.27-04.13.11:151][703]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/4/QD/VRWVKX7EO364911HHQ5KYW_Auto4
+[2025.04.27-04.13.11:151][703]LogSavePackage: Moving '../../../../../../Users/Microsoft/Documents/GitHub/LDA-new/LDAnew/Saved/VRWVKX7EO364911HHQ5KYW_Auto4BC06EB76434A05E19A9B50AE55C80943.tmp' to '../../../../../../Users/Microsoft/Documents/GitHub/LDA-new/LDAnew/Saved/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/4/QD/VRWVKX7EO364911HHQ5KYW_Auto4.uasset'
+[2025.04.27-04.13.11:153][703]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/1/Z9/4TD2YIH0P2NYNH7SRNFXUP_Auto4
+[2025.04.27-04.13.11:153][703]LogSavePackage: Moving '../../../../../../Users/Microsoft/Documents/GitHub/LDA-new/LDAnew/Saved/4TD2YIH0P2NYNH7SRNFXUP_Auto4BC615D9D457CA4021B322BBFE8AB29B1.tmp' to '../../../../../../Users/Microsoft/Documents/GitHub/LDA-new/LDAnew/Saved/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/1/Z9/4TD2YIH0P2NYNH7SRNFXUP_Auto4.uasset'
+[2025.04.27-04.13.11:157][703]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/6/UN/XIKGULLANK1S83LJUJEWGZ_Auto4
+[2025.04.27-04.13.11:157][703]LogSavePackage: Moving '../../../../../../Users/Microsoft/Documents/GitHub/LDA-new/LDAnew/Saved/XIKGULLANK1S83LJUJEWGZ_Auto4C0ECC75B4D0B371FD102A9B414F3AF15.tmp' to '../../../../../../Users/Microsoft/Documents/GitHub/LDA-new/LDAnew/Saved/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/6/UN/XIKGULLANK1S83LJUJEWGZ_Auto4.uasset'
+[2025.04.27-04.13.11:160][703]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/4/YV/46E4OSJIPW8U1AU3K3F7JF_Auto4
+[2025.04.27-04.13.11:160][703]LogSavePackage: Moving '../../../../../../Users/Microsoft/Documents/GitHub/LDA-new/LDAnew/Saved/46E4OSJIPW8U1AU3K3F7JF_Auto491934E1C45ED60589B2FBF94C0E9295E.tmp' to '../../../../../../Users/Microsoft/Documents/GitHub/LDA-new/LDAnew/Saved/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/4/YV/46E4OSJIPW8U1AU3K3F7JF_Auto4.uasset'
+[2025.04.27-04.13.11:163][703]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/2/FV/8CAJ4ZYTCKK1ABL1WH3COW_Auto4
+[2025.04.27-04.13.11:163][703]LogSavePackage: Moving '../../../../../../Users/Microsoft/Documents/GitHub/LDA-new/LDAnew/Saved/8CAJ4ZYTCKK1ABL1WH3COW_Auto467402D6C4F37B43772C6978CCD7BC5CB.tmp' to '../../../../../../Users/Microsoft/Documents/GitHub/LDA-new/LDAnew/Saved/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/2/FV/8CAJ4ZYTCKK1ABL1WH3COW_Auto4.uasset'
+[2025.04.27-04.13.11:166][703]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/A/MA/WBCAUDBSRPT7XTMUOBXCFS_Auto4
+[2025.04.27-04.13.11:166][703]LogSavePackage: Moving '../../../../../../Users/Microsoft/Documents/GitHub/LDA-new/LDAnew/Saved/WBCAUDBSRPT7XTMUOBXCFS_Auto4830303C14C02DF29BF2D2FB44739BF53.tmp' to '../../../../../../Users/Microsoft/Documents/GitHub/LDA-new/LDAnew/Saved/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/A/MA/WBCAUDBSRPT7XTMUOBXCFS_Auto4.uasset'
+[2025.04.27-04.13.11:170][703]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/6/HR/G21XZZPP8J29SC3YEHKGMN_Auto4
+[2025.04.27-04.13.11:170][703]LogSavePackage: Moving '../../../../../../Users/Microsoft/Documents/GitHub/LDA-new/LDAnew/Saved/G21XZZPP8J29SC3YEHKGMN_Auto443E9B1EB427C8A475AF6A28F9F62F31C.tmp' to '../../../../../../Users/Microsoft/Documents/GitHub/LDA-new/LDAnew/Saved/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/6/HR/G21XZZPP8J29SC3YEHKGMN_Auto4.uasset'
+[2025.04.27-04.13.11:173][703]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/E/E5/JK9WXVOFF9D48MO3JJZLNJ_Auto4
+[2025.04.27-04.13.11:174][703]LogSavePackage: Moving '../../../../../../Users/Microsoft/Documents/GitHub/LDA-new/LDAnew/Saved/JK9WXVOFF9D48MO3JJZLNJ_Auto4E1F1F1C3489322242330448ACCA1CC21.tmp' to '../../../../../../Users/Microsoft/Documents/GitHub/LDA-new/LDAnew/Saved/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/E/E5/JK9WXVOFF9D48MO3JJZLNJ_Auto4.uasset'
+[2025.04.27-04.13.11:178][703]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/9/OP/NA62VLLESAE2V2E6KMF9LU_Auto4
+[2025.04.27-04.13.11:178][703]LogSavePackage: Moving '../../../../../../Users/Microsoft/Documents/GitHub/LDA-new/LDAnew/Saved/NA62VLLESAE2V2E6KMF9LU_Auto40DE2903840AC14E83850BE9FB4AD1F1C.tmp' to '../../../../../../Users/Microsoft/Documents/GitHub/LDA-new/LDAnew/Saved/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/9/OP/NA62VLLESAE2V2E6KMF9LU_Auto4.uasset'
+[2025.04.27-04.13.11:179][703]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FirstPerson/Maps/FirstPersonMap' took 0.046
+[2025.04.27-04.13.11:179][703]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.046
+[2025.04.27-04.13.31:672][790]LogAssetTools: Warning: Failed to import 'C:\Users\Microsoft\Downloads\je46sthtl3i8-Boxes\Boxes and Barrels\Boxes.c4d'. Unknown extension 'c4d'.
+[2025.04.27-04.13.51:031][891]LogInterchangeEngine: [Pending] Importing
+[2025.04.27-04.13.51:031][891]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/Microsoft/D...es/Boxes and Barrels/Boxes.png]
+[2025.04.27-04.13.51:070][892]LogInterchangeEngine: [Pending] Importing
+[2025.04.27-04.13.51:343][892]LogCore: PNG has complex alpha channel, will not fill RGB in transparent background, due to setting PNGInfill == OnlyOnBinaryTransparency
+[2025.04.27-04.13.51:390][893]LogTexture: Display: Building textures: /Game/assets/Freeasset/Boxes.Boxes (TFO_AutoDXT, 2560x1920 x1x1x1) (Required Memory Estimate: 356.3125 MB), EncodeSpeed: Fast
+[2025.04.27-04.13.51:716][893]LogInterchangeEngine: [Success] Import Done
+[2025.04.27-04.13.51:748][894]LogInterchangeEngine: [Success] Import Done
+[2025.04.27-04.13.54:964][918]LogActorFactory: Loading ActorFactory Class /Script/Engine.LevelInstance
+[2025.04.27-04.13.58:316][ 89]Cmd: TRANSACTION UNDO
+[2025.04.27-04.13.58:317][ 89]LogEditorTransaction: Undo Create Actors
+[2025.04.27-04.14.04:178][468]LogUObjectHash: Compacting FUObjectHashTables data took   0.95ms
+[2025.04.27-04.14.05:008][468]LogSlate: Window 'Delete Assets' being destroyed
+[2025.04.27-04.14.05:066][468]LogWorldPartition: Actor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_A036BC6D4AA5DF6202_2118921238 is unreachable without properly detaching object /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/9/7E/TJMIJEX0LCHBY65RIQNIMQ.PackageMetaData in its package
+[2025.04.27-04.14.05:066][468]LogWorldPartition: Actor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_A036BC6D4AA5DF6202_2118896237 is unreachable without properly detaching object /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/0/A7/4RZOZEHAX2GQ4J8V7M5C2V.PackageMetaData in its package
+[2025.04.27-04.14.05:066][468]LogWorldPartition: Actor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_A036BC6D4AA5DF6202_2118870236 is unreachable without properly detaching object /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/2/MQ/YVZJSNCZEWGLOGZ4WCZ3TU.PackageMetaData in its package
+[2025.04.27-04.14.05:066][468]LogWorldPartition: Actor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_A036BC6D4AA5DF6202_2118843235 is unreachable without properly detaching object /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/6/5F/UU5LHQF8JN8TK276M6CA6C.PackageMetaData in its package
+[2025.04.27-04.14.05:066][468]LogWorldPartition: Actor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_A036BC6D4AA5DF6202_2118818234 is unreachable without properly detaching object /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/8/PN/W5SDNF8JT0PPWMP5DWAMYS.PackageMetaData in its package
+[2025.04.27-04.14.05:066][468]LogWorldPartition: Actor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_A036BC6D4AA5DF6202_2118791233 is unreachable without properly detaching object /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/4/QE/JA02SI4KPBEMA8TRTHTFUQ.PackageMetaData in its package
+[2025.04.27-04.14.05:066][468]LogWorldPartition: Actor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_A036BC6D4AA5DF6202_2118764232 is unreachable without properly detaching object /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/C/DL/9GFOGQCZSZYIV7S8Y2OQVM.PackageMetaData in its package
+[2025.04.27-04.14.05:066][468]LogWorldPartition: Actor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_A036BC6D4AA5DF6202_2118728231 is unreachable without properly detaching object /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/C/15/2PO8HZGSOHEGFZZJXOKAMW.PackageMetaData in its package
+[2025.04.27-04.14.05:077][468]LogUObjectHash: Compacting FUObjectHashTables data took   1.03ms
+[2025.04.27-04.14.05:086][468]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2025.04.27-04.14.05:093][468]LogUObjectHash: Compacting FUObjectHashTables data took   0.39ms
+[2025.04.27-04.14.05:110][468]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2025.04.27-04.16.05:966][954]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 9427.415039
+[2025.04.27-04.16.06:966][957]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.04.27-04.16.06:966][957]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 9428.083008, Update Interval: 357.103180
+[2025.04.27-04.17.02:809][125]LogSlate: Window 'Interchange Pipeline Configuration (Import Content)' being destroyed
+[2025.04.27-04.17.02:827][125]LogInterchangeEngine: [Pending] Importing
+[2025.04.27-04.17.02:827][125]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/Microsoft/D...93-8028-5285a83f8a85/14029_Plastic_Fruit_Crate_v1_L1.obj]
+[2025.04.27-04.17.02:846][126]LogTemp: Warning: Interchange Obj translator: Unexpected extra arguments on vt keyword
+[2025.04.27-04.17.02:847][126]LogTemp: Display: Interchange Obj translator: Unknown keyword: s
+[2025.04.27-04.17.02:903][126]LogInterchangeEngine: [Pending] Importing
+[2025.04.27-04.17.02:988][128]LogTexture: Display: Building textures: /Game/assets/Freeasset/TEX_14029_plastic_fruit_crate_diff.TEX_14029_plastic_fruit_crate_diff (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 101.645823 MB), EncodeSpeed: Fast
+[2025.04.27-04.17.03:019][128]LogRendererCore: Warning: FlushRenderingCommands called recursively! 2 calls on the stack.
+[2025.04.27-04.17.03:043][128]LogRendererCore: Warning: FlushRenderingCommands called recursively! 2 calls on the stack.
+[2025.04.27-04.17.03:048][128]LogStaticMesh: Display: Building static mesh 14029_Plastic_Fruit_Crate_v1_L1...
+[2025.04.27-04.17.03:064][128]LogInterchangeEngine: [Success] Import Done
+[2025.04.27-04.17.03:089][128]LogStaticMesh: Built static mesh [0.04s] /Game/assets/Freeasset/14029_Plastic_Fruit_Crate_v1_L1.14029_Plastic_Fruit_Crate_v1_L1
+[2025.04.27-04.17.03:185][129]LogInterchangeEngine: [Success] Import Done
+[2025.04.27-04.17.04:734][228]LogShaderCompilers: Display: ================================================
+[2025.04.27-04.17.04:734][228]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2025.04.27-04.17.04:734][228]LogShaderCompilers: Display: Total job queries 1,478, among them cache hits 1,260 (85.25%)
+[2025.04.27-04.17.04:734][228]LogShaderCompilers: Display: Tracking 215 distinct input hashes that result in 115 distinct outputs (53.49%)
+[2025.04.27-04.17.04:734][228]LogShaderCompilers: Display: RAM used: 5.01 MiB of 409.60 MiB budget. Usage: 1.22%
+[2025.04.27-04.17.04:734][228]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2025.04.27-04.17.04:734][228]LogShaderCompilers: Display: Shaders Compiled: 181
+[2025.04.27-04.17.04:734][228]LogShaderCompilers: Display: Jobs assigned 184, completed 181 (98.37%)
+[2025.04.27-04.17.04:734][228]LogShaderCompilers: Display: Average time worker was idle: 159.38 s
+[2025.04.27-04.17.04:734][228]LogShaderCompilers: Display: Time job spent in pending queue: average 0.18 s, longest 1.63 s
+[2025.04.27-04.17.04:734][228]LogShaderCompilers: Display: Job execution time: average 1.06 s, max 2.45 s
+[2025.04.27-04.17.04:734][228]LogShaderCompilers: Display: Job life time (pending + execution): average 1.24 s, max 2.58
+[2025.04.27-04.17.04:734][228]LogShaderCompilers: Display: Shader code size: average 41.016 KiB, min 31.266 KiB, max 62.52 KiB
+[2025.04.27-04.17.04:734][228]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 46.75 s
+[2025.04.27-04.17.04:734][228]LogShaderCompilers: Display: Jobs were issued in 184 batches (only local compilation was used), average 1.00 jobs/batch
+[2025.04.27-04.17.04:734][228]LogShaderCompilers: Display: Average processing rate: 3.87 jobs/sec
+[2025.04.27-04.17.04:734][228]LogShaderCompilers: Display: Total thread time: 134.653 s
+[2025.04.27-04.17.04:734][228]LogShaderCompilers: Display: Total thread preprocess time: 16.056 s
+[2025.04.27-04.17.04:734][228]LogShaderCompilers: Display: Percentage time preprocessing: 11.92%
+[2025.04.27-04.17.04:734][228]LogShaderCompilers: Display: Effective parallelization: 2.88 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2025.04.27-04.17.04:734][228]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2025.04.27-04.17.04:734][228]LogShaderCompilers: Display:        TBasePassPSFCachedPointIndirectLightingPolicySkylight (compiled    9 times, average 1.03 sec, max 1.66 sec, min 0.42 sec)
+[2025.04.27-04.17.04:734][228]LogShaderCompilers: Display: TBasePassPSFPrecomputedVolumetricLightmapLightingPolicySkylight (compiled    9 times, average 0.96 sec, max 1.51 sec, min 0.36 sec)
+[2025.04.27-04.17.04:734][228]LogShaderCompilers: Display:       TBasePassPSFCachedVolumeIndirectLightingPolicySkylight (compiled    9 times, average 0.96 sec, max 1.46 sec, min 0.44 sec)
+[2025.04.27-04.17.04:734][228]LogShaderCompilers: Display:               TBasePassPSFCachedVolumeIndirectLightingPolicy (compiled    9 times, average 0.93 sec, max 1.42 sec, min 0.41 sec)
+[2025.04.27-04.17.04:734][228]LogShaderCompilers: Display:                TBasePassPSFCachedPointIndirectLightingPolicy (compiled    9 times, average 0.93 sec, max 1.38 sec, min 0.39 sec)
+[2025.04.27-04.17.04:734][228]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2025.04.27-04.17.04:734][228]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 12.01% of total time (compiled   19 times, average 0.85 sec, max 1.35 sec, min 0.38 sec)
+[2025.04.27-04.17.04:734][228]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 10.59% of total time (compiled   19 times, average 0.75 sec, max 1.15 sec, min 0.34 sec)
+[2025.04.27-04.17.04:734][228]LogShaderCompilers: Display:                                                 FLumenCardVS - 9.13% of total time (compiled   17 times, average 0.72 sec, max 1.12 sec, min 0.34 sec)
+[2025.04.27-04.17.04:734][228]LogShaderCompilers: Display:        TBasePassPSFCachedPointIndirectLightingPolicySkylight - 6.91% of total time (compiled    9 times, average 1.03 sec, max 1.66 sec, min 0.42 sec)
+[2025.04.27-04.17.04:734][228]LogShaderCompilers: Display: TBasePassPSFPrecomputedVolumetricLightmapLightingPolicySkylight - 6.44% of total time (compiled    9 times, average 0.96 sec, max 1.51 sec, min 0.36 sec)
+[2025.04.27-04.17.04:734][228]LogShaderCompilers: Display: ================================================
+[2025.04.27-04.17.07:619][413]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/assets/Freeasset/14029_Plastic_Fruit_Crate_v1_L1.14029_Plastic_Fruit_Crate_v1_L1
+[2025.04.27-04.17.07:619][413]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/assets/Freeasset/14029_Plastic_Fruit_Crate_v1_L1.14029_Plastic_Fruit_Crate_v1_L1
+[2025.04.27-04.17.07:620][413]LogActorFactory: Actor Factory spawned StaticMesh /Game/assets/Freeasset/14029_Plastic_Fruit_Crate_v1_L1.14029_Plastic_Fruit_Crate_v1_L1 as actor: StaticMeshActor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_57
+[2025.04.27-04.17.08:178][463]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/assets/Freeasset/14029_Plastic_Fruit_Crate_v1_L1.14029_Plastic_Fruit_Crate_v1_L1
+[2025.04.27-04.17.08:178][463]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/assets/Freeasset/14029_Plastic_Fruit_Crate_v1_L1.14029_Plastic_Fruit_Crate_v1_L1
+[2025.04.27-04.17.08:179][463]LogActorFactory: Actor Factory spawned StaticMesh /Game/assets/Freeasset/14029_Plastic_Fruit_Crate_v1_L1.14029_Plastic_Fruit_Crate_v1_L1 as actor: StaticMeshActor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_A036BC6D4AA5E36202_1239290008
+[2025.04.27-04.17.26:058][913]Cmd: TRANSACTION UNDO
+[2025.04.27-04.17.26:058][913]LogEditorTransaction: Undo Move Elements
+[2025.04.27-04.18.06:467][ 93]Cmd: TRANSACTION UNDO
+[2025.04.27-04.18.06:467][ 93]LogEditorTransaction: Undo Move Elements
+[2025.04.27-04.19.50:625][ 26]Cmd: TRANSACTION UNDO
+[2025.04.27-04.19.50:625][ 26]LogEditorTransaction: Undo Set Location
+[2025.04.27-04.21.25:889][360]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2025.04.27-04.21.25:904][360]LogContentBrowser: Creating deferred item: NewFolder
+[2025.04.27-04.21.25:914][361]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2025.04.27-04.21.33:151][163]LogContentBrowser: Attempting asset rename: NewFolder -> plasticCrate
+[2025.04.27-04.21.33:152][163]LogContentBrowser: End creating deferred item NewFolder
+[2025.04.27-04.21.37:185][475]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.04.27-04.21.37:302][475]LogSavePackage: Moving output files for package: /Game/assets/Freeasset/plasticCrate/14029_Plastic_Fruit_Crate_v1_L1
+[2025.04.27-04.21.37:302][475]LogSavePackage: Moving '../../../../../../Users/Microsoft/Documents/GitHub/LDA-new/LDAnew/Saved/14029_Plastic_Fruit_Crate_v1_L1E8BAD88E4C80F06B405CD0B45199904C.tmp' to '../../../../../../Users/Microsoft/Documents/GitHub/LDA-new/LDAnew/Content/assets/Freeasset/plasticCrate/14029_Plastic_Fruit_Crate_v1_L1.uasset'
+[2025.04.27-04.21.38:343][475]LogShaderCompilers: Display: ================================================
+[2025.04.27-04.21.38:343][475]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2025.04.27-04.21.38:343][475]LogShaderCompilers: Display: Total job queries 1,490, among them cache hits 1,260 (84.56%)
+[2025.04.27-04.21.38:343][475]LogShaderCompilers: Display: Tracking 230 distinct input hashes that result in 124 distinct outputs (53.91%)
+[2025.04.27-04.21.38:343][475]LogShaderCompilers: Display: RAM used: 5.38 MiB of 409.60 MiB budget. Usage: 1.31%
+[2025.04.27-04.21.38:344][475]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2025.04.27-04.21.38:344][475]LogShaderCompilers: Display: Shaders Compiled: 196
+[2025.04.27-04.21.38:344][475]LogShaderCompilers: Display: Jobs assigned 196, completed 196 (100%)
+[2025.04.27-04.21.38:344][475]LogShaderCompilers: Display: Average time worker was idle: 164.80 s
+[2025.04.27-04.21.38:344][475]LogShaderCompilers: Display: Time job spent in pending queue: average 0.18 s, longest 1.63 s
+[2025.04.27-04.21.38:344][475]LogShaderCompilers: Display: Job execution time: average 1.02 s, max 2.45 s
+[2025.04.27-04.21.38:344][475]LogShaderCompilers: Display: Job life time (pending + execution): average 1.20 s, max 2.58
+[2025.04.27-04.21.38:344][475]LogShaderCompilers: Display: Shader code size: average 41.212 KiB, min 31.266 KiB, max 62.52 KiB
+[2025.04.27-04.21.38:344][475]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 47.98 s
+[2025.04.27-04.21.38:344][475]LogShaderCompilers: Display: Jobs were issued in 196 batches (only local compilation was used), average 1.00 jobs/batch
+[2025.04.27-04.21.38:344][475]LogShaderCompilers: Display: Average processing rate: 4.08 jobs/sec
+[2025.04.27-04.21.38:344][475]LogShaderCompilers: Display: Total thread time: 140.048 s
+[2025.04.27-04.21.38:344][475]LogShaderCompilers: Display: Total thread preprocess time: 16.734 s
+[2025.04.27-04.21.38:344][475]LogShaderCompilers: Display: Percentage time preprocessing: 11.95%
+[2025.04.27-04.21.38:344][475]LogShaderCompilers: Display: Effective parallelization: 2.92 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2025.04.27-04.21.38:344][475]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2025.04.27-04.21.38:344][475]LogShaderCompilers: Display:        TBasePassPSFCachedPointIndirectLightingPolicySkylight (compiled   10 times, average 0.98 sec, max 1.66 sec, min 0.42 sec)
+[2025.04.27-04.21.38:344][475]LogShaderCompilers: Display: TBasePassPSFPrecomputedVolumetricLightmapLightingPolicySkylight (compiled   10 times, average 0.91 sec, max 1.51 sec, min 0.36 sec)
+[2025.04.27-04.21.38:344][475]LogShaderCompilers: Display:       TBasePassPSFCachedVolumeIndirectLightingPolicySkylight (compiled   10 times, average 0.91 sec, max 1.46 sec, min 0.44 sec)
+[2025.04.27-04.21.38:344][475]LogShaderCompilers: Display:               TBasePassPSFCachedVolumeIndirectLightingPolicy (compiled   10 times, average 0.89 sec, max 1.42 sec, min 0.41 sec)
+[2025.04.27-04.21.38:344][475]LogShaderCompilers: Display:                TBasePassPSFCachedPointIndirectLightingPolicy (compiled   10 times, average 0.88 sec, max 1.38 sec, min 0.39 sec)
+[2025.04.27-04.21.38:344][475]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2025.04.27-04.21.38:344][475]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 11.81% of total time (compiled   20 times, average 0.83 sec, max 1.35 sec, min 0.36 sec)
+[2025.04.27-04.21.38:344][475]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 10.43% of total time (compiled   20 times, average 0.73 sec, max 1.15 sec, min 0.34 sec)
+[2025.04.27-04.21.38:344][475]LogShaderCompilers: Display:                                                 FLumenCardVS - 9.02% of total time (compiled   18 times, average 0.70 sec, max 1.12 sec, min 0.34 sec)
+[2025.04.27-04.21.38:344][475]LogShaderCompilers: Display:        TBasePassPSFCachedPointIndirectLightingPolicySkylight - 6.99% of total time (compiled   10 times, average 0.98 sec, max 1.66 sec, min 0.42 sec)
+[2025.04.27-04.21.38:344][475]LogShaderCompilers: Display: TBasePassPSFPrecomputedVolumetricLightmapLightingPolicySkylight - 6.51% of total time (compiled   10 times, average 0.91 sec, max 1.51 sec, min 0.36 sec)
+[2025.04.27-04.21.38:344][475]LogShaderCompilers: Display: ================================================
+[2025.04.27-04.21.38:358][475]LogSavePackage: Moving output files for package: /Game/assets/Freeasset/plasticCrate/_14029_plastic_fruit_crate_v1_L114029_plastic_fruit_crate
+[2025.04.27-04.21.38:358][475]LogSavePackage: Moving '../../../../../../Users/Microsoft/Documents/GitHub/LDA-new/LDAnew/Saved/_14029_plastic_fruit_crate_v1_L1EADC54A64B05C96A118BAAB52B23DB99.tmp' to '../../../../../../Users/Microsoft/Documents/GitHub/LDA-new/LDAnew/Content/assets/Freeasset/plasticCrate/_14029_plastic_fruit_crate_v1_L114029_plastic_fruit_crate.uasset'
+[2025.04.27-04.21.38:396][475]LogSavePackage: Moving output files for package: /Game/assets/Freeasset/plasticCrate/TEX_14029_plastic_fruit_crate_diff
+[2025.04.27-04.21.38:396][475]LogSavePackage: Moving '../../../../../../Users/Microsoft/Documents/GitHub/LDA-new/LDAnew/Saved/TEX_14029_plastic_fruit_crate_di9AAB02A741A6081243D9419E12AAF97D.tmp' to '../../../../../../Users/Microsoft/Documents/GitHub/LDA-new/LDAnew/Content/assets/Freeasset/plasticCrate/TEX_14029_plastic_fruit_crate_diff.uasset'
+[2025.04.27-04.21.38:406][475]LogFileHelpers: InternalPromptForCheckoutAndSave took 1.22 sec (total: 21.6 sec)
+[2025.04.27-04.21.38:432][475]LogUObjectHash: Compacting FUObjectHashTables data took   1.99ms
+[2025.04.27-04.21.38:443][475]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2025.04.27-04.21.38:448][475]LogUObjectHash: Compacting FUObjectHashTables data took   0.30ms
+[2025.04.27-04.21.38:477][475]AssetCheck: New page: Asset Save: multiple assets
+[2025.04.27-04.21.38:478][475]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/assets/Freeasset/plasticCrate/14029_Plastic_Fruit_Crate_v1_L1.14029_Plastic_Fruit_Crate_v1_L1
+[2025.04.27-04.21.38:478][475]LogContentValidation: Display: Validating /Script/Engine.Material /Game/assets/Freeasset/plasticCrate/_14029_plastic_fruit_crate_v1_L114029_plastic_fruit_crate._14029_plastic_fruit_crate_v1_L114029_plastic_fruit_crate
+[2025.04.27-04.21.38:478][475]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/assets/Freeasset/plasticCrate/TEX_14029_plastic_fruit_crate_diff.TEX_14029_plastic_fruit_crate_diff
+[2025.04.27-04.22.22:903][743]LogSlate: Window 'Interchange Pipeline Configuration (Import Content)' being destroyed
+[2025.04.27-04.22.22:916][743]LogInterchangeEngine: [Pending] Importing
+[2025.04.27-04.22.22:916][743]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/Microsoft/D...53-8a83-31c0a8ab7ec4/14028_Wood_Fruit_Crate_SG_v2_L1.obj]
+[2025.04.27-04.22.22:976][744]LogInterchangeEngine: [Pending] Importing
+[2025.04.27-04.22.23:047][746]LogTexture: Display: Building textures: /Game/assets/Freeasset/TEX_14028_wood_fruit_crate_diff.TEX_14028_wood_fruit_crate_diff (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 101.645823 MB), EncodeSpeed: Fast
+[2025.04.27-04.22.23:088][746]LogTexture: Display: Building textures: /Game/assets/Freeasset/TEX_14028_wood_fruit_crate_bump.TEX_14028_wood_fruit_crate_bump (TFO_BC5, 1024x1024 x1x1x1) (Required Memory Estimate: 168.562488 MB), EncodeSpeed: Fast
+[2025.04.27-04.22.23:123][746]LogRendererCore: Warning: FlushRenderingCommands called recursively! 2 calls on the stack.
+[2025.04.27-04.22.23:135][746]LogRendererCore: Warning: FlushRenderingCommands called recursively! 2 calls on the stack.
+[2025.04.27-04.22.23:140][746]LogStaticMesh: Display: Building static mesh 14028_Wood_Fruit_Crate_SG_v2_L1...
+[2025.04.27-04.22.23:149][746]LogStaticMesh: Built static mesh [0.01s] /Game/assets/Freeasset/14028_Wood_Fruit_Crate_SG_v2_L1.14028_Wood_Fruit_Crate_SG_v2_L1
+[2025.04.27-04.22.23:165][746]LogInterchangeEngine: [Success] Import Done
+[2025.04.27-04.22.23:284][747]LogInterchangeEngine: [Success] Import Done
+[2025.04.27-04.22.26:955][994]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/assets/Freeasset/14028_Wood_Fruit_Crate_SG_v2_L1.14028_Wood_Fruit_Crate_SG_v2_L1
+[2025.04.27-04.22.26:955][994]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/assets/Freeasset/14028_Wood_Fruit_Crate_SG_v2_L1.14028_Wood_Fruit_Crate_SG_v2_L1
+[2025.04.27-04.22.26:956][994]LogActorFactory: Actor Factory spawned StaticMesh /Game/assets/Freeasset/14028_Wood_Fruit_Crate_SG_v2_L1.14028_Wood_Fruit_Crate_SG_v2_L1 as actor: StaticMeshActor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_58
+[2025.04.27-04.22.27:478][ 37]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/assets/Freeasset/14028_Wood_Fruit_Crate_SG_v2_L1.14028_Wood_Fruit_Crate_SG_v2_L1
+[2025.04.27-04.22.27:478][ 37]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/assets/Freeasset/14028_Wood_Fruit_Crate_SG_v2_L1.14028_Wood_Fruit_Crate_SG_v2_L1
+[2025.04.27-04.22.27:480][ 37]LogActorFactory: Actor Factory spawned StaticMesh /Game/assets/Freeasset/14028_Wood_Fruit_Crate_SG_v2_L1.14028_Wood_Fruit_Crate_SG_v2_L1 as actor: StaticMeshActor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_A036BC6D4AA5E36202_1558590009
+[2025.04.27-04.22.35:850][719]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 9817.219727
+[2025.04.27-04.22.36:168][746]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.04.27-04.22.36:168][746]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 9817.524414, Update Interval: 344.435547
+[2025.04.27-04.23.17:541][255]Cmd: DUPLICATE
+[2025.04.27-04.23.17:541][255]Cmd: ACTOR DUPLICATE
+[2025.04.27-04.23.20:835][541]Cmd: TRANSACTION UNDO
+[2025.04.27-04.23.20:837][541]LogEditorTransaction: Undo Duplicate Elements
+[2025.04.27-04.23.22:399][630]Cmd: EDIT COPY
+[2025.04.27-04.23.22:833][660]Cmd: EDIT PASTE
+[2025.04.27-04.23.39:579][ 62]Cmd: TRANSACTION UNDO
+[2025.04.27-04.23.39:579][ 62]LogEditorTransaction: Undo Move Elements
+[2025.04.27-04.23.45:873][506]Cmd: TRANSACTION UNDO
+[2025.04.27-04.23.45:874][506]LogEditorTransaction: Undo Move Elements
+[2025.04.27-04.25.31:484][569]LogWorldPartition: Actor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_A036BC6D4AA5E36202_1608655010 is unreachable without properly detaching object /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/A/5O/22SYF6SWTFFTOV3QB48SSL.PackageMetaData in its package
+[2025.04.27-04.25.31:485][569]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2025.04.27-04.25.31:493][569]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/9/OP/NA62VLLESAE2V2E6KMF9LU_Auto5
+[2025.04.27-04.25.31:493][569]LogSavePackage: Moving '../../../../../../Users/Microsoft/Documents/GitHub/LDA-new/LDAnew/Saved/NA62VLLESAE2V2E6KMF9LU_Auto5E753A9404C399C77A4C30785DE276A89.tmp' to '../../../../../../Users/Microsoft/Documents/GitHub/LDA-new/LDAnew/Saved/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/9/OP/NA62VLLESAE2V2E6KMF9LU_Auto5.uasset'
+[2025.04.27-04.25.31:495][569]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/6/UN/XIKGULLANK1S83LJUJEWGZ_Auto5
+[2025.04.27-04.25.31:495][569]LogSavePackage: Moving '../../../../../../Users/Microsoft/Documents/GitHub/LDA-new/LDAnew/Saved/XIKGULLANK1S83LJUJEWGZ_Auto5E8D031A2476EE887BE1D1B8806493700.tmp' to '../../../../../../Users/Microsoft/Documents/GitHub/LDA-new/LDAnew/Saved/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/6/UN/XIKGULLANK1S83LJUJEWGZ_Auto5.uasset'
+[2025.04.27-04.25.31:497][569]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/4/YV/46E4OSJIPW8U1AU3K3F7JF_Auto5
+[2025.04.27-04.25.31:497][569]LogSavePackage: Moving '../../../../../../Users/Microsoft/Documents/GitHub/LDA-new/LDAnew/Saved/46E4OSJIPW8U1AU3K3F7JF_Auto50BC1F03B425525A451858D9502249FCF.tmp' to '../../../../../../Users/Microsoft/Documents/GitHub/LDA-new/LDAnew/Saved/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/4/YV/46E4OSJIPW8U1AU3K3F7JF_Auto5.uasset'
+[2025.04.27-04.25.31:499][569]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/2/FV/8CAJ4ZYTCKK1ABL1WH3COW_Auto5
+[2025.04.27-04.25.31:500][569]LogSavePackage: Moving '../../../../../../Users/Microsoft/Documents/GitHub/LDA-new/LDAnew/Saved/8CAJ4ZYTCKK1ABL1WH3COW_Auto568108C244F2503EBD4240B9F6E90C444.tmp' to '../../../../../../Users/Microsoft/Documents/GitHub/LDA-new/LDAnew/Saved/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/2/FV/8CAJ4ZYTCKK1ABL1WH3COW_Auto5.uasset'
+[2025.04.27-04.25.31:502][569]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/A/MA/WBCAUDBSRPT7XTMUOBXCFS_Auto5
+[2025.04.27-04.25.31:502][569]LogSavePackage: Moving '../../../../../../Users/Microsoft/Documents/GitHub/LDA-new/LDAnew/Saved/WBCAUDBSRPT7XTMUOBXCFS_Auto50DB2C2D74F3159A15A7E2E993E8757B6.tmp' to '../../../../../../Users/Microsoft/Documents/GitHub/LDA-new/LDAnew/Saved/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/A/MA/WBCAUDBSRPT7XTMUOBXCFS_Auto5.uasset'
+[2025.04.27-04.25.31:505][569]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/6/HR/G21XZZPP8J29SC3YEHKGMN_Auto5
+[2025.04.27-04.25.31:505][569]LogSavePackage: Moving '../../../../../../Users/Microsoft/Documents/GitHub/LDA-new/LDAnew/Saved/G21XZZPP8J29SC3YEHKGMN_Auto5BCCBD6564A863E32EBF50E8E5A0785DA.tmp' to '../../../../../../Users/Microsoft/Documents/GitHub/LDA-new/LDAnew/Saved/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/6/HR/G21XZZPP8J29SC3YEHKGMN_Auto5.uasset'
+[2025.04.27-04.25.31:507][569]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/E/E5/JK9WXVOFF9D48MO3JJZLNJ_Auto5
+[2025.04.27-04.25.31:507][569]LogSavePackage: Moving '../../../../../../Users/Microsoft/Documents/GitHub/LDA-new/LDAnew/Saved/JK9WXVOFF9D48MO3JJZLNJ_Auto5728C8568418FD65CEE4B79A4E7A60E3D.tmp' to '../../../../../../Users/Microsoft/Documents/GitHub/LDA-new/LDAnew/Saved/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/E/E5/JK9WXVOFF9D48MO3JJZLNJ_Auto5.uasset'
+[2025.04.27-04.25.31:510][569]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/D/RL/PWW6QJ4UFX23CK3ZW3T9UD_Auto5
+[2025.04.27-04.25.31:510][569]LogSavePackage: Moving '../../../../../../Users/Microsoft/Documents/GitHub/LDA-new/LDAnew/Saved/PWW6QJ4UFX23CK3ZW3T9UD_Auto581895F7146B9DD4804E5618F88E154EC.tmp' to '../../../../../../Users/Microsoft/Documents/GitHub/LDA-new/LDAnew/Saved/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/D/RL/PWW6QJ4UFX23CK3ZW3T9UD_Auto5.uasset'
+[2025.04.27-04.25.31:513][569]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/4/QD/VRWVKX7EO364911HHQ5KYW_Auto5
+[2025.04.27-04.25.31:513][569]LogSavePackage: Moving '../../../../../../Users/Microsoft/Documents/GitHub/LDA-new/LDAnew/Saved/VRWVKX7EO364911HHQ5KYW_Auto5D65C081940886C29A55DF78D6029761B.tmp' to '../../../../../../Users/Microsoft/Documents/GitHub/LDA-new/LDAnew/Saved/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/4/QD/VRWVKX7EO364911HHQ5KYW_Auto5.uasset'
+[2025.04.27-04.25.31:516][569]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/1/Z9/4TD2YIH0P2NYNH7SRNFXUP_Auto5
+[2025.04.27-04.25.31:516][569]LogSavePackage: Moving '../../../../../../Users/Microsoft/Documents/GitHub/LDA-new/LDAnew/Saved/4TD2YIH0P2NYNH7SRNFXUP_Auto521C08621493B8A63EE255AA8F90AFFEB.tmp' to '../../../../../../Users/Microsoft/Documents/GitHub/LDA-new/LDAnew/Saved/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/1/Z9/4TD2YIH0P2NYNH7SRNFXUP_Auto5.uasset'
+[2025.04.27-04.25.31:518][569]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/E/YH/UMHL5CPOQ26MPLJFHYRIRG_Auto5
+[2025.04.27-04.25.31:518][569]LogSavePackage: Moving '../../../../../../Users/Microsoft/Documents/GitHub/LDA-new/LDAnew/Saved/UMHL5CPOQ26MPLJFHYRIRG_Auto52EF387324DAC03A362B00DB7DFCA722F.tmp' to '../../../../../../Users/Microsoft/Documents/GitHub/LDA-new/LDAnew/Saved/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/E/YH/UMHL5CPOQ26MPLJFHYRIRG_Auto5.uasset'
+[2025.04.27-04.25.31:520][569]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/5/6U/E4NCBMVF72O3SHK4HHEZX9_Auto5
+[2025.04.27-04.25.31:520][569]LogSavePackage: Moving '../../../../../../Users/Microsoft/Documents/GitHub/LDA-new/LDAnew/Saved/E4NCBMVF72O3SHK4HHEZX9_Auto5D23949864A7F74AEA6696FA7E94D10B2.tmp' to '../../../../../../Users/Microsoft/Documents/GitHub/LDA-new/LDAnew/Saved/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/5/6U/E4NCBMVF72O3SHK4HHEZX9_Auto5.uasset'
+[2025.04.27-04.25.31:523][569]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/8/BY/E3IDK472J2NQ9RTXFHA2OV_Auto5
+[2025.04.27-04.25.31:523][569]LogSavePackage: Moving '../../../../../../Users/Microsoft/Documents/GitHub/LDA-new/LDAnew/Saved/E3IDK472J2NQ9RTXFHA2OV_Auto59970595F4301B47F6DB806B9FD100B5E.tmp' to '../../../../../../Users/Microsoft/Documents/GitHub/LDA-new/LDAnew/Saved/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/8/BY/E3IDK472J2NQ9RTXFHA2OV_Auto5.uasset'
+[2025.04.27-04.25.31:524][569]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FirstPerson/Maps/FirstPersonMap' took 0.046
+[2025.04.27-04.25.31:524][569]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.046
+[2025.04.27-04.25.31:525][569]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/assets/Freeasset/TEX_14028_wood_fruit_crate_diff] ([1] browsable assets)...
+[2025.04.27-04.25.31:531][569]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/assets/Freeasset/TEX_14028_wood_fruit_crate_diff.TEX_14028_wood_fruit_crate_diff]
+[2025.04.27-04.25.31:531][569]OBJ SavePackage: Finished generating thumbnails for package [/Game/assets/Freeasset/TEX_14028_wood_fruit_crate_diff]
+[2025.04.27-04.25.31:535][569]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/assets/Freeasset/TEX_14028_wood_fruit_crate_diff_Auto5
+[2025.04.27-04.25.31:535][569]LogSavePackage: Moving '../../../../../../Users/Microsoft/Documents/GitHub/LDA-new/LDAnew/Saved/TEX_14028_wood_fruit_crate_diff_2B7BB90746659C828360B1A2336282C9.tmp' to '../../../../../../Users/Microsoft/Documents/GitHub/LDA-new/LDAnew/Saved/Autosaves/Game/assets/Freeasset/TEX_14028_wood_fruit_crate_diff_Auto5.uasset'
+[2025.04.27-04.25.31:536][569]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/assets/Freeasset/TEX_14028_wood_fruit_crate_bump] ([1] browsable assets)...
+[2025.04.27-04.25.31:539][569]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/assets/Freeasset/TEX_14028_wood_fruit_crate_bump.TEX_14028_wood_fruit_crate_bump]
+[2025.04.27-04.25.31:539][569]OBJ SavePackage: Finished generating thumbnails for package [/Game/assets/Freeasset/TEX_14028_wood_fruit_crate_bump]
+[2025.04.27-04.25.31:543][569]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/assets/Freeasset/TEX_14028_wood_fruit_crate_bump_Auto5
+[2025.04.27-04.25.31:543][569]LogSavePackage: Moving '../../../../../../Users/Microsoft/Documents/GitHub/LDA-new/LDAnew/Saved/TEX_14028_wood_fruit_crate_bump_B3B930704D64F71472869F8C0D27445E.tmp' to '../../../../../../Users/Microsoft/Documents/GitHub/LDA-new/LDAnew/Saved/Autosaves/Game/assets/Freeasset/TEX_14028_wood_fruit_crate_bump_Auto5.uasset'
+[2025.04.27-04.25.31:544][569]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/assets/Freeasset/14028_wood_fruit_crate] ([1] browsable assets)...
+[2025.04.27-04.25.32:631][569]LogShaderCompilers: Display: ================================================
+[2025.04.27-04.25.32:631][569]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2025.04.27-04.25.32:632][569]LogShaderCompilers: Display: Total job queries 1,506, among them cache hits 1,260 (83.67%)
+[2025.04.27-04.25.32:632][569]LogShaderCompilers: Display: Tracking 246 distinct input hashes that result in 134 distinct outputs (54.47%)
+[2025.04.27-04.25.32:632][569]LogShaderCompilers: Display: RAM used: 5.78 MiB of 409.60 MiB budget. Usage: 1.41%
+[2025.04.27-04.25.32:632][569]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2025.04.27-04.25.32:632][569]LogShaderCompilers: Display: Shaders Compiled: 212
+[2025.04.27-04.25.32:632][569]LogShaderCompilers: Display: Jobs assigned 212, completed 212 (100%)
+[2025.04.27-04.25.32:632][569]LogShaderCompilers: Display: Average time worker was idle: 161.02 s
+[2025.04.27-04.25.32:632][569]LogShaderCompilers: Display: Time job spent in pending queue: average 0.18 s, longest 1.63 s
+[2025.04.27-04.25.32:632][569]LogShaderCompilers: Display: Job execution time: average 0.99 s, max 2.45 s
+[2025.04.27-04.25.32:632][569]LogShaderCompilers: Display: Job life time (pending + execution): average 1.17 s, max 2.58
+[2025.04.27-04.25.32:632][569]LogShaderCompilers: Display: Shader code size: average 41.389 KiB, min 31.266 KiB, max 62.66 KiB
+[2025.04.27-04.25.32:632][569]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 49.69 s
+[2025.04.27-04.25.32:632][569]LogShaderCompilers: Display: Jobs were issued in 212 batches (only local compilation was used), average 1.00 jobs/batch
+[2025.04.27-04.25.32:632][569]LogShaderCompilers: Display: Average processing rate: 4.27 jobs/sec
+[2025.04.27-04.25.32:632][569]LogShaderCompilers: Display: Total thread time: 145.582 s
+[2025.04.27-04.25.32:632][569]LogShaderCompilers: Display: Total thread preprocess time: 17.311 s
+[2025.04.27-04.25.32:632][569]LogShaderCompilers: Display: Percentage time preprocessing: 11.89%
+[2025.04.27-04.25.32:632][569]LogShaderCompilers: Display: Effective parallelization: 2.93 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2025.04.27-04.25.32:632][569]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2025.04.27-04.25.32:632][569]LogShaderCompilers: Display:        TBasePassPSFCachedPointIndirectLightingPolicySkylight (compiled   11 times, average 0.93 sec, max 1.66 sec, min 0.42 sec)
+[2025.04.27-04.25.32:632][569]LogShaderCompilers: Display:       TBasePassPSFCachedVolumeIndirectLightingPolicySkylight (compiled   11 times, average 0.87 sec, max 1.46 sec, min 0.44 sec)
+[2025.04.27-04.25.32:632][569]LogShaderCompilers: Display: TBasePassPSFPrecomputedVolumetricLightmapLightingPolicySkylight (compiled   11 times, average 0.87 sec, max 1.51 sec, min 0.36 sec)
+[2025.04.27-04.25.32:632][569]LogShaderCompilers: Display:               TBasePassPSFCachedVolumeIndirectLightingPolicy (compiled   11 times, average 0.84 sec, max 1.42 sec, min 0.41 sec)
+[2025.04.27-04.25.32:632][569]LogShaderCompilers: Display:                TBasePassPSFCachedPointIndirectLightingPolicy (compiled   11 times, average 0.84 sec, max 1.38 sec, min 0.39 sec)
+[2025.04.27-04.25.32:632][569]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2025.04.27-04.25.32:632][569]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 11.62% of total time (compiled   21 times, average 0.81 sec, max 1.35 sec, min 0.36 sec)
+[2025.04.27-04.25.32:632][569]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 10.25% of total time (compiled   21 times, average 0.71 sec, max 1.15 sec, min 0.31 sec)
+[2025.04.27-04.25.32:632][569]LogShaderCompilers: Display:                                                 FLumenCardVS - 8.91% of total time (compiled   19 times, average 0.68 sec, max 1.12 sec, min 0.34 sec)
+[2025.04.27-04.25.32:632][569]LogShaderCompilers: Display:        TBasePassPSFCachedPointIndirectLightingPolicySkylight - 7.05% of total time (compiled   11 times, average 0.93 sec, max 1.66 sec, min 0.42 sec)
+[2025.04.27-04.25.32:632][569]LogShaderCompilers: Display:       TBasePassPSFCachedVolumeIndirectLightingPolicySkylight - 6.58% of total time (compiled   11 times, average 0.87 sec, max 1.46 sec, min 0.44 sec)
+[2025.04.27-04.25.32:632][569]LogShaderCompilers: Display: ================================================
+[2025.04.27-04.25.32:762][569]OBJ SavePackage:     Rendered thumbnail for [Material /Game/assets/Freeasset/14028_wood_fruit_crate.14028_wood_fruit_crate]
+[2025.04.27-04.25.32:762][569]OBJ SavePackage: Finished generating thumbnails for package [/Game/assets/Freeasset/14028_wood_fruit_crate]
+[2025.04.27-04.25.32:768][569]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/assets/Freeasset/14028_wood_fruit_crate_Auto5
+[2025.04.27-04.25.32:768][569]LogSavePackage: Moving '../../../../../../Users/Microsoft/Documents/GitHub/LDA-new/LDAnew/Saved/14028_wood_fruit_crate_Auto5772A0324438B4B5C009224A6EE45CB75.tmp' to '../../../../../../Users/Microsoft/Documents/GitHub/LDA-new/LDAnew/Saved/Autosaves/Game/assets/Freeasset/14028_wood_fruit_crate_Auto5.uasset'
+[2025.04.27-04.25.32:769][569]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/assets/Freeasset/14028_Wood_Fruit_Crate_SG_v2_L1] ([1] browsable assets)...
+[2025.04.27-04.25.32:804][569]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/assets/Freeasset/14028_Wood_Fruit_Crate_SG_v2_L1.14028_Wood_Fruit_Crate_SG_v2_L1]
+[2025.04.27-04.25.32:804][569]OBJ SavePackage: Finished generating thumbnails for package [/Game/assets/Freeasset/14028_Wood_Fruit_Crate_SG_v2_L1]
+[2025.04.27-04.25.32:807][569]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/assets/Freeasset/14028_Wood_Fruit_Crate_SG_v2_L1_Auto5
+[2025.04.27-04.25.32:807][569]LogSavePackage: Moving '../../../../../../Users/Microsoft/Documents/GitHub/LDA-new/LDAnew/Saved/14028_Wood_Fruit_Crate_SG_v2_L1_AB19C34843ED3BFE54FBA886F5BA6FC2.tmp' to '../../../../../../Users/Microsoft/Documents/GitHub/LDA-new/LDAnew/Saved/Autosaves/Game/assets/Freeasset/14028_Wood_Fruit_Crate_SG_v2_L1_Auto5.uasset'
+[2025.04.27-04.25.32:808][569]LogFileHelpers: Auto-saving content packages took 1.285
+[2025.04.27-04.25.32:842][570]LogUObjectHash: Compacting FUObjectHashTables data took   0.48ms
+[2025.04.27-04.26.31:196][ 16]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2025.04.27-04.26.31:269][ 16]LogContentBrowser: Creating deferred item: NewFolder
+[2025.04.27-04.26.31:281][ 17]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2025.04.27-04.26.39:298][719]LogContentBrowser: Attempting asset rename: NewFolder -> fruitCrate
+[2025.04.27-04.26.39:299][719]LogContentBrowser: End creating deferred item NewFolder
+[2025.04.27-04.26.43:943][134]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.04.27-04.26.44:036][134]LogSavePackage: Moving output files for package: /Game/assets/Freeasset/fruitCrate/14028_wood_fruit_crate
+[2025.04.27-04.26.44:036][134]LogSavePackage: Moving '../../../../../../Users/Microsoft/Documents/GitHub/LDA-new/LDAnew/Saved/14028_wood_fruit_crateFC79765341B9E1C3D90F6094B622ECE7.tmp' to '../../../../../../Users/Microsoft/Documents/GitHub/LDA-new/LDAnew/Content/assets/Freeasset/fruitCrate/14028_wood_fruit_crate.uasset'
+[2025.04.27-04.26.44:041][134]LogSavePackage: Moving output files for package: /Game/assets/Freeasset/fruitCrate/14028_Wood_Fruit_Crate_SG_v2_L1
+[2025.04.27-04.26.44:041][134]LogSavePackage: Moving '../../../../../../Users/Microsoft/Documents/GitHub/LDA-new/LDAnew/Saved/14028_Wood_Fruit_Crate_SG_v2_L1B1BD77C24C6B1F996DB03281BD2ACF35.tmp' to '../../../../../../Users/Microsoft/Documents/GitHub/LDA-new/LDAnew/Content/assets/Freeasset/fruitCrate/14028_Wood_Fruit_Crate_SG_v2_L1.uasset'
+[2025.04.27-04.26.44:073][134]LogSavePackage: Moving output files for package: /Game/assets/Freeasset/fruitCrate/TEX_14028_wood_fruit_crate_bump
+[2025.04.27-04.26.44:074][134]LogSavePackage: Moving '../../../../../../Users/Microsoft/Documents/GitHub/LDA-new/LDAnew/Saved/TEX_14028_wood_fruit_crate_bumpE79C489E4DFBACAD601858B143A8B637.tmp' to '../../../../../../Users/Microsoft/Documents/GitHub/LDA-new/LDAnew/Content/assets/Freeasset/fruitCrate/TEX_14028_wood_fruit_crate_bump.uasset'
+[2025.04.27-04.26.44:099][134]LogSavePackage: Moving output files for package: /Game/assets/Freeasset/fruitCrate/TEX_14028_wood_fruit_crate_diff
+[2025.04.27-04.26.44:099][134]LogSavePackage: Moving '../../../../../../Users/Microsoft/Documents/GitHub/LDA-new/LDAnew/Saved/TEX_14028_wood_fruit_crate_diff42137CF84A5CD75BF7A0F399B079A089.tmp' to '../../../../../../Users/Microsoft/Documents/GitHub/LDA-new/LDAnew/Content/assets/Freeasset/fruitCrate/TEX_14028_wood_fruit_crate_diff.uasset'
+[2025.04.27-04.26.44:110][134]LogFileHelpers: InternalPromptForCheckoutAndSave took 166 ms (total: 21.8 sec)
+[2025.04.27-04.26.44:133][134]LogUObjectHash: Compacting FUObjectHashTables data took   1.29ms
+[2025.04.27-04.26.44:139][134]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2025.04.27-04.26.44:144][134]LogUObjectHash: Compacting FUObjectHashTables data took   0.33ms
+[2025.04.27-04.26.44:169][134]AssetCheck: New page: Asset Save: multiple assets
+[2025.04.27-04.26.44:169][134]LogContentValidation: Display: Validating /Script/Engine.Material /Game/assets/Freeasset/fruitCrate/14028_wood_fruit_crate.14028_wood_fruit_crate
+[2025.04.27-04.26.44:169][134]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/assets/Freeasset/fruitCrate/14028_Wood_Fruit_Crate_SG_v2_L1.14028_Wood_Fruit_Crate_SG_v2_L1
+[2025.04.27-04.26.44:169][134]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/assets/Freeasset/fruitCrate/TEX_14028_wood_fruit_crate_bump.TEX_14028_wood_fruit_crate_bump
+[2025.04.27-04.26.44:169][134]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/assets/Freeasset/fruitCrate/TEX_14028_wood_fruit_crate_diff.TEX_14028_wood_fruit_crate_diff
+[2025.04.27-04.26.51:005][275]LogSlate: Window 'Interchange Pipeline Configuration (Import Content)' being destroyed
+[2025.04.27-04.26.51:017][275]LogInterchangeEngine: [Pending] Importing
+[2025.04.27-04.26.51:017][275]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/Microsoft/D...fd-832f-46778d847514/14030_Cardboard_Box_with_holders_for_fruit_v2_l1.obj]
+[2025.04.27-04.26.51:079][276]LogInterchangeEngine: [Pending] Importing
+[2025.04.27-04.26.51:281][281]LogTexture: Display: Building textures: /Game/assets/Freeasset/TEX_carboard_box_for_fruit.TEX_carboard_box_for_fruit (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 101.645823 MB), EncodeSpeed: Fast
+[2025.04.27-04.26.51:346][281]LogTexture: Display: Building textures: /Game/assets/Freeasset/TEX_carboard_box_for_fruit_detail.TEX_carboard_box_for_fruit_detail (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 101.645823 MB), EncodeSpeed: Fast
+[2025.04.27-04.26.51:420][281]LogStaticMesh: Display: Building static mesh 14030_Cardboard_Box_with_holders_for_fruit_v2_l1...
+[2025.04.27-04.26.51:444][281]LogInterchangeEngine: [Success] Import Done
+[2025.04.27-04.26.51:535][282]LogInterchangeEngine: [Success] Import Done
+[2025.04.27-04.26.51:591][283]LogStaticMesh: Built static mesh [0.17s] /Game/assets/Freeasset/14030_Cardboard_Box_with_holders_for_fruit_v2_l1.14030_Cardboard_Box_with_holders_for_fruit_v2_l1
+[2025.04.27-04.26.58:596][788]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/assets/Freeasset/14030_Cardboard_Box_with_holders_for_fruit_v2_l1.14030_Cardboard_Box_with_holders_for_fruit_v2_l1
+[2025.04.27-04.26.58:596][788]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/assets/Freeasset/14030_Cardboard_Box_with_holders_for_fruit_v2_l1.14030_Cardboard_Box_with_holders_for_fruit_v2_l1
+[2025.04.27-04.26.58:597][788]LogActorFactory: Actor Factory spawned StaticMesh /Game/assets/Freeasset/14030_Cardboard_Box_with_holders_for_fruit_v2_l1.14030_Cardboard_Box_with_holders_for_fruit_v2_l1 as actor: StaticMeshActor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_59
+[2025.04.27-04.26.59:216][823]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/assets/Freeasset/14030_Cardboard_Box_with_holders_for_fruit_v2_l1.14030_Cardboard_Box_with_holders_for_fruit_v2_l1
+[2025.04.27-04.26.59:216][823]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/assets/Freeasset/14030_Cardboard_Box_with_holders_for_fruit_v2_l1.14030_Cardboard_Box_with_holders_for_fruit_v2_l1
+[2025.04.27-04.26.59:218][823]LogActorFactory: Actor Factory spawned StaticMesh /Game/assets/Freeasset/14030_Cardboard_Box_with_holders_for_fruit_v2_l1.14030_Cardboard_Box_with_holders_for_fruit_v2_l1 as actor: StaticMeshActor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_A036BC6D4AA5E36202_1830328012
+[2025.04.27-04.27.00:759][856]Cmd: TRANSACTION UNDO
+[2025.04.27-04.27.00:759][856]LogEditorTransaction: Undo Create Actors
+[2025.04.27-04.27.02:003][921]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/assets/Freeasset/14030_Cardboard_Box_with_holders_for_fruit_v2_l1.14030_Cardboard_Box_with_holders_for_fruit_v2_l1
+[2025.04.27-04.27.02:003][921]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/assets/Freeasset/14030_Cardboard_Box_with_holders_for_fruit_v2_l1.14030_Cardboard_Box_with_holders_for_fruit_v2_l1
+[2025.04.27-04.27.02:004][921]LogActorFactory: Actor Factory spawned StaticMesh /Game/assets/Freeasset/14030_Cardboard_Box_with_holders_for_fruit_v2_l1.14030_Cardboard_Box_with_holders_for_fruit_v2_l1 as actor: StaticMeshActor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_60
+[2025.04.27-04.27.08:159][342]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/assets/Freeasset/14030_Cardboard_Box_with_holders_for_fruit_v2_l1.14030_Cardboard_Box_with_holders_for_fruit_v2_l1
+[2025.04.27-04.27.08:159][342]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/assets/Freeasset/14030_Cardboard_Box_with_holders_for_fruit_v2_l1.14030_Cardboard_Box_with_holders_for_fruit_v2_l1
+[2025.04.27-04.27.08:159][342]LogActorFactory: Actor Factory spawned StaticMesh /Game/assets/Freeasset/14030_Cardboard_Box_with_holders_for_fruit_v2_l1.14030_Cardboard_Box_with_holders_for_fruit_v2_l1 as actor: StaticMeshActor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_61
+[2025.04.27-04.27.08:724][383]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/assets/Freeasset/14030_Cardboard_Box_with_holders_for_fruit_v2_l1.14030_Cardboard_Box_with_holders_for_fruit_v2_l1
+[2025.04.27-04.27.08:724][383]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/assets/Freeasset/14030_Cardboard_Box_with_holders_for_fruit_v2_l1.14030_Cardboard_Box_with_holders_for_fruit_v2_l1
+[2025.04.27-04.27.08:746][383]LogActorFactory: Actor Factory spawned StaticMesh /Game/assets/Freeasset/14030_Cardboard_Box_with_holders_for_fruit_v2_l1.14030_Cardboard_Box_with_holders_for_fruit_v2_l1 as actor: StaticMeshActor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_A036BC6D4AA5E36202_1839836013
+[2025.04.27-04.27.32:275][155]Cmd: TRANSACTION UNDO
+[2025.04.27-04.27.32:275][155]LogEditorTransaction: Undo Set Location
+[2025.04.27-04.28.00:413][469]Cmd: TRANSACTION UNDO
+[2025.04.27-04.28.00:413][469]LogEditorTransaction: Undo Set Location
+[2025.04.27-04.28.15:013][563]LogSlate: Warning: Unable to rasterize '../../../Engine/Content/Editor/Slate/Starship/AssetIcons/SpecularProfile_64.svg'. File could not be found
+[2025.04.27-04.28.15:764][631]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2025.04.27-04.28.15:775][631]LogContentBrowser: Creating deferred item: NewFolder
+[2025.04.27-04.28.15:785][632]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2025.04.27-04.28.18:140][824]LogContentBrowser: Attempting asset rename: NewFolder -> fruitBox
+[2025.04.27-04.28.18:142][824]LogContentBrowser: End creating deferred item NewFolder
+[2025.04.27-04.28.25:940][444]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.04.27-04.28.26:076][444]LogSavePackage: Moving output files for package: /Game/assets/Freeasset/fruitBox/14030_Cardboard_Box_with_holders_for_fruit_v2_l1
+[2025.04.27-04.28.26:076][444]LogSavePackage: Moving '../../../../../../Users/Microsoft/Documents/GitHub/LDA-new/LDAnew/Saved/14030_Cardboard_Box_with_holders67B36FC24961FD1EEE6F1DBA9B17782F.tmp' to '../../../../../../Users/Microsoft/Documents/GitHub/LDA-new/LDAnew/Content/assets/Freeasset/fruitBox/14030_Cardboard_Box_with_holders_for_fruit_v2_l1.uasset'
+[2025.04.27-04.28.26:105][444]LogSavePackage: Moving output files for package: /Game/assets/Freeasset/fruitBox/carboard_box_for_fruit
+[2025.04.27-04.28.26:105][444]LogSavePackage: Moving '../../../../../../Users/Microsoft/Documents/GitHub/LDA-new/LDAnew/Saved/carboard_box_for_fruitB677EC954BEC37FFA0D82C9B155F4C77.tmp' to '../../../../../../Users/Microsoft/Documents/GitHub/LDA-new/LDAnew/Content/assets/Freeasset/fruitBox/carboard_box_for_fruit.uasset'
+[2025.04.27-04.28.26:131][444]LogSavePackage: Moving output files for package: /Game/assets/Freeasset/fruitBox/carboard_box_for_fruit_detail
+[2025.04.27-04.28.26:131][444]LogSavePackage: Moving '../../../../../../Users/Microsoft/Documents/GitHub/LDA-new/LDAnew/Saved/carboard_box_for_fruit_detail1619A37B4233170C1A804D90EA319387.tmp' to '../../../../../../Users/Microsoft/Documents/GitHub/LDA-new/LDAnew/Content/assets/Freeasset/fruitBox/carboard_box_for_fruit_detail.uasset'
+[2025.04.27-04.28.26:159][444]LogSavePackage: Moving output files for package: /Game/assets/Freeasset/fruitBox/TEX_carboard_box_for_fruit
+[2025.04.27-04.28.26:159][444]LogSavePackage: Moving '../../../../../../Users/Microsoft/Documents/GitHub/LDA-new/LDAnew/Saved/TEX_carboard_box_for_fruit10D826B84347AD877580E596DC90C58C.tmp' to '../../../../../../Users/Microsoft/Documents/GitHub/LDA-new/LDAnew/Content/assets/Freeasset/fruitBox/TEX_carboard_box_for_fruit.uasset'
+[2025.04.27-04.28.26:170][444]LogSavePackage: Moving output files for package: /Game/assets/Freeasset/fruitBox/TEX_carboard_box_for_fruit_Mat
+[2025.04.27-04.28.26:170][444]LogSavePackage: Moving '../../../../../../Users/Microsoft/Documents/GitHub/LDA-new/LDAnew/Saved/TEX_carboard_box_for_fruit_Mat9DC070084E363145C3417CB6BC8A3385.tmp' to '../../../../../../Users/Microsoft/Documents/GitHub/LDA-new/LDAnew/Content/assets/Freeasset/fruitBox/TEX_carboard_box_for_fruit_Mat.uasset'
+[2025.04.27-04.28.26:177][444]LogFileHelpers: InternalPromptForCheckoutAndSave took 237 ms (total: 22.0 sec)
+[2025.04.27-04.28.26:198][444]LogWorldPartition: Actor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_A036BC6D4AA5E36202_1830328012 is unreachable without properly detaching object /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/B/KP/MY52P1ROU04WYPH6J4J0UU.PackageMetaData in its package
+[2025.04.27-04.28.26:201][444]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2025.04.27-04.28.26:212][444]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2025.04.27-04.28.26:218][444]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2025.04.27-04.28.26:243][444]AssetCheck: New page: Asset Save: multiple assets
+[2025.04.27-04.28.26:243][444]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/assets/Freeasset/fruitBox/14030_Cardboard_Box_with_holders_for_fruit_v2_l1.14030_Cardboard_Box_with_holders_for_fruit_v2_l1
+[2025.04.27-04.28.26:243][444]LogContentValidation: Display: Validating /Script/Engine.Material /Game/assets/Freeasset/fruitBox/carboard_box_for_fruit.carboard_box_for_fruit
+[2025.04.27-04.28.26:243][444]LogContentValidation: Display: Validating /Script/Engine.Material /Game/assets/Freeasset/fruitBox/carboard_box_for_fruit_detail.carboard_box_for_fruit_detail
+[2025.04.27-04.28.26:243][444]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/assets/Freeasset/fruitBox/TEX_carboard_box_for_fruit.TEX_carboard_box_for_fruit
+[2025.04.27-04.28.26:243][444]LogContentValidation: Display: Validating /Script/Engine.Material /Game/assets/Freeasset/fruitBox/TEX_carboard_box_for_fruit_Mat.TEX_carboard_box_for_fruit_Mat
+[2025.04.27-04.28.30:138][859]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.04.27-04.28.30:215][859]LogSavePackage: Moving output files for package: /Game/assets/Freeasset/fruitBox/carboard_box_for_fruit_detail
+[2025.04.27-04.28.30:216][859]LogSavePackage: Moving '../../../../../../Users/Microsoft/Documents/GitHub/LDA-new/LDAnew/Saved/carboard_box_for_fruit_detail0DE2820C46BEC1365D74B5B9DB59B620.tmp' to '../../../../../../Users/Microsoft/Documents/GitHub/LDA-new/LDAnew/Content/assets/Freeasset/fruitBox/carboard_box_for_fruit_detail.uasset'
+[2025.04.27-04.28.30:245][859]LogSavePackage: Moving output files for package: /Game/assets/Freeasset/fruitBox/TEX_carboard_box_for_fruit_detail
+[2025.04.27-04.28.30:245][859]LogSavePackage: Moving '../../../../../../Users/Microsoft/Documents/GitHub/LDA-new/LDAnew/Saved/TEX_carboard_box_for_fruit_detaiE71DD7EE43982642FE5982AFE1458880.tmp' to '../../../../../../Users/Microsoft/Documents/GitHub/LDA-new/LDAnew/Content/assets/Freeasset/fruitBox/TEX_carboard_box_for_fruit_detail.uasset'
+[2025.04.27-04.28.30:252][859]LogFileHelpers: InternalPromptForCheckoutAndSave took 114 ms (total: 22.1 sec)
+[2025.04.27-04.28.30:262][859]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2025.04.27-04.28.30:269][859]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2025.04.27-04.28.30:274][859]LogUObjectHash: Compacting FUObjectHashTables data took   0.27ms
+[2025.04.27-04.28.30:314][859]AssetCheck: New page: Asset Save: multiple assets
+[2025.04.27-04.28.30:314][859]LogContentValidation: Display: Validating /Script/Engine.Material /Game/assets/Freeasset/fruitBox/carboard_box_for_fruit_detail.carboard_box_for_fruit_detail
+[2025.04.27-04.28.30:314][859]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/assets/Freeasset/fruitBox/TEX_carboard_box_for_fruit_detail.TEX_carboard_box_for_fruit_detail
+[2025.04.27-04.28.32:296][ 57]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2025.04.27-04.29.20:641][203]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 10221.879883
+[2025.04.27-04.29.21:974][207]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.04.27-04.29.21:974][207]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 10222.879883, Update Interval: 339.427460
+[2025.04.27-04.29.33:165][350]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\Microsoft\Downloads\71-ranjang-buah\ranjang buah\untitled.fbx)
+[2025.04.27-04.29.33:172][350]LogFbx: Loading FBX Scene from C:\Users\Microsoft\Downloads\71-ranjang-buah\ranjang buah\untitled.fbx
+[2025.04.27-04.29.33:177][350]LogFbx: FBX Scene Loaded Succesfully
+[2025.04.27-04.29.37:756][350]LogSlate: Window 'FBX Import Options' being destroyed
+[2025.04.27-04.29.37:867][350]LogFbx: Display: Triangulating static mesh Cylinder.043
+[2025.04.27-04.29.37:877][350]LogStaticMesh: Display: Building static mesh untitled...
+[2025.04.27-04.29.37:959][350]LogStaticMesh: Built static mesh [0.08s] /Game/assets/Freeasset/untitled.untitled
+[2025.04.27-04.29.37:971][350]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2025.04.27-04.29.38:353][353]LogShaderCompilers: Display: ================================================
+[2025.04.27-04.29.38:353][353]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2025.04.27-04.29.38:353][353]LogShaderCompilers: Display: Total job queries 1,556, among them cache hits 1,294 (83.16%)
+[2025.04.27-04.29.38:353][353]LogShaderCompilers: Display: Tracking 262 distinct input hashes that result in 134 distinct outputs (51.15%)
+[2025.04.27-04.29.38:353][353]LogShaderCompilers: Display: RAM used: 6.17 MiB of 409.60 MiB budget. Usage: 1.51%
+[2025.04.27-04.29.38:353][353]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2025.04.27-04.29.38:353][353]LogShaderCompilers: Display: Shaders Compiled: 228
+[2025.04.27-04.29.38:353][353]LogShaderCompilers: Display: Jobs assigned 228, completed 228 (100%)
+[2025.04.27-04.29.38:353][353]LogShaderCompilers: Display: Average time worker was idle: 152.46 s
+[2025.04.27-04.29.38:353][353]LogShaderCompilers: Display: Time job spent in pending queue: average 0.20 s, longest 1.63 s
+[2025.04.27-04.29.38:353][353]LogShaderCompilers: Display: Job execution time: average 0.97 s, max 2.45 s
+[2025.04.27-04.29.38:353][353]LogShaderCompilers: Display: Job life time (pending + execution): average 1.17 s, max 2.58
+[2025.04.27-04.29.38:353][353]LogShaderCompilers: Display: Shader code size: average 41.481 KiB, min 31.266 KiB, max 62.66 KiB
+[2025.04.27-04.29.38:353][353]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 51.26 s
+[2025.04.27-04.29.38:353][353]LogShaderCompilers: Display: Jobs were issued in 228 batches (only local compilation was used), average 1.00 jobs/batch
+[2025.04.27-04.29.38:353][353]LogShaderCompilers: Display: Average processing rate: 4.45 jobs/sec
+[2025.04.27-04.29.38:353][353]LogShaderCompilers: Display: Total thread time: 153.825 s
+[2025.04.27-04.29.38:353][353]LogShaderCompilers: Display: Total thread preprocess time: 17.964 s
+[2025.04.27-04.29.38:353][353]LogShaderCompilers: Display: Percentage time preprocessing: 11.68%
+[2025.04.27-04.29.38:353][353]LogShaderCompilers: Display: Effective parallelization: 3.00 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2025.04.27-04.29.38:353][353]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2025.04.27-04.29.38:353][353]LogShaderCompilers: Display:        TBasePassPSFCachedPointIndirectLightingPolicySkylight (compiled   12 times, average 0.91 sec, max 1.66 sec, min 0.42 sec)
+[2025.04.27-04.29.38:353][353]LogShaderCompilers: Display:       TBasePassPSFCachedVolumeIndirectLightingPolicySkylight (compiled   12 times, average 0.85 sec, max 1.46 sec, min 0.44 sec)
+[2025.04.27-04.29.38:353][353]LogShaderCompilers: Display: TBasePassPSFPrecomputedVolumetricLightmapLightingPolicySkylight (compiled   12 times, average 0.84 sec, max 1.51 sec, min 0.36 sec)
+[2025.04.27-04.29.38:353][353]LogShaderCompilers: Display:               TBasePassPSFCachedVolumeIndirectLightingPolicy (compiled   12 times, average 0.83 sec, max 1.42 sec, min 0.41 sec)
+[2025.04.27-04.29.38:353][353]LogShaderCompilers: Display:                TBasePassPSFCachedPointIndirectLightingPolicy (compiled   12 times, average 0.83 sec, max 1.38 sec, min 0.39 sec)
+[2025.04.27-04.29.38:353][353]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2025.04.27-04.29.38:353][353]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 11.34% of total time (compiled   22 times, average 0.79 sec, max 1.35 sec, min 0.36 sec)
+[2025.04.27-04.29.38:353][353]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 10.10% of total time (compiled   22 times, average 0.71 sec, max 1.15 sec, min 0.31 sec)
+[2025.04.27-04.29.38:353][353]LogShaderCompilers: Display:                                                 FLumenCardVS - 8.73% of total time (compiled   20 times, average 0.67 sec, max 1.12 sec, min 0.34 sec)
+[2025.04.27-04.29.38:353][353]LogShaderCompilers: Display:        TBasePassPSFCachedPointIndirectLightingPolicySkylight - 7.11% of total time (compiled   12 times, average 0.91 sec, max 1.66 sec, min 0.42 sec)
+[2025.04.27-04.29.38:353][353]LogShaderCompilers: Display:       TBasePassPSFCachedVolumeIndirectLightingPolicySkylight - 6.59% of total time (compiled   12 times, average 0.85 sec, max 1.46 sec, min 0.44 sec)
+[2025.04.27-04.29.38:353][353]LogShaderCompilers: Display: ================================================
+[2025.04.27-04.29.39:437][419]LogSlate: Window 'Message Log' being destroyed
+[2025.04.27-04.29.39:444][419]LogSlate: Window 'Message Log' being destroyed
+[2025.04.27-04.29.44:674][780]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2025.04.27-04.29.47:195][780]LogSlate: Window 'Delete Assets' being destroyed
+[2025.04.27-04.29.47:209][780]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2025.04.27-04.29.47:216][780]LogUObjectHash: Compacting FUObjectHashTables data took   0.29ms
+[2025.04.27-04.29.47:222][780]LogUObjectHash: Compacting FUObjectHashTables data took   0.28ms
+[2025.04.27-04.29.53:225][868]LogSlate: Window 'Interchange Pipeline Configuration (Import Content)' being destroyed
+[2025.04.27-04.29.53:241][868]LogInterchangeEngine: [Pending] Importing
+[2025.04.27-04.29.53:241][868]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/Microsoft/D...ng-buah/ranjang buah/untitled.obj]
+[2025.04.27-04.29.53:314][869]LogInterchangeEngine: [Pending] Importing
+[2025.04.27-04.29.53:383][870]LogStaticMesh: Display: Building static mesh untitled...
+[2025.04.27-04.29.53:388][870]LogStaticMesh: Built static mesh [0.01s] /Game/assets/Freeasset/untitled.untitled
+[2025.04.27-04.29.53:391][870]LogInterchangeEngine: [Success] Import Done
+[2025.04.27-04.29.53:539][871]LogInterchangeEngine: [Success] Import Done
+[2025.04.27-04.29.59:829][271]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/assets/Freeasset/untitled.untitled
+[2025.04.27-04.29.59:829][271]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/assets/Freeasset/untitled.untitled
+[2025.04.27-04.29.59:829][271]LogActorFactory: Actor Factory spawned StaticMesh /Game/assets/Freeasset/untitled.untitled as actor: StaticMeshActor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_62
+[2025.04.27-04.30.00:263][301]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/assets/Freeasset/untitled.untitled
+[2025.04.27-04.30.00:263][301]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/assets/Freeasset/untitled.untitled
+[2025.04.27-04.30.00:265][301]LogActorFactory: Actor Factory spawned StaticMesh /Game/assets/Freeasset/untitled.untitled as actor: StaticMeshActor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_A036BC6D4AA5E36202_2011375014
+[2025.04.27-04.30.01:637][400]Cmd: TRANSACTION UNDO
+[2025.04.27-04.30.01:637][400]LogEditorTransaction: Undo Create Actors
+[2025.04.27-04.30.03:024][468]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/assets/Freeasset/untitled.untitled
+[2025.04.27-04.30.03:025][468]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/assets/Freeasset/untitled.untitled
+[2025.04.27-04.30.03:025][468]LogActorFactory: Actor Factory spawned StaticMesh /Game/assets/Freeasset/untitled.untitled as actor: StaticMeshActor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_63
+[2025.04.27-04.30.03:472][497]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/assets/Freeasset/untitled.untitled
+[2025.04.27-04.30.03:472][497]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/assets/Freeasset/untitled.untitled
+[2025.04.27-04.30.03:474][497]LogActorFactory: Actor Factory spawned StaticMesh /Game/assets/Freeasset/untitled.untitled as actor: StaticMeshActor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_A036BC6D4AA5E36202_2014584015
+[2025.04.27-04.30.21:719][909]Cmd: DELETE
+[2025.04.27-04.30.21:720][909]Cmd: ACTOR DELETE
+[2025.04.27-04.30.21:730][909]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.04.27-04.30.21:735][909]LogWorldPartition: Actor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_A036BC6D4AA5E36202_2011375014 is unreachable without properly detaching object /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/1/7U/GX9F2O4QG2W48NN853REEA.PackageMetaData in its package
+[2025.04.27-04.30.21:736][909]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2025.04.27-04.30.21:741][909]LogEditorActor: Deleted 1 Actors (0.020 secs)
+[2025.04.27-04.30.21:749][909]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2025.04.27-04.30.24:734][123]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2025.04.27-04.30.26:306][123]LogSlate: Window 'Delete Assets' being destroyed
+[2025.04.27-04.30.26:322][123]LogWorldPartition: Actor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_A036BC6D4AA5E36202_2014584015 is unreachable without properly detaching object /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/C/SG/L46UFNLXNHOK4MFNWQXINM.PackageMetaData in its package
+[2025.04.27-04.30.26:325][123]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2025.04.27-04.30.26:334][123]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2025.04.27-04.30.26:340][123]LogUObjectHash: Compacting FUObjectHashTables data took   0.46ms
+[2025.04.27-04.30.26:349][123]LogUObjectHash: Compacting FUObjectHashTables data took   0.39ms
+[2025.04.27-04.30.44:723][296]LogAssetTools: Warning: Failed to import 'C:\Users\Microsoft\Downloads\71-ranjang-buah\ranjang buah\rattan_basket.mat'. Unknown extension 'mat'.
+[2025.04.27-04.30.48:741][310]LogAssetTools: Warning: Failed to import 'C:\Users\Microsoft\Downloads\71-ranjang-buah\ranjang buah\Rattan_Basket_mesh.max'. Unknown extension 'max'.
+[2025.04.27-04.30.52:666][345]LogAssetTools: Warning: Failed to import 'C:\Users\Microsoft\Downloads\71-ranjang-buah\ranjang buah\untitled.dae'. Unknown extension 'dae'.
+[2025.04.27-04.31.54:641][725]LogSlate: Window 'Interchange Pipeline Configuration (Import Content)' being destroyed
+[2025.04.27-04.31.54:654][725]LogInterchangeEngine: [Pending] Importing
+[2025.04.27-04.31.54:654][725]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/Microsoft/Downloads/34-apple/Apple/Apple.obj]
+[2025.04.27-04.31.54:711][726]LogInterchangeEngine: [Pending] Importing
+[2025.04.27-04.31.54:937][730]LogStaticMesh: Display: Building static mesh Apple...
+[2025.04.27-04.31.54:937][730]Interchange: Error: Failed to import ImageWrapper, cannot open file.
+[2025.04.27-04.31.54:937][730]Interchange: Error: Failed to import ImageWrapper, cannot open file.
+[2025.04.27-04.31.54:937][730]Interchange: Error: Unable to retrieve the payload from the source file.
+[2025.04.27-04.31.54:937][730]Interchange: Error: Unable to retrieve the payload from the source file.
+[2025.04.27-04.31.54:999][730]LogInterchangeEngine: [Success] Import Done
+[2025.04.27-04.31.55:111][731]LogInterchangeEngine: [Success] Import Done
+[2025.04.27-04.31.55:111][731]LogStaticMesh: Built static mesh [0.18s] /Game/assets/Freeasset/Apple.Apple
+[2025.04.27-04.31.55:136][731]LogStaticMesh: Warning: Apple has some nearly zero normals which can create some issues. (Tolerance of 1E-4)
+[2025.04.27-04.31.55:136][731]LogStaticMesh: Warning: Apple has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2025.04.27-04.32.05:890][398]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/assets/Freeasset/Apple.Apple
+[2025.04.27-04.32.05:890][398]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/assets/Freeasset/Apple.Apple
+[2025.04.27-04.32.05:891][398]LogActorFactory: Actor Factory spawned StaticMesh /Game/assets/Freeasset/Apple.Apple as actor: StaticMeshActor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_64
+[2025.04.27-04.32.06:253][425]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/assets/Freeasset/Apple.Apple
+[2025.04.27-04.32.06:253][425]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/assets/Freeasset/Apple.Apple
+[2025.04.27-04.32.06:257][425]LogActorFactory: Actor Factory spawned StaticMesh /Game/assets/Freeasset/Apple.Apple as actor: StaticMeshActor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_A036BC6D4AA5E36202_2137365016
+[2025.04.27-04.32.14:186][948]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/assets/Freeasset/Apple.Apple
+[2025.04.27-04.32.14:293][948]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.04.27-04.32.14:306][948]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.04.27-04.32.15:148][948]LogViewport: Scene viewport resized to 1032x344, mode Windowed.
+[2025.04.27-04.32.19:234][163]LogSlate: Window 'Apple' being destroyed
+[2025.04.27-04.32.19:241][163]LogSlate: Window 'Apple' being destroyed
+[2025.04.27-04.32.19:292][163]LogWorld: UWorld::CleanupWorld for World_24, bSessionEnded=true, bCleanupResources=true
+[2025.04.27-04.32.19:295][163]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.04.27-04.33.03:817][647]Cmd: TRANSACTION UNDO
+[2025.04.27-04.33.03:817][647]LogEditorTransaction: Undo Set Location
+[2025.04.27-04.33.40:395][559]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/assets/Freeasset/Apple.Apple
+[2025.04.27-04.33.40:466][559]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.04.27-04.33.40:466][559]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.04.27-04.33.40:999][559]LogViewport: Scene viewport resized to 1033x346, mode Windowed.
+[2025.04.27-04.33.43:030][637]LogViewport: Scene viewport resized to 1403x848, mode Windowed.
+[2025.04.27-04.34.06:890][860]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/assets/Freeasset/Material_003.Material_003
+[2025.04.27-04.34.06:923][860]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.04.27-04.34.06:923][860]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.04.27-04.34.07:186][860]MaterialEditorStats: Texture samplers: 0/16
+[2025.04.27-04.34.07:186][860]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2025.04.27-04.34.07:186][860]MaterialEditorStats: Shader Count: 0
+[2025.04.27-04.34.07:199][860]LogViewport: Scene viewport resized to 374x421, mode Windowed.
+[2025.04.27-04.34.07:275][861]LogShaderCompilers: Display: ================================================
+[2025.04.27-04.34.07:276][861]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2025.04.27-04.34.07:276][861]LogShaderCompilers: Display: Total job queries 1,584, among them cache hits 1,310 (82.70%)
+[2025.04.27-04.34.07:276][861]LogShaderCompilers: Display: Tracking 274 distinct input hashes that result in 140 distinct outputs (51.09%)
+[2025.04.27-04.34.07:276][861]LogShaderCompilers: Display: RAM used: 6.42 MiB of 409.60 MiB budget. Usage: 1.57%
+[2025.04.27-04.34.07:276][861]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2025.04.27-04.34.07:276][861]LogShaderCompilers: Display: Shaders Compiled: 240
+[2025.04.27-04.34.07:276][861]LogShaderCompilers: Display: Jobs assigned 240, completed 240 (100%)
+[2025.04.27-04.34.07:276][861]LogShaderCompilers: Display: Average time worker was idle: 154.75 s
+[2025.04.27-04.34.07:276][861]LogShaderCompilers: Display: Time job spent in pending queue: average 0.19 s, longest 1.63 s
+[2025.04.27-04.34.07:276][861]LogShaderCompilers: Display: Job execution time: average 0.96 s, max 2.45 s
+[2025.04.27-04.34.07:276][861]LogShaderCompilers: Display: Job life time (pending + execution): average 1.15 s, max 2.58
+[2025.04.27-04.34.07:276][861]LogShaderCompilers: Display: Shader code size: average 41.142 KiB, min 29.902 KiB, max 62.66 KiB
+[2025.04.27-04.34.07:276][861]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 52.73 s
+[2025.04.27-04.34.07:276][861]LogShaderCompilers: Display: Jobs were issued in 240 batches (only local compilation was used), average 1.00 jobs/batch
+[2025.04.27-04.34.07:276][861]LogShaderCompilers: Display: Average processing rate: 4.55 jobs/sec
+[2025.04.27-04.34.07:276][861]LogShaderCompilers: Display: Total thread time: 158.273 s
+[2025.04.27-04.34.07:276][861]LogShaderCompilers: Display: Total thread preprocess time: 18.436 s
+[2025.04.27-04.34.07:276][861]LogShaderCompilers: Display: Percentage time preprocessing: 11.65%
+[2025.04.27-04.34.07:276][861]LogShaderCompilers: Display: Effective parallelization: 3.00 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2025.04.27-04.34.07:276][861]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2025.04.27-04.34.07:276][861]LogShaderCompilers: Display:        TBasePassPSFCachedPointIndirectLightingPolicySkylight (compiled   12 times, average 0.91 sec, max 1.66 sec, min 0.42 sec)
+[2025.04.27-04.34.07:276][861]LogShaderCompilers: Display:       TBasePassPSFCachedVolumeIndirectLightingPolicySkylight (compiled   12 times, average 0.85 sec, max 1.46 sec, min 0.44 sec)
+[2025.04.27-04.34.07:276][861]LogShaderCompilers: Display: TBasePassPSFPrecomputedVolumetricLightmapLightingPolicySkylight (compiled   12 times, average 0.84 sec, max 1.51 sec, min 0.36 sec)
+[2025.04.27-04.34.07:276][861]LogShaderCompilers: Display:               TBasePassPSFCachedVolumeIndirectLightingPolicy (compiled   12 times, average 0.83 sec, max 1.42 sec, min 0.41 sec)
+[2025.04.27-04.34.07:276][861]LogShaderCompilers: Display:                TBasePassPSFCachedPointIndirectLightingPolicy (compiled   12 times, average 0.83 sec, max 1.38 sec, min 0.39 sec)
+[2025.04.27-04.34.07:276][861]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2025.04.27-04.34.07:276][861]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 11.88% of total time (compiled   25 times, average 0.75 sec, max 1.35 sec, min 0.32 sec)
+[2025.04.27-04.34.07:276][861]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 10.62% of total time (compiled   25 times, average 0.67 sec, max 1.15 sec, min 0.28 sec)
+[2025.04.27-04.34.07:276][861]LogShaderCompilers: Display:                                                 FLumenCardVS - 9.29% of total time (compiled   23 times, average 0.64 sec, max 1.12 sec, min 0.28 sec)
+[2025.04.27-04.34.07:276][861]LogShaderCompilers: Display:        TBasePassPSFCachedPointIndirectLightingPolicySkylight - 6.91% of total time (compiled   12 times, average 0.91 sec, max 1.66 sec, min 0.42 sec)
+[2025.04.27-04.34.07:276][861]LogShaderCompilers: Display:       TBasePassPSFCachedVolumeIndirectLightingPolicySkylight - 6.41% of total time (compiled   12 times, average 0.85 sec, max 1.46 sec, min 0.44 sec)
+[2025.04.27-04.34.07:276][861]LogShaderCompilers: Display: ================================================
+[2025.04.27-04.34.07:321][862]MaterialEditorStats: Base pass shader: 203 instructions
+[2025.04.27-04.34.07:321][862]MaterialEditorStats: Base pass vertex shader: 131 instructions
+[2025.04.27-04.34.07:321][862]MaterialEditorStats: Texture samplers: 2/16
+[2025.04.27-04.34.07:321][862]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2025.04.27-04.34.07:321][862]MaterialEditorStats: Shader Count: 4
+[2025.04.27-04.34.10:817][ 40]LogSlate: Window 'Material_003' being destroyed
+[2025.04.27-04.34.10:822][ 40]LogSlate: Window 'Material_003' being destroyed
+[2025.04.27-04.34.10:872][ 40]LogWorld: UWorld::CleanupWorld for World_25, bSessionEnded=true, bCleanupResources=true
+[2025.04.27-04.34.10:872][ 40]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.04.27-04.34.10:914][ 40]LogWorld: UWorld::CleanupWorld for World_26, bSessionEnded=true, bCleanupResources=true
+[2025.04.27-04.34.10:914][ 40]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.04.27-04.34.34:113][871]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2025.04.27-04.34.35:794][871]LogSlate: Window 'Delete Assets' being destroyed
+[2025.04.27-04.34.35:815][871]LogUObjectGlobals: Force Deleting 5 Package(s):
+	Asset Name: /Game/assets/Freeasset/Apple.Apple
+	Asset Type: StaticMesh
+	Asset Name: /Game/assets/Freeasset/Material_001.Material_001
+	Asset Type: Material
+	Asset Name: /Game/assets/Freeasset/Material_002.Material_002
+	Asset Type: Material
+	Asset Name: /Game/assets/Freeasset/Material_003.Material_003
+	Asset Type: Material
+	Asset Name: /Game/assets/Freeasset/Material_004.Material_004
+	Asset Type: Material
+[2025.04.27-04.34.36:373][871]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/assets/Freeasset/Apple) ...
+[2025.04.27-04.34.36:448][871]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2025.04.27-04.34.36:454][871]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2025.04.27-04.34.36:460][871]LogUObjectHash: Compacting FUObjectHashTables data took   0.38ms
+[2025.04.27-04.34.38:289][ 16]Cmd: DELETE
+[2025.04.27-04.34.38:289][ 16]Cmd: ACTOR DELETE
+[2025.04.27-04.34.38:292][ 16]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.04.27-04.34.38:302][ 16]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
+[2025.04.27-04.34.38:305][ 16]LogEditorActor: Deleted 1 Actors (0.016 secs)
+[2025.04.27-04.35.32:944][377]LogUObjectHash: Compacting FUObjectHashTables data took   0.35ms
+[2025.04.27-04.35.32:947][377]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/9/OP/NA62VLLESAE2V2E6KMF9LU_Auto6
+[2025.04.27-04.35.32:947][377]LogSavePackage: Moving '../../../../../../Users/Microsoft/Documents/GitHub/LDA-new/LDAnew/Saved/NA62VLLESAE2V2E6KMF9LU_Auto652ACAF64498D6451EBA57FBD942E6F9B.tmp' to '../../../../../../Users/Microsoft/Documents/GitHub/LDA-new/LDAnew/Saved/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/9/OP/NA62VLLESAE2V2E6KMF9LU_Auto6.uasset'
+[2025.04.27-04.35.32:950][377]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/6/UN/XIKGULLANK1S83LJUJEWGZ_Auto6
+[2025.04.27-04.35.32:951][377]LogSavePackage: Moving '../../../../../../Users/Microsoft/Documents/GitHub/LDA-new/LDAnew/Saved/XIKGULLANK1S83LJUJEWGZ_Auto6C2849794443817B66F2941A1A3CFCD62.tmp' to '../../../../../../Users/Microsoft/Documents/GitHub/LDA-new/LDAnew/Saved/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/6/UN/XIKGULLANK1S83LJUJEWGZ_Auto6.uasset'
+[2025.04.27-04.35.32:953][377]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/4/YV/46E4OSJIPW8U1AU3K3F7JF_Auto6
+[2025.04.27-04.35.32:953][377]LogSavePackage: Moving '../../../../../../Users/Microsoft/Documents/GitHub/LDA-new/LDAnew/Saved/46E4OSJIPW8U1AU3K3F7JF_Auto681068FD14617450C95F8CAADDF09F252.tmp' to '../../../../../../Users/Microsoft/Documents/GitHub/LDA-new/LDAnew/Saved/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/4/YV/46E4OSJIPW8U1AU3K3F7JF_Auto6.uasset'
+[2025.04.27-04.35.32:955][377]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/2/FV/8CAJ4ZYTCKK1ABL1WH3COW_Auto6
+[2025.04.27-04.35.32:955][377]LogSavePackage: Moving '../../../../../../Users/Microsoft/Documents/GitHub/LDA-new/LDAnew/Saved/8CAJ4ZYTCKK1ABL1WH3COW_Auto6348E02324FB4D727576E9E96BD77B9BD.tmp' to '../../../../../../Users/Microsoft/Documents/GitHub/LDA-new/LDAnew/Saved/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/2/FV/8CAJ4ZYTCKK1ABL1WH3COW_Auto6.uasset'
+[2025.04.27-04.35.32:957][377]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/A/MA/WBCAUDBSRPT7XTMUOBXCFS_Auto6
+[2025.04.27-04.35.32:959][377]LogSavePackage: Moving '../../../../../../Users/Microsoft/Documents/GitHub/LDA-new/LDAnew/Saved/WBCAUDBSRPT7XTMUOBXCFS_Auto6626F5EBC46EB8AB6D81645A9E7FA66B0.tmp' to '../../../../../../Users/Microsoft/Documents/GitHub/LDA-new/LDAnew/Saved/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/A/MA/WBCAUDBSRPT7XTMUOBXCFS_Auto6.uasset'
+[2025.04.27-04.35.32:961][377]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/6/HR/G21XZZPP8J29SC3YEHKGMN_Auto6
+[2025.04.27-04.35.32:961][377]LogSavePackage: Moving '../../../../../../Users/Microsoft/Documents/GitHub/LDA-new/LDAnew/Saved/G21XZZPP8J29SC3YEHKGMN_Auto6C18027704CA7D437A28252885BF765A2.tmp' to '../../../../../../Users/Microsoft/Documents/GitHub/LDA-new/LDAnew/Saved/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/6/HR/G21XZZPP8J29SC3YEHKGMN_Auto6.uasset'
+[2025.04.27-04.35.32:964][377]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/E/E5/JK9WXVOFF9D48MO3JJZLNJ_Auto6
+[2025.04.27-04.35.32:964][377]LogSavePackage: Moving '../../../../../../Users/Microsoft/Documents/GitHub/LDA-new/LDAnew/Saved/JK9WXVOFF9D48MO3JJZLNJ_Auto6A247516A46505331534C429E4462A283.tmp' to '../../../../../../Users/Microsoft/Documents/GitHub/LDA-new/LDAnew/Saved/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/E/E5/JK9WXVOFF9D48MO3JJZLNJ_Auto6.uasset'
+[2025.04.27-04.35.32:967][377]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/D/RL/PWW6QJ4UFX23CK3ZW3T9UD_Auto6
+[2025.04.27-04.35.32:967][377]LogSavePackage: Moving '../../../../../../Users/Microsoft/Documents/GitHub/LDA-new/LDAnew/Saved/PWW6QJ4UFX23CK3ZW3T9UD_Auto6C4EB348D4E451927B984BDA3644F9C0B.tmp' to '../../../../../../Users/Microsoft/Documents/GitHub/LDA-new/LDAnew/Saved/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/D/RL/PWW6QJ4UFX23CK3ZW3T9UD_Auto6.uasset'
+[2025.04.27-04.35.32:969][377]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/4/QD/VRWVKX7EO364911HHQ5KYW_Auto6
+[2025.04.27-04.35.32:969][377]LogSavePackage: Moving '../../../../../../Users/Microsoft/Documents/GitHub/LDA-new/LDAnew/Saved/VRWVKX7EO364911HHQ5KYW_Auto6494DEAD84F9990AE8249B394807B253C.tmp' to '../../../../../../Users/Microsoft/Documents/GitHub/LDA-new/LDAnew/Saved/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/4/QD/VRWVKX7EO364911HHQ5KYW_Auto6.uasset'
+[2025.04.27-04.35.32:974][377]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/1/Z9/4TD2YIH0P2NYNH7SRNFXUP_Auto6
+[2025.04.27-04.35.32:974][377]LogSavePackage: Moving '../../../../../../Users/Microsoft/Documents/GitHub/LDA-new/LDAnew/Saved/4TD2YIH0P2NYNH7SRNFXUP_Auto6D5EF33AA4BF13EC53F94E4B9561C356B.tmp' to '../../../../../../Users/Microsoft/Documents/GitHub/LDA-new/LDAnew/Saved/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/1/Z9/4TD2YIH0P2NYNH7SRNFXUP_Auto6.uasset'
+[2025.04.27-04.35.32:976][377]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/E/YH/UMHL5CPOQ26MPLJFHYRIRG_Auto6
+[2025.04.27-04.35.32:976][377]LogSavePackage: Moving '../../../../../../Users/Microsoft/Documents/GitHub/LDA-new/LDAnew/Saved/UMHL5CPOQ26MPLJFHYRIRG_Auto60F0694144A88DBCBA7A60699ADAB4AA7.tmp' to '../../../../../../Users/Microsoft/Documents/GitHub/LDA-new/LDAnew/Saved/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/E/YH/UMHL5CPOQ26MPLJFHYRIRG_Auto6.uasset'
+[2025.04.27-04.35.32:979][377]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/5/6U/E4NCBMVF72O3SHK4HHEZX9_Auto6
+[2025.04.27-04.35.32:979][377]LogSavePackage: Moving '../../../../../../Users/Microsoft/Documents/GitHub/LDA-new/LDAnew/Saved/E4NCBMVF72O3SHK4HHEZX9_Auto67A1C7C82437C56E115EAA2A8DBD94D90.tmp' to '../../../../../../Users/Microsoft/Documents/GitHub/LDA-new/LDAnew/Saved/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/5/6U/E4NCBMVF72O3SHK4HHEZX9_Auto6.uasset'
+[2025.04.27-04.35.32:981][377]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/8/BY/E3IDK472J2NQ9RTXFHA2OV_Auto6
+[2025.04.27-04.35.32:982][377]LogSavePackage: Moving '../../../../../../Users/Microsoft/Documents/GitHub/LDA-new/LDAnew/Saved/E3IDK472J2NQ9RTXFHA2OV_Auto6ADFEF7E840011CF4A5AB44A6938206B6.tmp' to '../../../../../../Users/Microsoft/Documents/GitHub/LDA-new/LDAnew/Saved/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/8/BY/E3IDK472J2NQ9RTXFHA2OV_Auto6.uasset'
+[2025.04.27-04.35.32:985][377]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/E/3Z/KRA31SGP02HPJWGLK6PNDK_Auto6
+[2025.04.27-04.35.32:985][377]LogSavePackage: Moving '../../../../../../Users/Microsoft/Documents/GitHub/LDA-new/LDAnew/Saved/KRA31SGP02HPJWGLK6PNDK_Auto6352C407540BDD2490D4C7293A3C69691.tmp' to '../../../../../../Users/Microsoft/Documents/GitHub/LDA-new/LDAnew/Saved/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/E/3Z/KRA31SGP02HPJWGLK6PNDK_Auto6.uasset'
+[2025.04.27-04.35.32:986][377]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FirstPerson/Maps/FirstPersonMap' took 0.048
+[2025.04.27-04.35.32:986][377]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.048
+[2025.04.27-04.35.47:204][421]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 10608.440430
+[2025.04.27-04.35.48:204][424]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.04.27-04.35.48:204][424]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 10609.106445, Update Interval: 310.997650
+[2025.04.27-04.37.35:758][831]LogAssetTools: Warning: Failed to import 'C:\Users\Microsoft\Downloads\qrrcz1533g8w-fruitstand (1).rar'. Unknown extension 'rar'.
+[2025.04.27-04.38.15:852][ 69]LogSlate: Window 'Interchange Pipeline Configuration (Import Content)' being destroyed
+[2025.04.27-04.38.15:865][ 69]LogInterchangeEngine: [Pending] Importing
+[2025.04.27-04.38.15:865][ 69]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/Microsoft/D...resnie (1)/czeresnie/czeresnie.obj]
+[2025.04.27-04.38.15:922][ 70]LogInterchangeEngine: [Pending] Importing
+[2025.04.27-04.38.17:000][108]LogStaticMesh: Display: Building static mesh czeresnie...
+[2025.04.27-04.38.17:010][108]LogInterchangeEngine: [Success] Import Done
+[2025.04.27-04.38.17:050][109]LogInterchangeEngine: [Success] Import Done
+[2025.04.27-04.38.18:407][188]LogStaticMesh: Built static mesh [1.41s] /Game/assets/Freeasset/czeresnie.czeresnie
+[2025.04.27-04.38.19:046][227]LogStaticMesh: Warning: czeresnie has some nearly zero normals which can create some issues. (Tolerance of 1E-4)
+[2025.04.27-04.38.19:046][227]LogStaticMesh: Warning: czeresnie has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2025.04.27-04.38.44:524][917]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/assets/Freeasset/czeresnie.czeresnie
+[2025.04.27-04.38.44:524][917]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/assets/Freeasset/czeresnie.czeresnie
+[2025.04.27-04.38.44:525][917]LogActorFactory: Actor Factory spawned StaticMesh /Game/assets/Freeasset/czeresnie.czeresnie as actor: StaticMeshActor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_65
+[2025.04.27-04.38.45:260][979]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/assets/Freeasset/czeresnie.czeresnie
+[2025.04.27-04.38.45:260][979]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/assets/Freeasset/czeresnie.czeresnie
+[2025.04.27-04.38.45:264][979]LogActorFactory: Actor Factory spawned StaticMesh /Game/assets/Freeasset/czeresnie.czeresnie as actor: StaticMeshActor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_A036BC6D4AA5E46202_1462630193
+[2025.04.27-04.39.03:167][451]Cmd: DELETE
+[2025.04.27-04.39.03:167][451]Cmd: ACTOR DELETE
+[2025.04.27-04.39.03:172][451]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.04.27-04.39.03:185][451]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2025.04.27-04.39.03:190][451]LogEditorActor: Deleted 1 Actors (0.023 secs)
+[2025.04.27-04.39.04:107][512]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
+[2025.04.27-04.39.05:037][512]LogSlate: Window 'Delete Assets' being destroyed
+[2025.04.27-04.39.05:051][512]LogWorldPartition: Actor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_A036BC6D4AA5E46202_1462630193 is unreachable without properly detaching object /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/0/6Y/5P2TMEYWWRXZZ6HN6HOKCY.PackageMetaData in its package
+[2025.04.27-04.39.05:051][512]LogWorldPartition: Actor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_A036BC6D4AA5E36202_2137365016 is unreachable without properly detaching object /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/2/8D/YZ7L1YLYXF7WVXVXLNAY01.PackageMetaData in its package
+[2025.04.27-04.39.05:060][512]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2025.04.27-04.39.05:067][512]LogUObjectHash: Compacting FUObjectHashTables data took   0.91ms
+[2025.04.27-04.39.05:074][512]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2025.04.27-04.39.05:085][512]LogUObjectHash: Compacting FUObjectHashTables data took   0.33ms
+[2025.04.27-04.39.57:182][806]LogSlate: Window 'Interchange Pipeline Configuration (Import Content)' being destroyed
+[2025.04.27-04.39.57:196][806]LogInterchangeEngine: [Pending] Importing
+[2025.04.27-04.39.57:197][806]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/Microsoft/D...4e-bac7-c360b305d8c5/10200_Pineapple_v1-L2.obj]
+[2025.04.27-04.39.57:249][807]LogInterchangeEngine: [Pending] Importing
+[2025.04.27-04.40.00:285][926]LogTexture: Display: Building textures: /Game/assets/Freeasset/TEX_10200_Pineapple.TEX_10200_Pineapple (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 101.645823 MB), EncodeSpeed: Fast
+[2025.04.27-04.40.00:314][926]LogRendererCore: Warning: FlushRenderingCommands called recursively! 2 calls on the stack.
+[2025.04.27-04.40.00:324][926]LogRendererCore: Warning: FlushRenderingCommands called recursively! 2 calls on the stack.
+[2025.04.27-04.40.00:346][926]LogStaticMesh: Display: Building static mesh 10200_Pineapple_v1-L2...
+[2025.04.27-04.40.00:362][926]LogInterchangeEngine: [Success] Import Done
+[2025.04.27-04.40.00:429][927]LogInterchangeEngine: [Success] Import Done
+[2025.04.27-04.40.01:148][944]LogShaderCompilers: Display: ================================================
+[2025.04.27-04.40.01:148][944]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2025.04.27-04.40.01:148][944]LogShaderCompilers: Display: Total job queries 1,598, among them cache hits 1,320 (82.60%)
+[2025.04.27-04.40.01:148][944]LogShaderCompilers: Display: Tracking 275 distinct input hashes that result in 141 distinct outputs (51.27%)
+[2025.04.27-04.40.01:148][944]LogShaderCompilers: Display: RAM used: 6.43 MiB of 409.60 MiB budget. Usage: 1.57%
+[2025.04.27-04.40.01:148][944]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2025.04.27-04.40.01:148][944]LogShaderCompilers: Display: Shaders Compiled: 241
+[2025.04.27-04.40.01:148][944]LogShaderCompilers: Display: Jobs assigned 244, completed 241 (98.77%)
+[2025.04.27-04.40.01:148][944]LogShaderCompilers: Display: Average time worker was idle: 160.32 s
+[2025.04.27-04.40.01:148][944]LogShaderCompilers: Display: Time job spent in pending queue: average 0.19 s, longest 1.63 s
+[2025.04.27-04.40.01:148][944]LogShaderCompilers: Display: Job execution time: average 0.96 s, max 2.45 s
+[2025.04.27-04.40.01:148][944]LogShaderCompilers: Display: Job life time (pending + execution): average 1.15 s, max 2.58
+[2025.04.27-04.40.01:148][944]LogShaderCompilers: Display: Shader code size: average 41.104 KiB, min 29.902 KiB, max 62.66 KiB
+[2025.04.27-04.40.01:148][944]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 53.39 s
+[2025.04.27-04.40.01:148][944]LogShaderCompilers: Display: Jobs were issued in 244 batches (only local compilation was used), average 1.00 jobs/batch
+[2025.04.27-04.40.01:148][944]LogShaderCompilers: Display: Average processing rate: 4.51 jobs/sec
+[2025.04.27-04.40.01:148][944]LogShaderCompilers: Display: Total thread time: 158.471 s
+[2025.04.27-04.40.01:148][944]LogShaderCompilers: Display: Total thread preprocess time: 18.47 s
+[2025.04.27-04.40.01:148][944]LogShaderCompilers: Display: Percentage time preprocessing: 11.66%
+[2025.04.27-04.40.01:148][944]LogShaderCompilers: Display: Effective parallelization: 2.97 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2025.04.27-04.40.01:148][944]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2025.04.27-04.40.01:148][944]LogShaderCompilers: Display:        TBasePassPSFCachedPointIndirectLightingPolicySkylight (compiled   12 times, average 0.91 sec, max 1.66 sec, min 0.42 sec)
+[2025.04.27-04.40.01:148][944]LogShaderCompilers: Display:       TBasePassPSFCachedVolumeIndirectLightingPolicySkylight (compiled   12 times, average 0.85 sec, max 1.46 sec, min 0.44 sec)
+[2025.04.27-04.40.01:148][944]LogShaderCompilers: Display: TBasePassPSFPrecomputedVolumetricLightmapLightingPolicySkylight (compiled   12 times, average 0.84 sec, max 1.51 sec, min 0.36 sec)
+[2025.04.27-04.40.01:149][944]LogShaderCompilers: Display:               TBasePassPSFCachedVolumeIndirectLightingPolicy (compiled   12 times, average 0.83 sec, max 1.42 sec, min 0.41 sec)
+[2025.04.27-04.40.01:149][944]LogShaderCompilers: Display:                TBasePassPSFCachedPointIndirectLightingPolicy (compiled   12 times, average 0.83 sec, max 1.38 sec, min 0.39 sec)
+[2025.04.27-04.40.01:149][944]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2025.04.27-04.40.01:149][944]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 11.87% of total time (compiled   25 times, average 0.75 sec, max 1.35 sec, min 0.32 sec)
+[2025.04.27-04.40.01:149][944]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 10.61% of total time (compiled   25 times, average 0.67 sec, max 1.15 sec, min 0.28 sec)
+[2025.04.27-04.40.01:149][944]LogShaderCompilers: Display:                                                 FLumenCardVS - 9.28% of total time (compiled   23 times, average 0.64 sec, max 1.12 sec, min 0.28 sec)
+[2025.04.27-04.40.01:149][944]LogShaderCompilers: Display:        TBasePassPSFCachedPointIndirectLightingPolicySkylight - 6.90% of total time (compiled   12 times, average 0.91 sec, max 1.66 sec, min 0.42 sec)
+[2025.04.27-04.40.01:149][944]LogShaderCompilers: Display:       TBasePassPSFCachedVolumeIndirectLightingPolicySkylight - 6.40% of total time (compiled   12 times, average 0.85 sec, max 1.46 sec, min 0.44 sec)
+[2025.04.27-04.40.01:149][944]LogShaderCompilers: Display: ================================================
+[2025.04.27-04.40.04:816][137]LogStaticMesh: Built static mesh [4.47s] /Game/assets/Freeasset/10200_Pineapple_v1-L2.10200_Pineapple_v1-L2
+[2025.04.27-04.40.07:687][320]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/assets/Freeasset/10200_Pineapple_v1-L2.10200_Pineapple_v1-L2
+[2025.04.27-04.40.07:687][320]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/assets/Freeasset/10200_Pineapple_v1-L2.10200_Pineapple_v1-L2
+[2025.04.27-04.40.07:688][320]LogActorFactory: Actor Factory spawned StaticMesh /Game/assets/Freeasset/10200_Pineapple_v1-L2.10200_Pineapple_v1-L2 as actor: StaticMeshActor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_66
+[2025.04.27-04.40.08:426][365]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/assets/Freeasset/10200_Pineapple_v1-L2.10200_Pineapple_v1-L2
+[2025.04.27-04.40.08:426][365]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/assets/Freeasset/10200_Pineapple_v1-L2.10200_Pineapple_v1-L2
+[2025.04.27-04.40.08:429][365]LogActorFactory: Actor Factory spawned StaticMesh /Game/assets/Freeasset/10200_Pineapple_v1-L2.10200_Pineapple_v1-L2 as actor: StaticMeshActor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_A036BC6D4AA5E46202_1545796194
+[2025.04.27-04.40.08:980][393]LogDerivedDataCache: C:/Users/Microsoft/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:13.063 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 6736 files in 8575 folders with total size 391 MiB.
+[2025.04.27-04.41.35:666][446]Cmd: DUPLICATE
+[2025.04.27-04.41.35:666][446]Cmd: ACTOR DUPLICATE
+[2025.04.27-04.41.41:957][971]Cmd: TRANSACTION UNDO
+[2025.04.27-04.41.41:957][971]LogEditorTransaction: Undo Duplicate Elements
+[2025.04.27-04.41.44:148][ 98]Cmd: DUPLICATE
+[2025.04.27-04.41.44:148][ 98]Cmd: ACTOR DUPLICATE
+[2025.04.27-04.41.45:953][225]Cmd: DUPLICATE
+[2025.04.27-04.41.45:954][225]Cmd: ACTOR DUPLICATE
+[2025.04.27-04.41.49:448][493]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 10970.649414
+[2025.04.27-04.41.49:738][516]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.04.27-04.41.49:738][516]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 10970.925781, Update Interval: 344.803619
+[2025.04.27-04.42.51:311][533]LogWorldPartition: Actor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_A036BC6D4AA5E46202_1633051195 is unreachable without properly detaching object /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/6/2C/O4B1A2Q8QCXSTZ5Q2WJ7KW.PackageMetaData in its package
+[2025.04.27-04.42.51:315][533]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2025.04.27-04.42.52:405][533]LogSlate: Window 'Save Content' being destroyed
+[2025.04.27-04.42.52:417][533]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.04.27-04.42.52:675][533]LogSavePackage: Moving output files for package: /Game/assets/Freeasset/10200_Pineapple_v1-L2
+[2025.04.27-04.42.52:675][533]LogSavePackage: Moving '../../../../../../Users/Microsoft/Documents/GitHub/LDA-new/LDAnew/Saved/10200_Pineapple_v1-L2CD074AB94F704C5C36723FA8BC35DAB6.tmp' to '../../../../../../Users/Microsoft/Documents/GitHub/LDA-new/LDAnew/Content/assets/Freeasset/10200_Pineapple_v1-L2.uasset'
+[2025.04.27-04.42.52:687][533]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/5/9B/HJC3A6C9TU94JAZMQ5H9E9
+[2025.04.27-04.42.52:687][533]LogSavePackage: Moving '../../../../../../Users/Microsoft/Documents/GitHub/LDA-new/LDAnew/Saved/HJC3A6C9TU94JAZMQ5H9E9829C8DC44A4D05BEE90214AD6F52D565.tmp' to '../../../../../../Users/Microsoft/Documents/GitHub/LDA-new/LDAnew/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/5/9B/HJC3A6C9TU94JAZMQ5H9E9.uasset'
+[2025.04.27-04.42.52:690][533]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/2/6D/3D67MM96LV9DGZ83O40TMA
+[2025.04.27-04.42.52:690][533]LogSavePackage: Moving '../../../../../../Users/Microsoft/Documents/GitHub/LDA-new/LDAnew/Saved/3D67MM96LV9DGZ83O40TMA21924EB04CD6971D1CD1939ED326EC06.tmp' to '../../../../../../Users/Microsoft/Documents/GitHub/LDA-new/LDAnew/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/2/6D/3D67MM96LV9DGZ83O40TMA.uasset'
+[2025.04.27-04.42.52:694][533]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/6/MU/DGN00XUBM8605008GY182Q
+[2025.04.27-04.42.52:694][533]LogSavePackage: Moving '../../../../../../Users/Microsoft/Documents/GitHub/LDA-new/LDAnew/Saved/DGN00XUBM8605008GY182Q62E382694241BBDEFF2124A6C5AEBE9E.tmp' to '../../../../../../Users/Microsoft/Documents/GitHub/LDA-new/LDAnew/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/6/MU/DGN00XUBM8605008GY182Q.uasset'
+[2025.04.27-04.42.52:698][533]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/8/BY/E3IDK472J2NQ9RTXFHA2OV
+[2025.04.27-04.42.52:698][533]LogSavePackage: Moving '../../../../../../Users/Microsoft/Documents/GitHub/LDA-new/LDAnew/Saved/E3IDK472J2NQ9RTXFHA2OV0BCAA870428BD51B918232AE91399613.tmp' to '../../../../../../Users/Microsoft/Documents/GitHub/LDA-new/LDAnew/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/8/BY/E3IDK472J2NQ9RTXFHA2OV.uasset'
+[2025.04.27-04.42.52:702][533]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/E/YH/UMHL5CPOQ26MPLJFHYRIRG
+[2025.04.27-04.42.52:702][533]LogSavePackage: Moving '../../../../../../Users/Microsoft/Documents/GitHub/LDA-new/LDAnew/Saved/UMHL5CPOQ26MPLJFHYRIRG912395A54F124DFCC2628AAE6D0FFF1E.tmp' to '../../../../../../Users/Microsoft/Documents/GitHub/LDA-new/LDAnew/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/E/YH/UMHL5CPOQ26MPLJFHYRIRG.uasset'
+[2025.04.27-04.42.52:707][533]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/5/6U/E4NCBMVF72O3SHK4HHEZX9
+[2025.04.27-04.42.52:707][533]LogSavePackage: Moving '../../../../../../Users/Microsoft/Documents/GitHub/LDA-new/LDAnew/Saved/E4NCBMVF72O3SHK4HHEZX9D25317154809DCB1D8666DBD9977B3CF.tmp' to '../../../../../../Users/Microsoft/Documents/GitHub/LDA-new/LDAnew/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/5/6U/E4NCBMVF72O3SHK4HHEZX9.uasset'
+[2025.04.27-04.42.52:711][533]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/E/3Z/KRA31SGP02HPJWGLK6PNDK
+[2025.04.27-04.42.52:711][533]LogSavePackage: Moving '../../../../../../Users/Microsoft/Documents/GitHub/LDA-new/LDAnew/Saved/KRA31SGP02HPJWGLK6PNDK664C914A4331B5B1E5F1A0A8FA75BABB.tmp' to '../../../../../../Users/Microsoft/Documents/GitHub/LDA-new/LDAnew/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/E/3Z/KRA31SGP02HPJWGLK6PNDK.uasset'
+[2025.04.27-04.42.53:871][533]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/assets/Freeasset/lambert2SG" FILE="../../../../../../Users/Microsoft/Documents/GitHub/LDA-new/LDAnew/Content/assets/Freeasset/lambert2SG.uasset" SILENT=true
+[2025.04.27-04.42.53:877][533]LogSavePackage: Moving output files for package: /Game/assets/Freeasset/lambert2SG
+[2025.04.27-04.42.53:877][533]LogSavePackage: Moving '../../../../../../Users/Microsoft/Documents/GitHub/LDA-new/LDAnew/Saved/lambert2SGE5C63B6A4E9900311C6F9DA2AD0FCDAA.tmp' to '../../../../../../Users/Microsoft/Documents/GitHub/LDA-new/LDAnew/Content/assets/Freeasset/lambert2SG.uasset'
+[2025.04.27-04.42.53:881][533]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/D/RL/PWW6QJ4UFX23CK3ZW3T9UD
+[2025.04.27-04.42.53:881][533]LogSavePackage: Moving '../../../../../../Users/Microsoft/Documents/GitHub/LDA-new/LDAnew/Saved/PWW6QJ4UFX23CK3ZW3T9UD2017F1E94AA6C626BFEF41A76DEEDFBB.tmp' to '../../../../../../Users/Microsoft/Documents/GitHub/LDA-new/LDAnew/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/D/RL/PWW6QJ4UFX23CK3ZW3T9UD.uasset'
+[2025.04.27-04.42.53:885][533]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/4/QD/VRWVKX7EO364911HHQ5KYW
+[2025.04.27-04.42.53:885][533]LogSavePackage: Moving '../../../../../../Users/Microsoft/Documents/GitHub/LDA-new/LDAnew/Saved/VRWVKX7EO364911HHQ5KYW46B6C6184423666061C918813039A253.tmp' to '../../../../../../Users/Microsoft/Documents/GitHub/LDA-new/LDAnew/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/4/QD/VRWVKX7EO364911HHQ5KYW.uasset'
+[2025.04.27-04.42.53:887][533]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/1/Z9/4TD2YIH0P2NYNH7SRNFXUP
+[2025.04.27-04.42.53:889][533]LogSavePackage: Moving '../../../../../../Users/Microsoft/Documents/GitHub/LDA-new/LDAnew/Saved/4TD2YIH0P2NYNH7SRNFXUP686445CF4597D722EC1D6B94F0B260C1.tmp' to '../../../../../../Users/Microsoft/Documents/GitHub/LDA-new/LDAnew/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/1/Z9/4TD2YIH0P2NYNH7SRNFXUP.uasset'
+[2025.04.27-04.42.53:891][533]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/9/OP/NA62VLLESAE2V2E6KMF9LU
+[2025.04.27-04.42.53:892][533]LogSavePackage: Moving '../../../../../../Users/Microsoft/Documents/GitHub/LDA-new/LDAnew/Saved/NA62VLLESAE2V2E6KMF9LUD8C407BC4BD847AF8F140392CA8C8CA1.tmp' to '../../../../../../Users/Microsoft/Documents/GitHub/LDA-new/LDAnew/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/9/OP/NA62VLLESAE2V2E6KMF9LU.uasset'
+[2025.04.27-04.42.53:926][533]LogSavePackage: Moving output files for package: /Game/assets/Freeasset/TEX_10200_Pineapple
+[2025.04.27-04.42.53:926][533]LogSavePackage: Moving '../../../../../../Users/Microsoft/Documents/GitHub/LDA-new/LDAnew/Saved/TEX_10200_PineappleD3C85DDF44AAAFB79DBD519296B74642.tmp' to '../../../../../../Users/Microsoft/Documents/GitHub/LDA-new/LDAnew/Content/assets/Freeasset/TEX_10200_Pineapple.uasset'
+[2025.04.27-04.42.53:930][533]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/4/YV/46E4OSJIPW8U1AU3K3F7JF
+[2025.04.27-04.42.53:930][533]LogSavePackage: Moving '../../../../../../Users/Microsoft/Documents/GitHub/LDA-new/LDAnew/Saved/46E4OSJIPW8U1AU3K3F7JFA2CF0F7E4C6EA4B492D3999DFEA0F09D.tmp' to '../../../../../../Users/Microsoft/Documents/GitHub/LDA-new/LDAnew/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/4/YV/46E4OSJIPW8U1AU3K3F7JF.uasset'
+[2025.04.27-04.42.53:933][533]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/2/FV/8CAJ4ZYTCKK1ABL1WH3COW
+[2025.04.27-04.42.53:933][533]LogSavePackage: Moving '../../../../../../Users/Microsoft/Documents/GitHub/LDA-new/LDAnew/Saved/8CAJ4ZYTCKK1ABL1WH3COW6464981D4FB9B43250873B80EC38FFED.tmp' to '../../../../../../Users/Microsoft/Documents/GitHub/LDA-new/LDAnew/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/2/FV/8CAJ4ZYTCKK1ABL1WH3COW.uasset'
+[2025.04.27-04.42.53:934][533]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/A/MA/WBCAUDBSRPT7XTMUOBXCFS
+[2025.04.27-04.42.53:934][533]LogSavePackage: Moving '../../../../../../Users/Microsoft/Documents/GitHub/LDA-new/LDAnew/Saved/WBCAUDBSRPT7XTMUOBXCFS48C0239F4138F2363E41FAA586AAE126.tmp' to '../../../../../../Users/Microsoft/Documents/GitHub/LDA-new/LDAnew/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/A/MA/WBCAUDBSRPT7XTMUOBXCFS.uasset'
+[2025.04.27-04.42.53:937][533]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/6/HR/G21XZZPP8J29SC3YEHKGMN
+[2025.04.27-04.42.53:937][533]LogSavePackage: Moving '../../../../../../Users/Microsoft/Documents/GitHub/LDA-new/LDAnew/Saved/G21XZZPP8J29SC3YEHKGMN2CB57F9748310E502B4150B61793A751.tmp' to '../../../../../../Users/Microsoft/Documents/GitHub/LDA-new/LDAnew/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/6/HR/G21XZZPP8J29SC3YEHKGMN.uasset'
+[2025.04.27-04.42.53:940][533]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/E/E5/JK9WXVOFF9D48MO3JJZLNJ
+[2025.04.27-04.42.53:940][533]LogSavePackage: Moving '../../../../../../Users/Microsoft/Documents/GitHub/LDA-new/LDAnew/Saved/JK9WXVOFF9D48MO3JJZLNJ433AF0C146FD771A60C4DDBEE5C9EFD4.tmp' to '../../../../../../Users/Microsoft/Documents/GitHub/LDA-new/LDAnew/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/E/E5/JK9WXVOFF9D48MO3JJZLNJ.uasset'
+[2025.04.27-04.42.53:943][533]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/6/UN/XIKGULLANK1S83LJUJEWGZ
+[2025.04.27-04.42.53:944][533]LogSavePackage: Moving '../../../../../../Users/Microsoft/Documents/GitHub/LDA-new/LDAnew/Saved/XIKGULLANK1S83LJUJEWGZ2FD09EA145091F777C62E9A18645B764.tmp' to '../../../../../../Users/Microsoft/Documents/GitHub/LDA-new/LDAnew/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/6/UN/XIKGULLANK1S83LJUJEWGZ.uasset'
+[2025.04.27-04.42.53:955][533]LogFileHelpers: InternalPromptForCheckoutAndSave took 1.53 sec (total: 23.6 sec)
+[2025.04.27-04.42.53:978][533]AssetCheck: New page: Asset Save: multiple assets
+[2025.04.27-04.42.53:979][533]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/assets/Freeasset/10200_Pineapple_v1-L2.10200_Pineapple_v1-L2
+[2025.04.27-04.42.53:979][533]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_A036BC6D4AA5E46202_1545796194
+[2025.04.27-04.42.53:979][533]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_A036BC6D4AA5E46202_1641519196
+[2025.04.27-04.42.53:979][533]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_A036BC6D4AA5E46202_1643324197
+[2025.04.27-04.42.53:979][533]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_A036BC6D4AA5E36202_1558590009
+[2025.04.27-04.42.53:979][533]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_A036BC6D4AA5E36202_1239290008
+[2025.04.27-04.42.53:979][533]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_A036BC6D4AA5E36202_1613946011
+[2025.04.27-04.42.53:979][533]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_A036BC6D4AA5E36202_1839836013
+[2025.04.27-04.42.53:979][533]LogContentValidation: Display: Validating /Script/Engine.Material /Game/assets/Freeasset/lambert2SG.lambert2SG
+[2025.04.27-04.42.53:980][533]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_A036BC6D4AA5E26202_1644190811
+[2025.04.27-04.42.53:980][533]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_A036BC6D4AA5E26202_1644194814
+[2025.04.27-04.42.53:980][533]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_A036BC6D4AA5E26202_1644196816
+[2025.04.27-04.42.53:980][533]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_A036BC6D4AA5E26202_1976754830
+[2025.04.27-04.42.53:980][533]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/assets/Freeasset/TEX_10200_Pineapple.TEX_10200_Pineapple
+[2025.04.27-04.42.53:980][533]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_A036BC6D4AA5E26202_1801250825
+[2025.04.27-04.42.53:980][533]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_A036BC6D4AA5E26202_1905107826
+[2025.04.27-04.42.53:980][533]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_A036BC6D4AA5E26202_1926241827
+[2025.04.27-04.42.53:980][533]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_A036BC6D4AA5E26202_1958378828
+[2025.04.27-04.42.53:980][533]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_A036BC6D4AA5E26202_1968058829
+[2025.04.27-04.42.53:980][533]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_A036BC6D4AA5E26202_2012078831
+[2025.04.27-04.42.53:992][533]LogUObjectHash: Compacting FUObjectHashTables data took   0.89ms
+[2025.04.27-04.43.28:327][260]Cmd: DUPLICATE
+[2025.04.27-04.43.28:327][260]Cmd: ACTOR DUPLICATE
+[2025.04.27-04.44.10:462][704]Cmd: EDIT COPY
+[2025.04.27-04.44.10:805][732]Cmd: EDIT PASTE
+[2025.04.27-04.44.20:028][464]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2025.04.27-04.44.20:860][464]LogSlate: Window 'Save Content' being destroyed
+[2025.04.27-04.44.20:874][464]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.04.27-04.44.20:960][464]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/A/RB/BPKRK3FH2L06SY38XOX0EI
+[2025.04.27-04.44.20:960][464]LogSavePackage: Moving '../../../../../../Users/Microsoft/Documents/GitHub/LDA-new/LDAnew/Saved/BPKRK3FH2L06SY38XOX0EI61F492B3489649F9307DED881AC53042.tmp' to '../../../../../../Users/Microsoft/Documents/GitHub/LDA-new/LDAnew/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/A/RB/BPKRK3FH2L06SY38XOX0EI.uasset'
+[2025.04.27-04.44.20:962][464]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/5/RS/WQQWT4OBUAGTGGJBT10MGP
+[2025.04.27-04.44.20:962][464]LogSavePackage: Moving '../../../../../../Users/Microsoft/Documents/GitHub/LDA-new/LDAnew/Saved/WQQWT4OBUAGTGGJBT10MGPDE0084464A621315CC3F93BECD366140.tmp' to '../../../../../../Users/Microsoft/Documents/GitHub/LDA-new/LDAnew/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/5/RS/WQQWT4OBUAGTGGJBT10MGP.uasset'
+[2025.04.27-04.44.20:980][464]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/E/E5/JK9WXVOFF9D48MO3JJZLNJ
+[2025.04.27-04.44.20:980][464]LogSavePackage: Moving '../../../../../../Users/Microsoft/Documents/GitHub/LDA-new/LDAnew/Saved/JK9WXVOFF9D48MO3JJZLNJ4E2301B54AF8AB6885ABBEAEDEE706BA.tmp' to '../../../../../../Users/Microsoft/Documents/GitHub/LDA-new/LDAnew/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/E/E5/JK9WXVOFF9D48MO3JJZLNJ.uasset'
+[2025.04.27-04.44.20:991][464]LogFileHelpers: InternalPromptForCheckoutAndSave took 116 ms (total: 23.8 sec)
+[2025.04.27-04.44.20:995][464]AssetCheck: New page: Asset Save: multiple assets
+[2025.04.27-04.44.20:995][464]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_A036BC6D4AA5E46202_1745697198
+[2025.04.27-04.44.20:995][464]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_A036BC6D4AA5E46202_1788176199
+[2025.04.27-04.44.20:995][464]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_A036BC6D4AA5E26202_1968058829
+[2025.04.27-04.44.23:759][690]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2025.04.27-04.44.23:772][690]LogContentBrowser: Creating deferred item: NewFolder
+[2025.04.27-04.44.23:782][691]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2025.04.27-04.44.27:889][ 26]LogContentBrowser: Attempting asset rename: NewFolder -> pineapple
+[2025.04.27-04.44.27:903][ 26]LogContentBrowser: End creating deferred item NewFolder
+[2025.04.27-04.44.31:920][358]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.04.27-04.44.32:110][358]LogSavePackage: Moving output files for package: /Game/assets/Freeasset/pineapple/10200_Pineapple_v1-L2
+[2025.04.27-04.44.32:110][358]LogSavePackage: Moving '../../../../../../Users/Microsoft/Documents/GitHub/LDA-new/LDAnew/Saved/10200_Pineapple_v1-L269233DFC486439D521AD3198CBDEAF8F.tmp' to '../../../../../../Users/Microsoft/Documents/GitHub/LDA-new/LDAnew/Content/assets/Freeasset/pineapple/10200_Pineapple_v1-L2.uasset'
+[2025.04.27-04.44.32:114][358]LogSavePackage: Moving output files for package: /Game/assets/Freeasset/10200_Pineapple_v1-L2
+[2025.04.27-04.44.32:114][358]LogSavePackage: Moving '../../../../../../Users/Microsoft/Documents/GitHub/LDA-new/LDAnew/Saved/10200_Pineapple_v1-L21E448EAD4E847EE8AA2A4D963BFFD5F6.tmp' to '../../../../../../Users/Microsoft/Documents/GitHub/LDA-new/LDAnew/Content/assets/Freeasset/10200_Pineapple_v1-L2.uasset'
+[2025.04.27-04.44.32:121][358]LogSavePackage: Moving output files for package: /Game/assets/Freeasset/pineapple/lambert2SG
+[2025.04.27-04.44.32:121][358]LogSavePackage: Moving '../../../../../../Users/Microsoft/Documents/GitHub/LDA-new/LDAnew/Saved/lambert2SG642D99CB435347EC028311AB58E57C1D.tmp' to '../../../../../../Users/Microsoft/Documents/GitHub/LDA-new/LDAnew/Content/assets/Freeasset/pineapple/lambert2SG.uasset'
+[2025.04.27-04.44.32:140][358]LogSavePackage: Moving output files for package: /Game/assets/Freeasset/pineapple/TEX_10200_Pineapple
+[2025.04.27-04.44.32:140][358]LogSavePackage: Moving '../../../../../../Users/Microsoft/Documents/GitHub/LDA-new/LDAnew/Saved/TEX_10200_PineappleA028D38344B14618AC63839B18B78D44.tmp' to '../../../../../../Users/Microsoft/Documents/GitHub/LDA-new/LDAnew/Content/assets/Freeasset/pineapple/TEX_10200_Pineapple.uasset'
+[2025.04.27-04.44.32:148][358]LogFileHelpers: InternalPromptForCheckoutAndSave took 228 ms (total: 24.0 sec)
+[2025.04.27-04.44.32:181][358]LogUObjectHash: Compacting FUObjectHashTables data took   0.82ms
+[2025.04.27-04.44.32:189][358]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2025.04.27-04.44.32:196][358]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2025.04.27-04.44.32:225][358]AssetCheck: New page: Asset Save: multiple assets
+[2025.04.27-04.44.32:225][358]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/assets/Freeasset/pineapple/10200_Pineapple_v1-L2.10200_Pineapple_v1-L2
+[2025.04.27-04.44.32:225][358]LogContentValidation: Display: Validating /Script/CoreUObject.ObjectRedirector /Game/assets/Freeasset/10200_Pineapple_v1-L2.10200_Pineapple_v1-L2
+[2025.04.27-04.44.32:225][358]LogContentValidation: Display: Validating /Script/Engine.Material /Game/assets/Freeasset/pineapple/lambert2SG.lambert2SG
+[2025.04.27-04.44.32:225][358]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/assets/Freeasset/pineapple/TEX_10200_Pineapple.TEX_10200_Pineapple
+[2025.04.27-04.48.08:491][182]LogAssetTools: Warning: Failed to import 'C:\Users\Microsoft\Downloads\ime9ks78pt6o-Rattan_Basket_max\rattan_basket.mat'. Unknown extension 'mat'.
+[2025.04.27-04.48.31:861][281]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 11373.048828
+[2025.04.27-04.48.32:861][284]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.04.27-04.48.32:861][284]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 11373.715820, Update Interval: 315.326385
+[2025.04.27-04.54.43:257][395]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 11744.418945
+[2025.04.27-04.54.44:255][398]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.04.27-04.54.44:255][398]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 11745.083984, Update Interval: 340.139771
+[2025.04.27-04.55.23:961][561]LogHttp: Warning: 00000758ADA7C300: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2025.04.27-04.55.23:962][561]LogHttp: Warning: 00000758ADA7C300: libcurl info message cache 0 (Found bundle for host: 0x7583d160330 [serially])
+[2025.04.27-04.55.23:962][561]LogHttp: Warning: 00000758ADA7C300: libcurl info message cache 1 (Re-using existing connection with host datarouter.ol.epicgames.com)
+[2025.04.27-04.55.23:962][561]LogHttp: Warning: 00000758ADA7C300: libcurl info message cache 2 (We are completely uploaded and fine)
+[2025.04.27-04.55.23:962][561]LogHttp: Warning: 00000758ADA7C300: libcurl info message cache 3 (Recv failure: Connection was reset)
+[2025.04.27-04.55.23:962][561]LogHttp: Warning: 00000758ADA7C300: libcurl info message cache 4 (OpenSSL SSL_read: Connection was reset, errno 10054)
+[2025.04.27-04.55.23:962][561]LogHttp: Warning: 00000758ADA7C300: libcurl info message cache 5 (Connection died, retrying a fresh connect (retry count: 1))
+[2025.04.27-04.55.23:962][561]LogHttp: Warning: 00000758ADA7C300: libcurl info message cache 6 (state.rewindbeforesend = TRUE)
+[2025.04.27-04.55.23:962][561]LogHttp: Warning: 00000758ADA7C300: libcurl info message cache 7 (Closing connection)
+[2025.04.27-04.55.23:962][561]LogHttp: Warning: 00000758ADA7C300: libcurl info message cache 8 (Recv failure: Connection was reset)
+[2025.04.27-04.55.23:962][561]LogHttp: Warning: 00000758ADA7C300: libcurl info message cache 9 (Send failure: Connection was reset)
+[2025.04.27-04.55.23:962][561]LogHttp: Warning: 00000758ADA7C300: libcurl info message cache 10 (Recv failure: Connection was reset)
+[2025.04.27-04.55.23:962][561]LogHttp: Warning: 00000758ADA7C300: libcurl info message cache 11 (Issue another request to this URL: 'https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B8FA5A4EE-433D-E683-731F-D2BCBA0D8ACC%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.3.2-29314046%2B%2B%2BUE5%2BRelease-5.3&UserID=472993cd4bf2c8b205506a994945bb87%7C0581e2f2f58d41e38f5da1aeb8bdb038%7C292c8271-fabb-4f52-adbd-9b4705f89ffe&AppEnvironment=datacollector-binary&UploadType=eteventstream')
+[2025.04.27-04.55.23:963][561]LogHttp: Warning: 00000758ADA7C300: libcurl info message cache 12 (Could not resolve host: datarouter.ol.epicgames.com)
+[2025.04.27-04.55.23:963][561]LogHttp: Warning: 00000758ADA7C300: libcurl info message cache 13 (Closing connection)
+[2025.04.27-04.55.23:963][561]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B8FA5A4EE-433D-E683-731F-D2BCBA0D8ACC%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.3.2-29314046%2B%2B%2BUE5%2BRelease-5.3&UserID=472993cd4bf2c8b205506a994945bb87%7C0581e2f2f58d41e38f5da1aeb8bdb038%7C292c8271-fabb-4f52-adbd-9b4705f89ffe&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2025.04.27-04.55.30:861][692]LogSlate: Window 'Interchange Pipeline Configuration (Import Content)' being destroyed
+[2025.04.27-04.55.30:881][692]LogInterchangeEngine: [Pending] Importing
+[2025.04.27-04.55.30:886][692]LogInterchangeEngine: [Success] Import Canceled
+[2025.04.27-04.55.30:952][693]LogInterchangeEngine: [Success] Import Canceled
+[2025.04.27-04.55.37:467][841]LogSlate: Window 'Interchange Pipeline Configuration (Import Content)' being destroyed
+[2025.04.27-04.55.37:479][841]LogInterchangeEngine: [Pending] Importing
+[2025.04.27-04.55.37:479][841]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/Microsoft/D...tole/gol gappe stole/3.gol gapppe.obj]
+[2025.04.27-04.55.37:550][842]LogInterchangeEngine: [Pending] Importing
+[2025.04.27-04.55.41:450][968]LogStaticMesh: Display: Building static mesh 3_gol_gapppe...
+[2025.04.27-04.55.41:691][968]LogInterchangeEngine: [Success] Import Done
+[2025.04.27-04.55.41:744][969]LogInterchangeEngine: [Success] Import Done
+[2025.04.27-04.55.42:840][ 16]LogShaderCompilers: Display: ================================================
+[2025.04.27-04.55.42:840][ 16]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2025.04.27-04.55.42:840][ 16]LogShaderCompilers: Display: Total job queries 1,614, among them cache hits 1,324 (82.03%)
+[2025.04.27-04.55.42:840][ 16]LogShaderCompilers: Display: Tracking 290 distinct input hashes that result in 150 distinct outputs (51.72%)
+[2025.04.27-04.55.42:841][ 16]LogShaderCompilers: Display: RAM used: 6.81 MiB of 409.60 MiB budget. Usage: 1.66%
+[2025.04.27-04.55.42:841][ 16]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2025.04.27-04.55.42:841][ 16]LogShaderCompilers: Display: Shaders Compiled: 256
+[2025.04.27-04.55.42:841][ 16]LogShaderCompilers: Display: Jobs assigned 256, completed 256 (100%)
+[2025.04.27-04.55.42:841][ 16]LogShaderCompilers: Display: Average time worker was idle: 165.91 s
+[2025.04.27-04.55.42:841][ 16]LogShaderCompilers: Display: Time job spent in pending queue: average 0.19 s, longest 1.63 s
+[2025.04.27-04.55.42:841][ 16]LogShaderCompilers: Display: Job execution time: average 0.94 s, max 2.45 s
+[2025.04.27-04.55.42:841][ 16]LogShaderCompilers: Display: Job life time (pending + execution): average 1.13 s, max 2.58
+[2025.04.27-04.55.42:841][ 16]LogShaderCompilers: Display: Shader code size: average 41.244 KiB, min 29.902 KiB, max 62.66 KiB
+[2025.04.27-04.55.42:841][ 16]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 54.74 s
+[2025.04.27-04.55.42:841][ 16]LogShaderCompilers: Display: Jobs were issued in 256 batches (only local compilation was used), average 1.00 jobs/batch
+[2025.04.27-04.55.42:841][ 16]LogShaderCompilers: Display: Average processing rate: 4.68 jobs/sec
+[2025.04.27-04.55.42:841][ 16]LogShaderCompilers: Display: Total thread time: 163.915 s
+[2025.04.27-04.55.42:841][ 16]LogShaderCompilers: Display: Total thread preprocess time: 19.102 s
+[2025.04.27-04.55.42:841][ 16]LogShaderCompilers: Display: Percentage time preprocessing: 11.65%
+[2025.04.27-04.55.42:841][ 16]LogShaderCompilers: Display: Effective parallelization: 2.99 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2025.04.27-04.55.42:841][ 16]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2025.04.27-04.55.42:841][ 16]LogShaderCompilers: Display:        TBasePassPSFCachedPointIndirectLightingPolicySkylight (compiled   13 times, average 0.88 sec, max 1.66 sec, min 0.42 sec)
+[2025.04.27-04.55.42:841][ 16]LogShaderCompilers: Display:       TBasePassPSFCachedVolumeIndirectLightingPolicySkylight (compiled   13 times, average 0.81 sec, max 1.46 sec, min 0.44 sec)
+[2025.04.27-04.55.42:841][ 16]LogShaderCompilers: Display: TBasePassPSFPrecomputedVolumetricLightmapLightingPolicySkylight (compiled   13 times, average 0.81 sec, max 1.51 sec, min 0.36 sec)
+[2025.04.27-04.55.42:841][ 16]LogShaderCompilers: Display:               TBasePassPSFCachedVolumeIndirectLightingPolicy (compiled   13 times, average 0.80 sec, max 1.42 sec, min 0.41 sec)
+[2025.04.27-04.55.42:841][ 16]LogShaderCompilers: Display:                TBasePassPSFCachedPointIndirectLightingPolicy (compiled   13 times, average 0.80 sec, max 1.38 sec, min 0.39 sec)
+[2025.04.27-04.55.42:841][ 16]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2025.04.27-04.55.42:841][ 16]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 11.73% of total time (compiled   26 times, average 0.74 sec, max 1.35 sec, min 0.32 sec)
+[2025.04.27-04.55.42:841][ 16]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 10.50% of total time (compiled   26 times, average 0.66 sec, max 1.15 sec, min 0.28 sec)
+[2025.04.27-04.55.42:841][ 16]LogShaderCompilers: Display:                                                 FLumenCardVS - 9.21% of total time (compiled   24 times, average 0.63 sec, max 1.12 sec, min 0.28 sec)
+[2025.04.27-04.55.42:841][ 16]LogShaderCompilers: Display:        TBasePassPSFCachedPointIndirectLightingPolicySkylight - 6.95% of total time (compiled   13 times, average 0.88 sec, max 1.66 sec, min 0.42 sec)
+[2025.04.27-04.55.42:841][ 16]LogShaderCompilers: Display:       TBasePassPSFCachedVolumeIndirectLightingPolicySkylight - 6.46% of total time (compiled   13 times, average 0.81 sec, max 1.46 sec, min 0.44 sec)
+[2025.04.27-04.55.42:841][ 16]LogShaderCompilers: Display: ================================================
+[2025.04.27-04.55.44:459][ 27]LogStaticMesh: Built static mesh [3.01s] /Game/assets/Freeasset/3_gol_gapppe.3_gol_gapppe
+[2025.04.27-04.55.45:189][ 36]LogStaticMesh: Warning: 3_gol_gapppe has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2025.04.27-04.55.45:190][ 36]LogStaticMesh: Warning: 3_gol_gapppe has some nearly zero normals which can create some issues. (Tolerance of 1E-4)
+[2025.04.27-04.55.45:190][ 36]LogStaticMesh: Warning: 3_gol_gapppe has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2025.04.27-04.55.59:161][800]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/assets/Freeasset/3_gol_gapppe.3_gol_gapppe
+[2025.04.27-04.55.59:162][800]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/assets/Freeasset/3_gol_gapppe.3_gol_gapppe
+[2025.04.27-04.55.59:183][800]LogActorFactory: Actor Factory spawned StaticMesh /Game/assets/Freeasset/3_gol_gapppe.3_gol_gapppe as actor: StaticMeshActor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_67
+[2025.04.27-04.55.59:892][838]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/assets/Freeasset/3_gol_gapppe.3_gol_gapppe
+[2025.04.27-04.55.59:892][838]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/assets/Freeasset/3_gol_gapppe.3_gol_gapppe
+[2025.04.27-04.55.59:915][838]LogActorFactory: Actor Factory spawned StaticMesh /Game/assets/Freeasset/3_gol_gapppe.3_gol_gapppe as actor: StaticMeshActor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_A036BC6D4AA5E56202_1423520376
+[2025.04.27-04.57.32:824][ 44]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/assets/Freeasset/3_gol_gapppe.3_gol_gapppe
+[2025.04.27-04.57.33:010][ 44]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.04.27-04.57.33:025][ 44]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.04.27-04.57.33:867][ 44]LogViewport: Scene viewport resized to 1403x848, mode Windowed.
+[2025.04.27-04.57.39:874][322]LogSlate: Window '3_gol_gapppe' being destroyed
+[2025.04.27-04.57.39:879][322]LogSlate: Window '3_gol_gapppe' being destroyed
+[2025.04.27-04.57.39:932][322]LogWorld: UWorld::CleanupWorld for World_27, bSessionEnded=true, bCleanupResources=true
+[2025.04.27-04.57.39:938][322]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.04.27-04.57.51:078][966]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/assets/Freeasset/3_gol_gapppe.3_gol_gapppe
+[2025.04.27-04.57.51:197][966]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.04.27-04.57.51:197][966]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.04.27-04.57.51:742][966]LogViewport: Scene viewport resized to 1403x848, mode Windowed.
+[2025.04.27-04.58.00:180][375]LogSlate: Window '3_gol_gapppe' being destroyed
+[2025.04.27-04.58.00:187][375]LogSlate: Window '3_gol_gapppe' being destroyed
+[2025.04.27-04.58.00:223][375]LogWorld: UWorld::CleanupWorld for World_28, bSessionEnded=true, bCleanupResources=true
+[2025.04.27-04.58.00:223][375]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.04.27-04.58.03:421][559]Cmd: DELETE
+[2025.04.27-04.58.03:422][559]Cmd: ACTOR DELETE
+[2025.04.27-04.58.03:474][559]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.04.27-04.58.03:595][559]LogUObjectHash: Compacting FUObjectHashTables data took   5.73ms
+[2025.04.27-04.58.03:603][559]LogEditorActor: Deleted 1 Actors (0.156 secs)
+[2025.04.27-04.58.07:375][767]LogUObjectHash: Compacting FUObjectHashTables data took   0.47ms
+[2025.04.27-04.58.08:381][767]LogSlate: Window 'Delete Assets' being destroyed
+[2025.04.27-04.58.08:423][767]LogWorldPartition: Actor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_A036BC6D4AA5E56202_1423520376 is unreachable without properly detaching object /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/4/TX/HN8KTTEI6H96ERIP4Z3H9E.PackageMetaData in its package
+[2025.04.27-04.58.08:496][767]LogUObjectHash: Compacting FUObjectHashTables data took   0.96ms
+[2025.04.27-04.58.08:509][767]LogUObjectHash: Compacting FUObjectHashTables data took   1.29ms
+[2025.04.27-04.58.08:516][767]LogUObjectHash: Compacting FUObjectHashTables data took   0.36ms
+[2025.04.27-04.58.08:534][767]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
+[2025.04.27-04.58.33:434][925]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2025.04.27-04.58.33:437][925]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FirstPerson/Maps/FirstPersonMap' took 0.011
+[2025.04.27-04.58.33:441][925]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/assets/Freeasset/None] ([1] browsable assets)...
+[2025.04.27-04.58.34:949][925]OBJ SavePackage:     Rendered thumbnail for [Material /Game/assets/Freeasset/None.Material_0]
+[2025.04.27-04.58.34:949][925]OBJ SavePackage: Finished generating thumbnails for package [/Game/assets/Freeasset/None]
+[2025.04.27-04.58.34:973][925]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/assets/Freeasset/None_Auto7
+[2025.04.27-04.58.34:973][925]LogSavePackage: Moving '../../../../../../Users/Microsoft/Documents/GitHub/LDA-new/LDAnew/Saved/None_Auto71CE0FE9A41A6C7B882B8B5AB450B1F53.tmp' to '../../../../../../Users/Microsoft/Documents/GitHub/LDA-new/LDAnew/Saved/Autosaves/Game/assets/Freeasset/None_Auto7.uasset'
+[2025.04.27-04.58.34:977][925]LogFileHelpers: Auto-saving content packages took 1.539
+[2025.04.27-05.01.10:822][  8]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 12131.971680
+[2025.04.27-05.01.15:155][ 21]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.04.27-05.01.15:156][ 21]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 12135.973633, Update Interval: 357.522522
+[2025.04.27-05.02.04:723][202]LogSlate: Window 'Interchange Pipeline Configuration (Import Content)' being destroyed
+[2025.04.27-05.02.04:742][202]LogInterchangeEngine: [Pending] Importing
+[2025.04.27-05.02.04:742][202]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/Microsoft/D...4b-882c-169e14190727/11545_Cornucopia_Basket_with_Food_v2_L1.obj]
