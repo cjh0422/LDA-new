@@ -1565,3 +1565,7 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2025.05.02-12.12.45:243][249]LogShaderCompilers: Display: Top 1 shader types by total compile time:
 [2025.05.02-12.12.45:243][249]LogShaderCompilers: Display:                                          FLumenCardPS<false> - 100.00% of total time (compiled    1 times, average 0.66 sec, max 0.66 sec, min 0.66 sec)
 [2025.05.02-12.12.45:243][249]LogShaderCompilers: Display: ================================================
+[2025.05.02-12.13.50:484][803]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 10927.316406
+[2025.05.02-12.13.52:485][809]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.02-12.13.52:485][809]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 10928.984375, Update Interval: 331.251556
+[2025.05.02-12.14.01:546][836]LogDerivedDataCache: C:/Users/jiaho/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:24.091 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 13196 files in 13263 folders with total size 140 MiB.
