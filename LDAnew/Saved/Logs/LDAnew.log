@@ -2007,3 +2007,12 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2025.05.11-13.44.02:087][764]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
 [2025.05.11-13.44.29:380][125]LogUObjectHash: Compacting FUObjectHashTables data took   1.54ms
 [2025.05.11-13.45.01:292][352]LogDerivedDataCache: C:/Users/jiaho/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:04.061 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 2370 files in 3407 folders with total size 132 MiB.
+[2025.05.11-13.47.29:652][268]Cmd: TRANSACTION UNDO
+[2025.05.11-13.47.29:652][268]LogEditorTransaction: Undo Move Elements
+[2025.05.11-13.48.26:572][512]LogUObjectHash: Compacting FUObjectHashTables data took   1.12ms
+[2025.05.11-13.48.26:582][512]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.05.11-13.48.26:658][512]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/B/JG/G75HVZEP3BV622VKNCU9BQ
+[2025.05.11-13.48.26:659][512]LogSavePackage: Moving '../../../../../Document/Degree/Y3S3/Level Design/Assignment/LDA-new/LDAnew/Saved/G75HVZEP3BV622VKNCU9BQB1DA25A842AA856E430170AC322BA685.tmp' to '../../../../../Document/Degree/Y3S3/Level Design/Assignment/LDA-new/LDAnew/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/B/JG/G75HVZEP3BV622VKNCU9BQ.uasset'
+[2025.05.11-13.48.26:670][512]LogFileHelpers: InternalPromptForCheckoutAndSave took 88 ms (total: 491 ms)
+[2025.05.11-13.48.26:672][512]AssetCheck: New page: Asset Save: NavMeshBoundsVolume_UAID_60189573EF5B046702_1272240967
+[2025.05.11-13.48.26:672][512]LogContentValidation: Display: Validating /Script/NavigationSystem.NavMeshBoundsVolume /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.NavMeshBoundsVolume_UAID_60189573EF5B046702_1272240967
