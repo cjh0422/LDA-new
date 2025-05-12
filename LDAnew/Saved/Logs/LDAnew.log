@@ -1643,3 +1643,175 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2025.05.12-01.24.51:805][969]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_A036BC6D4AA5906702_1599168608
 [2025.05.12-01.24.51:805][969]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_A036BC6D4AA5906702_1612061609
 [2025.05.12-01.24.51:811][969]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2025.05.12-01.28.16:567][819]LogSlate: Window 'Interchange Pipeline Configuration (Import Content)' being destroyed
+[2025.05.12-01.28.16:585][819]LogInterchangeEngine: [Pending] Importing
+[2025.05.12-01.28.16:585][819]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/Microsoft/D...2a-a5b4-56f9c1788379/12209_Vegetable_v1_L3.obj]
+[2025.05.12-01.28.16:610][820]LogAutomationController: Ignoring very large delta of 3.40 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2025.05.12-01.28.16:634][820]LogTemp: Warning: Interchange Obj translator: Unexpected extra arguments on vt keyword
+[2025.05.12-01.28.16:646][820]LogTemp: Display: Interchange Obj translator: Unknown keyword: s
+[2025.05.12-01.28.16:675][820]LogInterchangeEngine: [Pending] Importing
+[2025.05.12-01.28.17:026][825]LogTexture: Display: Building textures: /Game/assets/Freeasset/vegetable/TEX_Cabbage.TEX_Cabbage (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 101.645823 MB), EncodeSpeed: Fast
+[2025.05.12-01.28.17:105][825]LogStaticMesh: Display: Building static mesh 12209_Vegetable_v1_L3...
+[2025.05.12-01.28.17:126][826]LogInterchangeEngine: [Success] Import Done
+[2025.05.12-01.28.17:190][827]LogInterchangeEngine: [Success] Import Done
+[2025.05.12-01.28.17:312][828]LogShaderCompilers: Display: ================================================
+[2025.05.12-01.28.17:312][828]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2025.05.12-01.28.17:312][828]LogShaderCompilers: Display: Total job queries 4, among them cache hits 0 (0.00%)
+[2025.05.12-01.28.17:312][828]LogShaderCompilers: Display: Tracking 4 distinct input hashes that result in 4 distinct outputs (100.00%)
+[2025.05.12-01.28.17:312][828]LogShaderCompilers: Display: RAM used: 83.95 KiB of 409.60 MiB budget. Usage: 0.02%
+[2025.05.12-01.28.17:312][828]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2025.05.12-01.28.17:312][828]LogShaderCompilers: Display: Shaders Compiled: 0
+[2025.05.12-01.28.17:312][828]LogShaderCompilers: Display: Jobs assigned 0, completed 0 (0%)
+[2025.05.12-01.28.17:312][828]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 0.00 s
+[2025.05.12-01.28.17:312][828]LogShaderCompilers: Display: ================================================
+[2025.05.12-01.28.17:466][832]LogStaticMesh: Built static mesh [0.36s] /Game/assets/Freeasset/vegetable/12209_Vegetable_v1_L3.12209_Vegetable_v1_L3
+[2025.05.12-01.28.24:241][321]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/assets/Freeasset/vegetable/12209_Vegetable_v1_L3.12209_Vegetable_v1_L3
+[2025.05.12-01.28.24:241][321]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/assets/Freeasset/vegetable/12209_Vegetable_v1_L3.12209_Vegetable_v1_L3
+[2025.05.12-01.28.24:242][321]LogActorFactory: Actor Factory spawned StaticMesh /Game/assets/Freeasset/vegetable/12209_Vegetable_v1_L3.12209_Vegetable_v1_L3 as actor: StaticMeshActor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_39
+[2025.05.12-01.28.24:560][344]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/assets/Freeasset/vegetable/12209_Vegetable_v1_L3.12209_Vegetable_v1_L3
+[2025.05.12-01.28.24:562][344]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/assets/Freeasset/vegetable/12209_Vegetable_v1_L3.12209_Vegetable_v1_L3
+[2025.05.12-01.28.24:563][344]LogActorFactory: Actor Factory spawned StaticMesh /Game/assets/Freeasset/vegetable/12209_Vegetable_v1_L3.12209_Vegetable_v1_L3 as actor: StaticMeshActor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_A036BC6D4AA5906702_1846708610
+[2025.05.12-01.29.06:728][673]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/assets/Freeasset/fruitBox/14030_Cardboard_Box_with_holders_for_fruit_v2_l1.14030_Cardboard_Box_with_holders_for_fruit_v2_l1
+[2025.05.12-01.29.06:728][673]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/assets/Freeasset/fruitBox/14030_Cardboard_Box_with_holders_for_fruit_v2_l1.14030_Cardboard_Box_with_holders_for_fruit_v2_l1
+[2025.05.12-01.29.06:729][673]LogActorFactory: Actor Factory spawned StaticMesh /Game/assets/Freeasset/fruitBox/14030_Cardboard_Box_with_holders_for_fruit_v2_l1.14030_Cardboard_Box_with_holders_for_fruit_v2_l1 as actor: StaticMeshActor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_48
+[2025.05.12-01.29.07:377][723]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/assets/Freeasset/fruitBox/14030_Cardboard_Box_with_holders_for_fruit_v2_l1.14030_Cardboard_Box_with_holders_for_fruit_v2_l1
+[2025.05.12-01.29.07:378][723]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/assets/Freeasset/fruitBox/14030_Cardboard_Box_with_holders_for_fruit_v2_l1.14030_Cardboard_Box_with_holders_for_fruit_v2_l1
+[2025.05.12-01.29.07:379][723]LogActorFactory: Actor Factory spawned StaticMesh /Game/assets/Freeasset/fruitBox/14030_Cardboard_Box_with_holders_for_fruit_v2_l1.14030_Cardboard_Box_with_holders_for_fruit_v2_l1 as actor: StaticMeshActor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_A036BC6D4AA5906702_1889525611
+[2025.05.12-01.30.18:212][554]LogActorFactory: Loading ActorFactory Class /Script/Engine.LevelInstance
+[2025.05.12-01.30.18:664][584]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 1042.333740
+[2025.05.12-01.30.19:012][602]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.12-01.30.19:012][602]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 1042.656250, Update Interval: 309.690247
+[2025.05.12-01.30.20:135][703]Cmd: TRANSACTION UNDO
+[2025.05.12-01.30.20:135][703]LogEditorTransaction: Undo Create Actors
+[2025.05.12-01.30.22:297][807]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/assets/Freeasset/vegetable/12209_Vegetable_v1_L3.12209_Vegetable_v1_L3
+[2025.05.12-01.30.22:297][807]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/assets/Freeasset/vegetable/12209_Vegetable_v1_L3.12209_Vegetable_v1_L3
+[2025.05.12-01.30.22:298][807]LogActorFactory: Actor Factory spawned StaticMesh /Game/assets/Freeasset/vegetable/12209_Vegetable_v1_L3.12209_Vegetable_v1_L3 as actor: StaticMeshActor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_52
+[2025.05.12-01.30.23:129][850]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/assets/Freeasset/vegetable/12209_Vegetable_v1_L3.12209_Vegetable_v1_L3
+[2025.05.12-01.30.23:129][850]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/assets/Freeasset/vegetable/12209_Vegetable_v1_L3.12209_Vegetable_v1_L3
+[2025.05.12-01.30.23:132][850]LogActorFactory: Actor Factory spawned StaticMesh /Game/assets/Freeasset/vegetable/12209_Vegetable_v1_L3.12209_Vegetable_v1_L3 as actor: StaticMeshActor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_A036BC6D4AA5906702_1965277612
+[2025.05.12-01.30.30:380][398]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/assets/Freeasset/vegetable/12209_Vegetable_v1_L3.12209_Vegetable_v1_L3
+[2025.05.12-01.30.30:380][398]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/assets/Freeasset/vegetable/12209_Vegetable_v1_L3.12209_Vegetable_v1_L3
+[2025.05.12-01.30.30:381][398]LogActorFactory: Actor Factory spawned StaticMesh /Game/assets/Freeasset/vegetable/12209_Vegetable_v1_L3.12209_Vegetable_v1_L3 as actor: StaticMeshActor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_53
+[2025.05.12-01.30.31:446][477]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/assets/Freeasset/vegetable/12209_Vegetable_v1_L3.12209_Vegetable_v1_L3
+[2025.05.12-01.30.31:446][477]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/assets/Freeasset/vegetable/12209_Vegetable_v1_L3.12209_Vegetable_v1_L3
+[2025.05.12-01.30.31:448][477]LogActorFactory: Actor Factory spawned StaticMesh /Game/assets/Freeasset/vegetable/12209_Vegetable_v1_L3.12209_Vegetable_v1_L3 as actor: StaticMeshActor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_A036BC6D4AA5906702_1973594613
+[2025.05.12-01.30.49:913][900]LogUObjectHash: Compacting FUObjectHashTables data took   1.37ms
+[2025.05.12-01.30.50:630][900]LogSlate: Window 'Save Content' being destroyed
+[2025.05.12-01.30.50:649][900]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.05.12-01.30.50:755][900]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/5/1E/781GL0WHVZGXLBSEDAIBZC
+[2025.05.12-01.30.50:755][900]LogSavePackage: Moving '../../../../../../Users/Microsoft/Documents/GitHub/LDA-new/LDAnew/Saved/781GL0WHVZGXLBSEDAIBZCE322984E448EB94F3D7A61AF579C7D55.tmp' to '../../../../../../Users/Microsoft/Documents/GitHub/LDA-new/LDAnew/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/5/1E/781GL0WHVZGXLBSEDAIBZC.uasset'
+[2025.05.12-01.30.50:824][900]LogSavePackage: Moving output files for package: /Game/assets/Freeasset/vegetable/12209_Vegetable_v1_L3
+[2025.05.12-01.30.50:824][900]LogSavePackage: Moving '../../../../../../Users/Microsoft/Documents/GitHub/LDA-new/LDAnew/Saved/12209_Vegetable_v1_L3766AE86645BBD5A46B51E1BAA1B1A34A.tmp' to '../../../../../../Users/Microsoft/Documents/GitHub/LDA-new/LDAnew/Content/assets/Freeasset/vegetable/12209_Vegetable_v1_L3.uasset'
+[2025.05.12-01.30.50:827][900]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/4/HG/1GE21461HR9PQEECF336X8
+[2025.05.12-01.30.50:828][900]LogSavePackage: Moving '../../../../../../Users/Microsoft/Documents/GitHub/LDA-new/LDAnew/Saved/1GE21461HR9PQEECF336X808E3CF534D48DC9F1243B9B83C357405.tmp' to '../../../../../../Users/Microsoft/Documents/GitHub/LDA-new/LDAnew/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/4/HG/1GE21461HR9PQEECF336X8.uasset'
+[2025.05.12-01.30.50:830][900]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/A/LE/3CL5UUDUWH9HI09PGS6EPB
+[2025.05.12-01.30.50:830][900]LogSavePackage: Moving '../../../../../../Users/Microsoft/Documents/GitHub/LDA-new/LDAnew/Saved/3CL5UUDUWH9HI09PGS6EPB820E64FF4DE33493574CBDB9F1D2F0A0.tmp' to '../../../../../../Users/Microsoft/Documents/GitHub/LDA-new/LDAnew/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/A/LE/3CL5UUDUWH9HI09PGS6EPB.uasset'
+[2025.05.12-01.30.50:832][900]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/0/D2/NYF5JE924UMXJ4V0Y7O1SL
+[2025.05.12-01.30.50:832][900]LogSavePackage: Moving '../../../../../../Users/Microsoft/Documents/GitHub/LDA-new/LDAnew/Saved/NYF5JE924UMXJ4V0Y7O1SL720F16EA45DF59331D14CC9A7A831DD8.tmp' to '../../../../../../Users/Microsoft/Documents/GitHub/LDA-new/LDAnew/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/0/D2/NYF5JE924UMXJ4V0Y7O1SL.uasset'
+[2025.05.12-01.30.50:860][900]LogSavePackage: Moving output files for package: /Game/assets/Freeasset/vegetable/TEX_Cabbage
+[2025.05.12-01.30.50:860][900]LogSavePackage: Moving '../../../../../../Users/Microsoft/Documents/GitHub/LDA-new/LDAnew/Saved/TEX_Cabbage431FEB844D62A99680C25297AB29A8AF.tmp' to '../../../../../../Users/Microsoft/Documents/GitHub/LDA-new/LDAnew/Content/assets/Freeasset/vegetable/TEX_Cabbage.uasset'
+[2025.05.12-01.30.50:982][900]LogSavePackage: Moving output files for package: /Game/assets/Freeasset/vegetable/Vegetable
+[2025.05.12-01.30.50:982][900]LogSavePackage: Moving '../../../../../../Users/Microsoft/Documents/GitHub/LDA-new/LDAnew/Saved/Vegetable6D821A9D42A1C43B459B58841110C82A.tmp' to '../../../../../../Users/Microsoft/Documents/GitHub/LDA-new/LDAnew/Content/assets/Freeasset/vegetable/Vegetable.uasset'
+[2025.05.12-01.30.50:992][900]LogFileHelpers: InternalPromptForCheckoutAndSave took 341 ms (total: 938 ms)
+[2025.05.12-01.30.50:997][900]AssetCheck: New page: Asset Save: multiple assets
+[2025.05.12-01.30.50:997][900]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_A036BC6D4AA5906702_1846708610
+[2025.05.12-01.30.50:997][900]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/assets/Freeasset/vegetable/12209_Vegetable_v1_L3.12209_Vegetable_v1_L3
+[2025.05.12-01.30.50:997][900]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_A036BC6D4AA5906702_1965277612
+[2025.05.12-01.30.50:997][900]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_A036BC6D4AA5906702_1973594613
+[2025.05.12-01.30.50:997][900]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_A036BC6D4AA5906702_1889525611
+[2025.05.12-01.30.50:997][900]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/assets/Freeasset/vegetable/TEX_Cabbage.TEX_Cabbage
+[2025.05.12-01.30.50:997][900]LogContentValidation: Display: Validating /Script/Engine.Material /Game/assets/Freeasset/vegetable/Vegetable.Vegetable
+[2025.05.12-01.31.31:929][523]LogSlate: Window 'Interchange Pipeline Configuration (Import Content)' being destroyed
+[2025.05.12-01.31.31:939][523]LogInterchangeEngine: [Pending] Importing
+[2025.05.12-01.31.31:939][523]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/Microsoft/D...s/28-pumpkin/pumpkin/pumpkin_.obj]
+[2025.05.12-01.31.32:008][524]LogInterchangeEngine: [Pending] Importing
+[2025.05.12-01.31.32:142][528]LogTexture: Display: Building textures: /Game/assets/Freeasset/TEX_Sphere2.TEX_Sphere2 (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 288.062484 MB), EncodeSpeed: Fast
+[2025.05.12-01.31.32:287][528]LogStaticMesh: Display: Building static mesh pumpkin_...
+[2025.05.12-01.31.32:303][528]LogInterchangeEngine: [Success] Import Done
+[2025.05.12-01.31.32:394][529]LogStaticMesh: Built static mesh [0.11s] /Game/assets/Freeasset/pumpkin_.pumpkin_
+[2025.05.12-01.31.32:423][529]LogInterchangeEngine: [Success] Import Done
+[2025.05.12-01.31.32:532][530]LogShaderCompilers: Display: ================================================
+[2025.05.12-01.31.32:532][530]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2025.05.12-01.31.32:532][530]LogShaderCompilers: Display: Total job queries 20, among them cache hits 0 (0.00%)
+[2025.05.12-01.31.32:532][530]LogShaderCompilers: Display: Tracking 20 distinct input hashes that result in 15 distinct outputs (75.00%)
+[2025.05.12-01.31.32:532][530]LogShaderCompilers: Display: RAM used: 483.25 KiB of 409.60 MiB budget. Usage: 0.12%
+[2025.05.12-01.31.32:533][530]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2025.05.12-01.31.32:533][530]LogShaderCompilers: Display: Shaders Compiled: 0
+[2025.05.12-01.31.32:533][530]LogShaderCompilers: Display: Jobs assigned 0, completed 0 (0%)
+[2025.05.12-01.31.32:533][530]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 0.00 s
+[2025.05.12-01.31.32:533][530]LogShaderCompilers: Display: ================================================
+[2025.05.12-01.31.37:247][816]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/assets/Freeasset/pumpkin_.pumpkin_
+[2025.05.12-01.31.37:247][816]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/assets/Freeasset/pumpkin_.pumpkin_
+[2025.05.12-01.31.37:247][816]LogActorFactory: Actor Factory spawned StaticMesh /Game/assets/Freeasset/pumpkin_.pumpkin_ as actor: StaticMeshActor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_54
+[2025.05.12-01.31.37:842][862]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/assets/Freeasset/pumpkin_.pumpkin_
+[2025.05.12-01.31.37:842][862]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/assets/Freeasset/pumpkin_.pumpkin_
+[2025.05.12-01.31.37:845][862]LogActorFactory: Actor Factory spawned StaticMesh /Game/assets/Freeasset/pumpkin_.pumpkin_ as actor: StaticMeshActor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_A036BC6D4AA5906702_2039990614
+[2025.05.12-01.32.18:889][ 76]Cmd: TRANSACTION UNDO
+[2025.05.12-01.32.18:890][ 76]LogEditorTransaction: Undo Move Elements
+[2025.05.12-01.32.32:576][ 31]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2025.05.12-01.32.32:588][ 31]LogContentBrowser: Creating deferred item: NewFolder
+[2025.05.12-01.32.32:603][ 32]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2025.05.12-01.32.36:932][409]LogContentBrowser: Attempting asset rename: NewFolder -> pumpkin
+[2025.05.12-01.32.36:933][409]LogContentBrowser: End creating deferred item NewFolder
+[2025.05.12-01.32.42:193][755]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.05.12-01.32.42:316][755]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/assets/Freeasset/pumpkin/pumpkin_" FILE="../../../../../../Users/Microsoft/Documents/GitHub/LDA-new/LDAnew/Content/assets/Freeasset/pumpkin/pumpkin_.uasset" SILENT=true
+[2025.05.12-01.32.42:323][755]LogSavePackage: Moving output files for package: /Game/assets/Freeasset/pumpkin/pumpkin_
+[2025.05.12-01.32.42:323][755]LogSavePackage: Moving '../../../../../../Users/Microsoft/Documents/GitHub/LDA-new/LDAnew/Saved/pumpkin_8C1B6FBE40AE31FD5CDB91AAB21E4F89.tmp' to '../../../../../../Users/Microsoft/Documents/GitHub/LDA-new/LDAnew/Content/assets/Freeasset/pumpkin/pumpkin_.uasset'
+[2025.05.12-01.32.42:430][755]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/assets/Freeasset/pumpkin/Sphere1" FILE="../../../../../../Users/Microsoft/Documents/GitHub/LDA-new/LDAnew/Content/assets/Freeasset/pumpkin/Sphere1.uasset" SILENT=true
+[2025.05.12-01.32.42:432][755]LogSavePackage: Moving output files for package: /Game/assets/Freeasset/pumpkin/Sphere1
+[2025.05.12-01.32.42:432][755]LogSavePackage: Moving '../../../../../../Users/Microsoft/Documents/GitHub/LDA-new/LDAnew/Saved/Sphere1E348C8724A957FA017C9FEB9E21D2108.tmp' to '../../../../../../Users/Microsoft/Documents/GitHub/LDA-new/LDAnew/Content/assets/Freeasset/pumpkin/Sphere1.uasset'
+[2025.05.12-01.32.42:523][755]LogSavePackage: Moving output files for package: /Game/assets/Freeasset/pumpkin/TEX_Sphere2
+[2025.05.12-01.32.42:523][755]LogSavePackage: Moving '../../../../../../Users/Microsoft/Documents/GitHub/LDA-new/LDAnew/Saved/TEX_Sphere2B865B37C4644C2C46A930FB1C3A38FDB.tmp' to '../../../../../../Users/Microsoft/Documents/GitHub/LDA-new/LDAnew/Content/assets/Freeasset/pumpkin/TEX_Sphere2.uasset'
+[2025.05.12-01.32.42:531][755]LogFileHelpers: InternalPromptForCheckoutAndSave took 338 ms (total: 1.27 sec)
+[2025.05.12-01.32.42:553][755]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2025.05.12-01.32.42:562][755]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2025.05.12-01.32.42:568][755]LogUObjectHash: Compacting FUObjectHashTables data took   0.29ms
+[2025.05.12-01.32.42:594][755]AssetCheck: New page: Asset Save: multiple assets
+[2025.05.12-01.32.42:594][755]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/assets/Freeasset/pumpkin/pumpkin_.pumpkin_
+[2025.05.12-01.32.42:594][755]LogContentValidation: Display: Validating /Script/Engine.Material /Game/assets/Freeasset/pumpkin/Sphere1.Sphere1
+[2025.05.12-01.32.42:594][755]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/assets/Freeasset/pumpkin/TEX_Sphere2.TEX_Sphere2
+[2025.05.12-01.33.14:318][ 64]LogSlate: Window 'Interchange Pipeline Configuration (Import Content)' being destroyed
+[2025.05.12-01.33.14:332][ 64]LogInterchangeEngine: [Pending] Importing
+[2025.05.12-01.33.14:332][ 64]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/Microsoft/D...b6-aced-7b37a53a28a2/10187_LettuceBibb_v1-L2.obj]
+[2025.05.12-01.33.14:387][ 65]LogInterchangeEngine: [Pending] Importing
+[2025.05.12-01.33.15:542][110]LogTexture: Display: Building textures: /Game/assets/Freeasset/TEX_LettuceBibb.TEX_LettuceBibb (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 101.645823 MB), EncodeSpeed: Fast
+[2025.05.12-01.33.15:592][110]LogStaticMesh: Display: Building static mesh 10187_LettuceBibb_v1-L2...
+[2025.05.12-01.33.15:612][110]LogInterchangeEngine: [Success] Import Done
+[2025.05.12-01.33.15:657][111]LogInterchangeEngine: [Success] Import Done
+[2025.05.12-01.33.17:118][188]LogStaticMesh: Built static mesh [1.53s] /Game/assets/Freeasset/10187_LettuceBibb_v1-L2.10187_LettuceBibb_v1-L2
+[2025.05.12-01.33.21:262][476]LogUObjectHash: Compacting FUObjectHashTables data took   0.48ms
+[2025.05.12-01.33.22:189][476]LogSlate: Window 'Delete Assets' being destroyed
+[2025.05.12-01.33.22:222][476]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2025.05.12-01.33.22:231][476]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2025.05.12-01.33.22:240][476]LogUObjectHash: Compacting FUObjectHashTables data took   0.48ms
+[2025.05.12-01.33.48:655][632]LogUObjectHash: Compacting FUObjectHashTables data took   0.29ms
+[2025.05.12-01.33.48:659][632]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/A/YJ/YUIZY2Y4LY62IAAJQF6P4K_Auto1
+[2025.05.12-01.33.48:659][632]LogSavePackage: Moving '../../../../../../Users/Microsoft/Documents/GitHub/LDA-new/LDAnew/Saved/YUIZY2Y4LY62IAAJQF6P4K_Auto1B122CDDD4E6B05C9DA0678AE48036FC7.tmp' to '../../../../../../Users/Microsoft/Documents/GitHub/LDA-new/LDAnew/Saved/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/A/YJ/YUIZY2Y4LY62IAAJQF6P4K_Auto1.uasset'
+[2025.05.12-01.33.48:660][632]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FirstPerson/Maps/FirstPersonMap' took 0.012
+[2025.05.12-01.33.48:660][632]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.012
+[2025.05.12-01.35.38:556][ 29]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 1362.222778
+[2025.05.12-01.35.39:554][ 32]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.12-01.35.39:555][ 32]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 1362.889526, Update Interval: 339.520874
+[2025.05.12-01.38.38:006][640]LogUObjectHash: Compacting FUObjectHashTables data took   4.74ms
+[2025.05.12-01.38.39:046][640]LogSlate: Window 'Save Content' being destroyed
+[2025.05.12-01.38.39:059][640]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.05.12-01.38.39:159][640]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/A/YJ/YUIZY2Y4LY62IAAJQF6P4K
+[2025.05.12-01.38.39:159][640]LogSavePackage: Moving '../../../../../../Users/Microsoft/Documents/GitHub/LDA-new/LDAnew/Saved/YUIZY2Y4LY62IAAJQF6P4K742E00DD4ED4372358AC8F8C450ACE32.tmp' to '../../../../../../Users/Microsoft/Documents/GitHub/LDA-new/LDAnew/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/A/YJ/YUIZY2Y4LY62IAAJQF6P4K.uasset'
+[2025.05.12-01.38.39:188][640]LogFileHelpers: InternalPromptForCheckoutAndSave took 128 ms (total: 1.40 sec)
+[2025.05.12-01.38.39:206][640]AssetCheck: New page: Asset Save: StaticMeshActor_UAID_A036BC6D4AA5906702_2039990614
+[2025.05.12-01.38.39:208][640]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_A036BC6D4AA5906702_2039990614
+[2025.05.12-01.41.42:862][305]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 1726.529785
+[2025.05.12-01.41.43:861][308]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.12-01.41.43:861][308]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 1727.199951, Update Interval: 301.975769
+[2025.05.12-01.47.23:229][326]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 2066.896484
+[2025.05.12-01.47.24:230][329]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.12-01.47.24:230][329]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 2067.562988, Update Interval: 310.464783
+[2025.05.12-01.53.06:606][356]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 2410.270996
+[2025.05.12-01.53.07:605][359]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.12-01.53.07:605][359]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 2410.937744, Update Interval: 329.363678
+[2025.05.12-01.59.24:973][491]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 2788.638672
+[2025.05.12-01.59.25:972][494]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.12-01.59.25:972][494]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 2789.305420, Update Interval: 326.137268
+[2025.05.12-02.05.40:684][618]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 3164.345459
+[2025.05.12-02.05.41:682][621]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.12-02.05.41:682][621]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 3165.011963, Update Interval: 336.008789
