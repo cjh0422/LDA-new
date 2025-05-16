@@ -1900,3 +1900,113 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2025.05.16-02.03.44:062][229]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_A036BC6D4AA5E26202_1227119772
 [2025.05.16-02.03.44:062][229]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_A036BC6D4AA5E26202_1644202823
 [2025.05.16-02.03.44:062][229]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_A036BC6D4AA5E26202_1351826778
+[2025.05.16-02.05.16:243][423]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/assets/Freeasset/door/uploads_files_5800335_door.uploads_files_5800335_door
+[2025.05.16-02.05.16:244][423]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/assets/Freeasset/door/uploads_files_5800335_door.uploads_files_5800335_door
+[2025.05.16-02.05.16:245][423]LogActorFactory: Actor Factory spawned StaticMesh /Game/assets/Freeasset/door/uploads_files_5800335_door.uploads_files_5800335_door as actor: StaticMeshActor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_2
+[2025.05.16-02.05.16:916][462]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/assets/Freeasset/door/uploads_files_5800335_door.uploads_files_5800335_door
+[2025.05.16-02.05.16:916][462]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/assets/Freeasset/door/uploads_files_5800335_door.uploads_files_5800335_door
+[2025.05.16-02.05.16:919][462]LogActorFactory: Actor Factory spawned StaticMesh /Game/assets/Freeasset/door/uploads_files_5800335_door.uploads_files_5800335_door as actor: StaticMeshActor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_A036BC6D4AA5D46802_1766713633
+[2025.05.16-02.05.45:317][147]Cmd: TRANSACTION UNDO
+[2025.05.16-02.05.45:317][147]LogEditorTransaction: Undo Set Scale
+[2025.05.16-02.06.03:614][223]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 1396.015503
+[2025.05.16-02.06.03:897][240]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.16-02.06.03:897][240]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 1396.282227, Update Interval: 303.087250
+[2025.05.16-02.06.14:331][858]Cmd: TRANSACTION UNDO
+[2025.05.16-02.06.14:332][858]LogEditorTransaction: Undo Set Scale
+[2025.05.16-02.06.49:459][924]Cmd: TRANSACTION UNDO
+[2025.05.16-02.06.49:459][924]LogEditorTransaction: Undo Set Scale
+[2025.05.16-02.07.17:827][578]Cmd: EDIT COPY
+[2025.05.16-02.07.18:233][602]Cmd: EDIT PASTE
+[2025.05.16-02.07.35:439][595]Cmd: TRANSACTION UNDO
+[2025.05.16-02.07.35:439][595]LogEditorTransaction: Undo Move Elements
+[2025.05.16-02.08.04:129][276]Cmd: TRANSACTION UNDO
+[2025.05.16-02.08.04:129][276]LogEditorTransaction: Undo Set Scale
+[2025.05.16-02.08.15:299][923]Cmd: TRANSACTION UNDO
+[2025.05.16-02.08.15:299][923]LogEditorTransaction: Undo Set Scale
+[2025.05.16-02.09.15:793][476]Cmd: TRANSACTION UNDO
+[2025.05.16-02.09.15:793][476]LogEditorTransaction: Undo Set Scale
+[2025.05.16-02.10.10:617][292]LogUObjectHash: Compacting FUObjectHashTables data took   1.69ms
+[2025.05.16-02.10.10:628][292]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/B/F5/NPRQ0B0WPQ6NL3AEOTXRSR_Auto1
+[2025.05.16-02.10.10:628][292]LogSavePackage: Moving '../../../../../../Users/Microsoft/Documents/GitHub/LDA-new/LDAnew/Saved/NPRQ0B0WPQ6NL3AEOTXRSR_Auto1C4453A2D4A1324544892B8A04B356A5A.tmp' to '../../../../../../Users/Microsoft/Documents/GitHub/LDA-new/LDAnew/Saved/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/B/F5/NPRQ0B0WPQ6NL3AEOTXRSR_Auto1.uasset'
+[2025.05.16-02.10.10:635][292]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/6/NX/KYL1DKEAYT6K97106ADSUH_Auto1
+[2025.05.16-02.10.10:635][292]LogSavePackage: Moving '../../../../../../Users/Microsoft/Documents/GitHub/LDA-new/LDAnew/Saved/KYL1DKEAYT6K97106ADSUH_Auto1A4569CC845F4624FB7D8FA8A21289F10.tmp' to '../../../../../../Users/Microsoft/Documents/GitHub/LDA-new/LDAnew/Saved/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/6/NX/KYL1DKEAYT6K97106ADSUH_Auto1.uasset'
+[2025.05.16-02.10.10:638][292]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FirstPerson/Maps/FirstPersonMap' took 0.048
+[2025.05.16-02.10.10:638][292]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.048
+[2025.05.16-02.10.58:742][476]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2025.05.16-02.10.59:551][476]LogSlate: Window 'Save Content' being destroyed
+[2025.05.16-02.10.59:559][476]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.05.16-02.10.59:637][476]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/6/NX/KYL1DKEAYT6K97106ADSUH
+[2025.05.16-02.10.59:637][476]LogSavePackage: Moving '../../../../../../Users/Microsoft/Documents/GitHub/LDA-new/LDAnew/Saved/KYL1DKEAYT6K97106ADSUH3849146141D93376E5CF2EA1B91A7ECD.tmp' to '../../../../../../Users/Microsoft/Documents/GitHub/LDA-new/LDAnew/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/6/NX/KYL1DKEAYT6K97106ADSUH.uasset'
+[2025.05.16-02.10.59:642][476]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/B/F5/NPRQ0B0WPQ6NL3AEOTXRSR
+[2025.05.16-02.10.59:642][476]LogSavePackage: Moving '../../../../../../Users/Microsoft/Documents/GitHub/LDA-new/LDAnew/Saved/NPRQ0B0WPQ6NL3AEOTXRSR40FC557743815394F56D4DB92C3F14BB.tmp' to '../../../../../../Users/Microsoft/Documents/GitHub/LDA-new/LDAnew/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/B/F5/NPRQ0B0WPQ6NL3AEOTXRSR.uasset'
+[2025.05.16-02.10.59:652][476]LogFileHelpers: InternalPromptForCheckoutAndSave took 93 ms (total: 773 ms)
+[2025.05.16-02.10.59:657][476]AssetCheck: New page: Asset Save: multiple assets
+[2025.05.16-02.10.59:657][476]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_A036BC6D4AA5D46802_1766713633
+[2025.05.16-02.10.59:657][476]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_A036BC6D4AA5D46802_1888030634
+[2025.05.16-02.11.05:473][821]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/FirstPerson/Blueprints/WinPlace.WinPlace
+[2025.05.16-02.11.05:474][821]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.05.16-02.11.05:474][821]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.05.16-02.11.29:554][157]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 1721.956665
+[2025.05.16-02.11.29:890][175]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.16-02.11.29:890][175]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 1722.275269, Update Interval: 301.873230
+[2025.05.16-02.14.18:181][645]LogWindowsTextInputMethodSystem: Activated input method: Chinese (Simplified, Mainland China) - (Keyboard).
+[2025.05.16-02.14.18:182][645]LogWindowsTextInputMethodSystem: Activated input method: Chinese (Simplified, Mainland China) - Microsoft Pinyin (TSF IME).
+[2025.05.16-02.17.04:690][ 93]LogActorFactory: Loading ActorFactory Class /Script/Engine.LevelInstance
+[2025.05.16-02.17.22:878][ 57]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 2075.277100
+[2025.05.16-02.17.23:181][ 75]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.16-02.17.23:181][ 75]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 2075.561768, Update Interval: 337.737366
+[2025.05.16-02.17.37:503][864]LogViewport: Scene viewport resized to 920x405, mode Windowed.
+[2025.05.16-02.17.38:771][903]LogViewport: Scene viewport resized to 1088x455, mode Windowed.
+[2025.05.16-02.21.19:626][421]BlueprintLog: New page: Compile WinPlace
+[2025.05.16-02.21.19:665][421]LogUObjectHash: Compacting FUObjectHashTables data took   1.69ms
+[2025.05.16-02.21.20:337][458]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.05.16-02.21.20:402][458]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstPerson/Blueprints/WinPlace" FILE="../../../../../../Users/Microsoft/Documents/GitHub/LDA-new/LDAnew/Content/FirstPerson/Blueprints/WinPlace.uasset" SILENT=true
+[2025.05.16-02.21.20:409][458]LogSavePackage: Moving output files for package: /Game/FirstPerson/Blueprints/WinPlace
+[2025.05.16-02.21.20:410][458]LogSavePackage: Moving '../../../../../../Users/Microsoft/Documents/GitHub/LDA-new/LDAnew/Saved/WinPlace1005B4C745A84632F831819FB3B7BE92.tmp' to '../../../../../../Users/Microsoft/Documents/GitHub/LDA-new/LDAnew/Content/FirstPerson/Blueprints/WinPlace.uasset'
+[2025.05.16-02.21.20:418][458]LogFileHelpers: InternalPromptForCheckoutAndSave took 80 ms (total: 854 ms)
+[2025.05.16-02.21.20:421][458]AssetCheck: New page: Asset Save: WinPlace
+[2025.05.16-02.21.20:421][458]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/FirstPerson/Blueprints/WinPlace.WinPlace
+[2025.05.16-02.21.58:110][355]LogUObjectHash: Compacting FUObjectHashTables data took   1.19ms
+[2025.05.16-02.21.58:115][355]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/B/F5/NPRQ0B0WPQ6NL3AEOTXRSR_Auto2
+[2025.05.16-02.21.58:115][355]LogSavePackage: Moving '../../../../../../Users/Microsoft/Documents/GitHub/LDA-new/LDAnew/Saved/NPRQ0B0WPQ6NL3AEOTXRSR_Auto22FB54FE44D68D4AF290367BF7C3383B4.tmp' to '../../../../../../Users/Microsoft/Documents/GitHub/LDA-new/LDAnew/Saved/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/B/F5/NPRQ0B0WPQ6NL3AEOTXRSR_Auto2.uasset'
+[2025.05.16-02.21.58:118][355]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/6/NX/KYL1DKEAYT6K97106ADSUH_Auto2
+[2025.05.16-02.21.58:118][355]LogSavePackage: Moving '../../../../../../Users/Microsoft/Documents/GitHub/LDA-new/LDAnew/Saved/KYL1DKEAYT6K97106ADSUH_Auto264D0BC364E62D68E160DBBB37BD8FD31.tmp' to '../../../../../../Users/Microsoft/Documents/GitHub/LDA-new/LDAnew/Saved/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/6/NX/KYL1DKEAYT6K97106ADSUH_Auto2.uasset'
+[2025.05.16-02.21.58:120][355]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FirstPerson/Maps/FirstPersonMap' took 0.029
+[2025.05.16-02.21.58:120][355]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.029
+[2025.05.16-02.23.18:165][541]LogSlate: Took 0.008436 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2025.05.16-02.23.52:447][248]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 2464.846680
+[2025.05.16-02.23.53:447][251]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.16-02.23.53:447][251]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 2465.513184, Update Interval: 329.845276
+[2025.05.16-02.27.28:102][630]LogSlate: Took 0.000893 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2025.05.16-02.28.32:686][845]LogEditorTransaction: Undo Add Node
+[2025.05.16-02.28.44:586][481]LogEditorTransaction: Undo Add Node
+[2025.05.16-02.29.13:868][386]BlueprintLog: New page: Compile WinPlace
+[2025.05.16-02.29.13:908][386]LogUObjectHash: Compacting FUObjectHashTables data took   1.59ms
+[2025.05.16-02.29.14:655][427]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.05.16-02.29.14:718][427]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstPerson/Blueprints/WinPlace" FILE="../../../../../../Users/Microsoft/Documents/GitHub/LDA-new/LDAnew/Content/FirstPerson/Blueprints/WinPlace.uasset" SILENT=true
+[2025.05.16-02.29.14:723][427]LogSavePackage: Moving output files for package: /Game/FirstPerson/Blueprints/WinPlace
+[2025.05.16-02.29.14:724][427]LogSavePackage: Moving '../../../../../../Users/Microsoft/Documents/GitHub/LDA-new/LDAnew/Saved/WinPlaceD365D18747154ADD93AFDA93755D81A5.tmp' to '../../../../../../Users/Microsoft/Documents/GitHub/LDA-new/LDAnew/Content/FirstPerson/Blueprints/WinPlace.uasset'
+[2025.05.16-02.29.14:731][427]LogFileHelpers: InternalPromptForCheckoutAndSave took 76 ms (total: 930 ms)
+[2025.05.16-02.29.14:734][427]AssetCheck: New page: Asset Save: WinPlace
+[2025.05.16-02.29.14:734][427]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/FirstPerson/Blueprints/WinPlace.WinPlace
+[2025.05.16-02.29.16:150][498]LogSlate: Window 'WinPlace' being destroyed
+[2025.05.16-02.29.16:156][498]LogSlate: Window 'WinPlace' being destroyed
+[2025.05.16-02.29.16:164][498]LogWorld: UWorld::CleanupWorld for World_14, bSessionEnded=true, bCleanupResources=true
+[2025.05.16-02.29.16:164][498]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.16-02.29.17:710][586]LogUObjectHash: Compacting FUObjectHashTables data took   1.28ms
+[2025.05.16-02.29.18:543][586]LogSlate: Window 'Save Content' being destroyed
+[2025.05.16-02.29.18:551][586]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.05.16-02.29.18:627][586]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/6/NX/KYL1DKEAYT6K97106ADSUH
+[2025.05.16-02.29.18:627][586]LogSavePackage: Moving '../../../../../../Users/Microsoft/Documents/GitHub/LDA-new/LDAnew/Saved/KYL1DKEAYT6K97106ADSUH4E4F1AA04675AFCDC53E18BB0B809DF7.tmp' to '../../../../../../Users/Microsoft/Documents/GitHub/LDA-new/LDAnew/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/6/NX/KYL1DKEAYT6K97106ADSUH.uasset'
+[2025.05.16-02.29.18:630][586]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/B/F5/NPRQ0B0WPQ6NL3AEOTXRSR
+[2025.05.16-02.29.18:631][586]LogSavePackage: Moving '../../../../../../Users/Microsoft/Documents/GitHub/LDA-new/LDAnew/Saved/NPRQ0B0WPQ6NL3AEOTXRSR4D246E964AED51AE2F7C7F8AA29D3191.tmp' to '../../../../../../Users/Microsoft/Documents/GitHub/LDA-new/LDAnew/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/B/F5/NPRQ0B0WPQ6NL3AEOTXRSR.uasset'
+[2025.05.16-02.29.18:634][586]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/6/04/A9XDZEDLDMKBHCI98ZIEBT
+[2025.05.16-02.29.18:634][586]LogSavePackage: Moving '../../../../../../Users/Microsoft/Documents/GitHub/LDA-new/LDAnew/Saved/A9XDZEDLDMKBHCI98ZIEBT422EEF3C40F6F42DF982C7AF7AA1A11B.tmp' to '../../../../../../Users/Microsoft/Documents/GitHub/LDA-new/LDAnew/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/6/04/A9XDZEDLDMKBHCI98ZIEBT.uasset'
+[2025.05.16-02.29.18:638][586]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/D/QX/9YAP3SE4DD0OBB982COXBU
+[2025.05.16-02.29.18:638][586]LogSavePackage: Moving '../../../../../../Users/Microsoft/Documents/GitHub/LDA-new/LDAnew/Saved/9YAP3SE4DD0OBB982COXBUC5AF947C44D8E0909E52A193F053E1B9.tmp' to '../../../../../../Users/Microsoft/Documents/GitHub/LDA-new/LDAnew/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/D/QX/9YAP3SE4DD0OBB982COXBU.uasset'
+[2025.05.16-02.29.18:651][586]LogFileHelpers: InternalPromptForCheckoutAndSave took 99 ms (total: 1.03 sec)
+[2025.05.16-02.29.18:654][586]AssetCheck: New page: Asset Save: multiple assets
+[2025.05.16-02.29.18:654][586]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_A036BC6D4AA5D46802_1766713633
+[2025.05.16-02.29.18:654][586]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_A036BC6D4AA5D46802_1888030634
+[2025.05.16-02.29.18:654][586]LogContentValidation: Display: Validating /Game/FirstPerson/Blueprints/WinPlace.WinPlace_C /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.WinPlace_C_UAID_60189573EF5B826702_1478958149
+[2025.05.16-02.29.18:654][586]LogContentValidation: Display: Validating /Game/FirstPerson/Blueprints/WinPlace.WinPlace_C /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.WinPlace_C_UAID_60189573EF5B826702_1556115150
