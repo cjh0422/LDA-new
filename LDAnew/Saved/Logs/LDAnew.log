@@ -9757,3 +9757,95 @@ Script Stack (0 frames) :
 [2025.05.18-17.28.05:482][422]LogFileHelpers: InternalPromptForCheckoutAndSave took 169 ms (total: 4.45 sec)
 [2025.05.18-17.28.05:484][422]AssetCheck: New page: Asset Save: Level1
 [2025.05.18-17.28.05:484][422]LogContentValidation: Display: Validating /Script/Engine.World /Game/MainLevel/Level1.Level1
+[2025.05.18-17.28.41:461][625]LogAssetRegistry: Warning: ScanPathsSynchronous: Package /Game/LevelMap does not exist, will not scan.
+[2025.05.18-17.28.53:237][970]LogEditorTransaction: Undo Clicking on Actors
+[2025.05.18-17.28.53:362][970]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_7:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2025.05.18-17.28.54:410][ 17]LogEditorTransaction: Undo Clicking on Actors
+[2025.05.18-17.28.54:545][ 17]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_7:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2025.05.18-17.28.54:608][ 18]LogEditorTransaction: Undo Clicking on Elements
+[2025.05.18-17.28.54:754][ 18]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_7:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2025.05.18-17.28.54:816][ 19]LogEditorTransaction: Undo Move Elements
+[2025.05.18-17.28.54:946][ 19]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_7:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2025.05.18-17.28.54:951][ 19]LogEditorTransaction: Undo Move Elements
+[2025.05.18-17.28.55:080][ 19]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_7:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2025.05.18-17.28.55:187][ 20]LogEditorTransaction: Undo Clicking on Actors
+[2025.05.18-17.28.55:312][ 20]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_7:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2025.05.18-17.28.55:315][ 20]LogEditorTransaction: Undo Clicking on Actors
+[2025.05.18-17.28.55:470][ 20]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_7:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2025.05.18-17.28.55:573][ 21]LogEditorTransaction: Undo Clicking on Actors
+[2025.05.18-17.28.55:698][ 21]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_7:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2025.05.18-17.28.55:702][ 21]LogEditorTransaction: Undo Move Elements
+[2025.05.18-17.28.55:824][ 21]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_7:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2025.05.18-17.28.55:928][ 22]LogEditorTransaction: Undo Move Elements
+[2025.05.18-17.28.56:061][ 22]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_7:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2025.05.18-17.28.56:066][ 22]LogEditorTransaction: Undo Clicking on Actors
+[2025.05.18-17.28.56:211][ 22]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_7:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2025.05.18-17.28.56:214][ 22]LogEditorTransaction: Undo Clicking on Actors
+[2025.05.18-17.28.56:346][ 22]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_7:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2025.05.18-17.28.56:349][ 22]LogEditorTransaction: Undo Clicking on Actors
+[2025.05.18-17.28.56:492][ 22]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_7:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2025.05.18-17.28.56:682][ 23]LogEditorTransaction: Undo Clicking on Actors
+[2025.05.18-17.28.56:803][ 23]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_7:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2025.05.18-17.28.56:807][ 23]LogEditorTransaction: Undo Clicking on Actors
+[2025.05.18-17.28.56:953][ 23]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_7:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2025.05.18-17.28.56:956][ 23]LogEditorTransaction: Undo Clicking on Actors
+[2025.05.18-17.28.57:076][ 23]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_7:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2025.05.18-17.28.57:081][ 23]LogEditorTransaction: Undo Move Elements
+[2025.05.18-17.28.57:204][ 23]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_7:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2025.05.18-17.28.57:208][ 23]LogEditorTransaction: Undo Clicking on Actors
+[2025.05.18-17.28.57:363][ 23]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_7:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2025.05.18-17.28.57:617][ 24]LogEditorTransaction: Undo Clicking on Actors
+[2025.05.18-17.28.57:740][ 24]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_7:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2025.05.18-17.28.57:773][ 24]LogEditorTransaction: Undo Clicking on Actors
+[2025.05.18-17.28.57:916][ 24]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_7:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2025.05.18-17.28.57:921][ 24]LogEditorTransaction: Undo Clicking on Actors
+[2025.05.18-17.28.58:041][ 24]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_7:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2025.05.18-17.28.58:044][ 24]LogEditorTransaction: Undo Move Elements
+[2025.05.18-17.28.58:164][ 24]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_7:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2025.05.18-17.28.59:604][ 96]LogEditorTransaction: Undo Move Elements
+[2025.05.18-17.28.59:734][ 96]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_7:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2025.05.18-17.28.59:837][100]LogEditorTransaction: Undo Move Elements
+[2025.05.18-17.28.59:962][100]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_7:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2025.05.18-17.29.00:022][101]LogEditorTransaction: Undo Move Elements
+[2025.05.18-17.29.00:147][101]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_7:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2025.05.18-17.29.00:205][102]LogEditorTransaction: Undo Move Elements
+[2025.05.18-17.29.00:335][102]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_7:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2025.05.18-17.29.00:394][103]LogEditorTransaction: Undo Move Elements
+[2025.05.18-17.29.00:523][103]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_7:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2025.05.18-17.29.00:583][104]LogEditorTransaction: Undo Move Elements
+[2025.05.18-17.29.00:710][104]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_7:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2025.05.18-17.29.00:768][105]LogEditorTransaction: Undo Move Elements
+[2025.05.18-17.29.00:895][105]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_7:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2025.05.18-17.29.00:952][106]LogEditorTransaction: Undo Clicking on Actors
+[2025.05.18-17.29.01:099][106]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_7:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2025.05.18-17.29.01:103][106]LogEditorTransaction: Undo Clicking on Actors
+[2025.05.18-17.29.01:229][106]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_7:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2025.05.18-17.29.01:334][107]LogEditorTransaction: Undo Move Elements
+[2025.05.18-17.29.01:462][107]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_7:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2025.05.18-17.29.01:809][125]LogEditorTransaction: Undo Clicking on Actors
+[2025.05.18-17.29.01:930][125]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_7:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2025.05.18-17.29.18:696][767]LogUObjectHash: Compacting FUObjectHashTables data took   1.61ms
+[2025.05.18-17.29.18:703][767]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.05.18-17.29.18:819][767]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2025.05.18-17.29.18:857][767]LogSavePackage: Moving output files for package: /Game/MainLevel/Level1
+[2025.05.18-17.29.18:857][767]LogSavePackage: Moving '../../../../../Document/Degree/Y3S3/Level Design/Assignment/LDA-new/LDAnew/Saved/Level1E0D50E854AC74B3E5C84D187435E0F0D.tmp' to '../../../../../Document/Degree/Y3S3/Level Design/Assignment/LDA-new/LDAnew/Content/MainLevel/Level1.umap'
+[2025.05.18-17.29.18:867][767]LogFileHelpers: Saving map 'Level1' took 0.087
+[2025.05.18-17.29.18:878][767]LogFileHelpers: InternalPromptForCheckoutAndSave took 174 ms (total: 4.63 sec)
+[2025.05.18-17.29.18:881][767]AssetCheck: New page: Asset Save: Level1
+[2025.05.18-17.29.18:881][767]LogContentValidation: Display: Validating /Script/Engine.World /Game/MainLevel/Level1.Level1
+[2025.05.18-17.29.19:982][826]LogSlate: Window 'BP_FirstPersonCharacter' being destroyed
+[2025.05.18-17.29.19:990][826]LogSlate: Window 'BP_FirstPersonCharacter' being destroyed
+[2025.05.18-17.29.19:994][826]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2025.05.18-17.29.19:994][826]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.18-17.29.20:141][826]LogWorld: UWorld::CleanupWorld for World_9, bSessionEnded=true, bCleanupResources=true
+[2025.05.18-17.29.20:142][826]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.18-17.29.20:160][826]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2025.05.18-17.29.20:160][826]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.18-17.29.20:212][826]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2025.05.18-17.29.20:212][826]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.18-17.29.20:224][826]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2025.05.18-17.29.20:224][826]LogWorld: UWorld::CleanupWorld for World_16, bSessionEnded=true, bCleanupResources=true
+[2025.05.18-17.29.20:224][826]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.18-17.29.20:275][826]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2025.05.18-17.29.20:275][826]LogWorld: UWorld::CleanupWorld for World_24, bSessionEnded=true, bCleanupResources=true
+[2025.05.18-17.29.20:275][826]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
