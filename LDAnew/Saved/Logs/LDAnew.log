@@ -1911,3 +1911,4 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2025.05.19-21.46.36:015][668]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 3322.496826
 [2025.05.19-21.46.37:015][671]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
 [2025.05.19-21.46.37:015][671]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 3323.163574, Update Interval: 355.665771
+[2025.05.19-21.52.42:342][839]LogDerivedDataCache: C:/Users/Microsoft/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:18.376 and deleted 205 files with total size 14 MiB and 201 empty folders. Scanned 9710 files in 12065 folders with total size 1331 MiB.
