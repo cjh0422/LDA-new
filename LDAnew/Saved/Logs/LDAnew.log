@@ -9868,3 +9868,7 @@ Context 1/2
 [2025.05.19-07.31.50:135][482]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 44499.554688
 [2025.05.19-07.31.51:142][485]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
 [2025.05.19-07.31.51:144][485]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 44500.222656, Update Interval: 324.432495
+[2025.05.19-07.36.06:577][250]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2025.05.19-07.37.51:683][566]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 44860.945312
+[2025.05.19-07.37.53:353][571]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.19-07.37.53:353][571]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 44862.277344, Update Interval: 303.739136
