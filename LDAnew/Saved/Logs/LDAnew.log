@@ -3425,3 +3425,191 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2025.05.19-22.57.11:945][ 30]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 3167.393311
 [2025.05.19-22.57.12:944][ 33]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
 [2025.05.19-22.57.12:945][ 33]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 3168.060303, Update Interval: 319.005096
+[2025.05.19-23.01.43:778][932]LogWindowsTextInputMethodSystem: Activated input method: Chinese (Simplified, Mainland China) - (Keyboard).
+[2025.05.19-23.01.43:782][932]LogWindowsTextInputMethodSystem: Activated input method: Chinese (Simplified, Mainland China) - Microsoft Pinyin (TSF IME).
+[2025.05.19-23.02.01:915][985]LogViewport: Scene viewport resized to 990x486, mode Windowed.
+[2025.05.19-23.02.01:942][986]LogViewport: Scene viewport resized to 990x498, mode Windowed.
+[2025.05.19-23.02.01:958][987]LogViewport: Scene viewport resized to 990x512, mode Windowed.
+[2025.05.19-23.02.01:979][988]LogViewport: Scene viewport resized to 990x527, mode Windowed.
+[2025.05.19-23.02.01:999][989]LogViewport: Scene viewport resized to 990x550, mode Windowed.
+[2025.05.19-23.02.02:032][990]LogViewport: Scene viewport resized to 990x572, mode Windowed.
+[2025.05.19-23.02.02:054][991]LogViewport: Scene viewport resized to 990x592, mode Windowed.
+[2025.05.19-23.02.02:075][992]LogViewport: Scene viewport resized to 990x612, mode Windowed.
+[2025.05.19-23.02.02:099][993]LogViewport: Scene viewport resized to 990x633, mode Windowed.
+[2025.05.19-23.02.02:121][994]LogViewport: Scene viewport resized to 990x650, mode Windowed.
+[2025.05.19-23.02.02:145][995]LogViewport: Scene viewport resized to 990x666, mode Windowed.
+[2025.05.19-23.02.02:169][996]LogViewport: Scene viewport resized to 990x687, mode Windowed.
+[2025.05.19-23.02.02:191][997]LogViewport: Scene viewport resized to 990x711, mode Windowed.
+[2025.05.19-23.02.02:248][998]LogViewport: Scene viewport resized to 990x751, mode Windowed.
+[2025.05.19-23.02.02:269][999]LogViewport: Scene viewport resized to 990x757, mode Windowed.
+[2025.05.19-23.02.02:307][  0]LogViewport: Scene viewport resized to 990x760, mode Windowed.
+[2025.05.19-23.02.02:348][  1]LogViewport: Scene viewport resized to 990x766, mode Windowed.
+[2025.05.19-23.02.02:371][  2]LogViewport: Scene viewport resized to 990x775, mode Windowed.
+[2025.05.19-23.02.02:407][  3]LogViewport: Scene viewport resized to 990x794, mode Windowed.
+[2025.05.19-23.02.02:453][  4]LogViewport: Scene viewport resized to 990x829, mode Windowed.
+[2025.05.19-23.02.02:496][  5]LogViewport: Scene viewport resized to 990x839, mode Windowed.
+[2025.05.19-23.02.03:981][ 92]LogViewport: Scene viewport resized to 991x839, mode Windowed.
+[2025.05.19-23.02.03:998][ 93]LogViewport: Scene viewport resized to 993x839, mode Windowed.
+[2025.05.19-23.02.04:018][ 94]LogViewport: Scene viewport resized to 1001x839, mode Windowed.
+[2025.05.19-23.02.04:070][ 95]LogViewport: Scene viewport resized to 1060x839, mode Windowed.
+[2025.05.19-23.02.04:099][ 96]LogViewport: Scene viewport resized to 1104x839, mode Windowed.
+[2025.05.19-23.02.04:142][ 97]LogViewport: Scene viewport resized to 1136x839, mode Windowed.
+[2025.05.19-23.02.04:172][ 98]LogViewport: Scene viewport resized to 1151x839, mode Windowed.
+[2025.05.19-23.02.04:205][ 99]LogViewport: Scene viewport resized to 1159x839, mode Windowed.
+[2025.05.19-23.02.04:228][100]LogViewport: Scene viewport resized to 1170x839, mode Windowed.
+[2025.05.19-23.02.04:255][101]LogViewport: Scene viewport resized to 1180x839, mode Windowed.
+[2025.05.19-23.02.04:276][102]LogViewport: Scene viewport resized to 1194x839, mode Windowed.
+[2025.05.19-23.02.04:311][103]LogViewport: Scene viewport resized to 1208x839, mode Windowed.
+[2025.05.19-23.02.04:365][104]LogViewport: Scene viewport resized to 1209x839, mode Windowed.
+[2025.05.19-23.02.04:734][125]LogViewport: Scene viewport resized to 1208x839, mode Windowed.
+[2025.05.19-23.02.04:750][126]LogViewport: Scene viewport resized to 1207x839, mode Windowed.
+[2025.05.19-23.02.04:771][127]LogViewport: Scene viewport resized to 1205x839, mode Windowed.
+[2025.05.19-23.02.04:797][128]LogViewport: Scene viewport resized to 1203x839, mode Windowed.
+[2025.05.19-23.02.04:819][129]LogViewport: Scene viewport resized to 1198x839, mode Windowed.
+[2025.05.19-23.02.04:861][130]LogViewport: Scene viewport resized to 1192x839, mode Windowed.
+[2025.05.19-23.02.04:883][131]LogViewport: Scene viewport resized to 1189x839, mode Windowed.
+[2025.05.19-23.02.04:905][132]LogViewport: Scene viewport resized to 1187x839, mode Windowed.
+[2025.05.19-23.02.04:925][133]LogViewport: Scene viewport resized to 1184x839, mode Windowed.
+[2025.05.19-23.02.05:300][155]LogViewport: Scene viewport resized to 1189x839, mode Windowed.
+[2025.05.19-23.02.05:316][156]LogViewport: Scene viewport resized to 1195x839, mode Windowed.
+[2025.05.19-23.02.05:337][157]LogViewport: Scene viewport resized to 1199x839, mode Windowed.
+[2025.05.19-23.02.05:361][158]LogViewport: Scene viewport resized to 1204x839, mode Windowed.
+[2025.05.19-23.02.05:381][159]LogViewport: Scene viewport resized to 1208x839, mode Windowed.
+[2025.05.19-23.02.05:403][160]LogViewport: Scene viewport resized to 1215x839, mode Windowed.
+[2025.05.19-23.02.05:426][161]LogViewport: Scene viewport resized to 1221x839, mode Windowed.
+[2025.05.19-23.02.05:458][162]LogViewport: Scene viewport resized to 1231x839, mode Windowed.
+[2025.05.19-23.02.05:493][163]LogViewport: Scene viewport resized to 1239x839, mode Windowed.
+[2025.05.19-23.02.05:525][164]LogViewport: Scene viewport resized to 1245x839, mode Windowed.
+[2025.05.19-23.02.05:557][165]LogViewport: Scene viewport resized to 1251x839, mode Windowed.
+[2025.05.19-23.02.05:590][166]LogViewport: Scene viewport resized to 1256x839, mode Windowed.
+[2025.05.19-23.02.05:626][167]LogViewport: Scene viewport resized to 1257x839, mode Windowed.
+[2025.05.19-23.02.05:666][169]LogViewport: Scene viewport resized to 1259x839, mode Windowed.
+[2025.05.19-23.02.05:739][173]LogViewport: Scene viewport resized to 1260x839, mode Windowed.
+[2025.05.19-23.02.05:771][175]LogViewport: Scene viewport resized to 1262x839, mode Windowed.
+[2025.05.19-23.02.05:789][176]LogViewport: Scene viewport resized to 1263x839, mode Windowed.
+[2025.05.19-23.02.05:808][177]LogViewport: Scene viewport resized to 1267x839, mode Windowed.
+[2025.05.19-23.02.05:830][178]LogViewport: Scene viewport resized to 1268x839, mode Windowed.
+[2025.05.19-23.02.05:861][179]LogViewport: Scene viewport resized to 1276x839, mode Windowed.
+[2025.05.19-23.02.05:883][180]LogViewport: Scene viewport resized to 1281x839, mode Windowed.
+[2025.05.19-23.02.05:915][181]LogViewport: Scene viewport resized to 1289x839, mode Windowed.
+[2025.05.19-23.02.05:952][182]LogViewport: Scene viewport resized to 1298x839, mode Windowed.
+[2025.05.19-23.02.05:984][183]LogViewport: Scene viewport resized to 1309x839, mode Windowed.
+[2025.05.19-23.02.06:017][184]LogViewport: Scene viewport resized to 1320x839, mode Windowed.
+[2025.05.19-23.02.06:060][185]LogViewport: Scene viewport resized to 1329x839, mode Windowed.
+[2025.05.19-23.02.06:095][186]LogViewport: Scene viewport resized to 1332x839, mode Windowed.
+[2025.05.19-23.02.06:313][197]LogViewport: Scene viewport resized to 1331x839, mode Windowed.
+[2025.05.19-23.02.06:336][198]LogViewport: Scene viewport resized to 1327x839, mode Windowed.
+[2025.05.19-23.02.06:369][199]LogViewport: Scene viewport resized to 1319x839, mode Windowed.
+[2025.05.19-23.02.06:395][200]LogViewport: Scene viewport resized to 1306x839, mode Windowed.
+[2025.05.19-23.02.06:417][201]LogViewport: Scene viewport resized to 1295x839, mode Windowed.
+[2025.05.19-23.02.06:441][202]LogViewport: Scene viewport resized to 1282x839, mode Windowed.
+[2025.05.19-23.02.06:463][203]LogViewport: Scene viewport resized to 1271x839, mode Windowed.
+[2025.05.19-23.02.06:484][204]LogViewport: Scene viewport resized to 1266x839, mode Windowed.
+[2025.05.19-23.02.06:507][205]LogViewport: Scene viewport resized to 1264x839, mode Windowed.
+[2025.05.19-23.03.09:503][676]LogViewport: Scene viewport resized to 1264x832, mode Windowed.
+[2025.05.19-23.03.09:520][677]LogViewport: Scene viewport resized to 1264x818, mode Windowed.
+[2025.05.19-23.03.09:539][678]LogViewport: Scene viewport resized to 1264x792, mode Windowed.
+[2025.05.19-23.03.09:562][679]LogViewport: Scene viewport resized to 1264x763, mode Windowed.
+[2025.05.19-23.03.09:584][680]LogViewport: Scene viewport resized to 1264x728, mode Windowed.
+[2025.05.19-23.03.09:634][681]LogViewport: Scene viewport resized to 1264x637, mode Windowed.
+[2025.05.19-23.03.09:691][682]LogViewport: Scene viewport resized to 1264x558, mode Windowed.
+[2025.05.19-23.03.09:714][683]LogViewport: Scene viewport resized to 1264x534, mode Windowed.
+[2025.05.19-23.03.09:737][684]LogViewport: Scene viewport resized to 1264x514, mode Windowed.
+[2025.05.19-23.03.09:761][685]LogViewport: Scene viewport resized to 1264x498, mode Windowed.
+[2025.05.19-23.03.09:785][686]LogViewport: Scene viewport resized to 1264x474, mode Windowed.
+[2025.05.19-23.03.09:815][687]LogViewport: Scene viewport resized to 1264x451, mode Windowed.
+[2025.05.19-23.03.09:840][688]LogViewport: Scene viewport resized to 1264x435, mode Windowed.
+[2025.05.19-23.03.09:862][689]LogViewport: Scene viewport resized to 1264x421, mode Windowed.
+[2025.05.19-23.03.09:886][690]LogViewport: Scene viewport resized to 1264x410, mode Windowed.
+[2025.05.19-23.03.09:905][691]LogViewport: Scene viewport resized to 1264x402, mode Windowed.
+[2025.05.19-23.03.09:930][692]LogViewport: Scene viewport resized to 1264x393, mode Windowed.
+[2025.05.19-23.03.09:949][693]LogViewport: Scene viewport resized to 1264x389, mode Windowed.
+[2025.05.19-23.03.09:972][694]LogViewport: Scene viewport resized to 1264x386, mode Windowed.
+[2025.05.19-23.03.09:996][695]LogViewport: Scene viewport resized to 1264x384, mode Windowed.
+[2025.05.19-23.03.10:048][698]LogViewport: Scene viewport resized to 1264x383, mode Windowed.
+[2025.05.19-23.03.10:069][699]LogViewport: Scene viewport resized to 1264x381, mode Windowed.
+[2025.05.19-23.03.18:005][156]LogUObjectHash: Compacting FUObjectHashTables data took   8.41ms
+[2025.05.19-23.03.26:699][156]LogSlate: Window 'Save Content' being destroyed
+[2025.05.19-23.03.26:711][156]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.05.19-23.03.26:964][156]LogSavePackage: Moving output files for package: /Game/assets/UI/levelDesignUI/janganBergerak
+[2025.05.19-23.03.26:965][156]LogSavePackage: Moving '../../../../../../Users/Microsoft/Documents/GitHub/LDA-new/LDAnew/Saved/janganBergerakEAD6442B4EBD9113AF3C15A7B65D1358.tmp' to '../../../../../../Users/Microsoft/Documents/GitHub/LDA-new/LDAnew/Content/assets/UI/levelDesignUI/janganBergerak.uasset'
+[2025.05.19-23.03.26:994][156]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/assets/UI/levelDesignUI/POLICE" FILE="../../../../../../Users/Microsoft/Documents/GitHub/LDA-new/LDAnew/Content/assets/UI/levelDesignUI/POLICE.uasset" SILENT=true
+[2025.05.19-23.03.27:016][156]LogSavePackage: Moving output files for package: /Game/assets/UI/levelDesignUI/POLICE
+[2025.05.19-23.03.27:017][156]LogSavePackage: Moving '../../../../../../Users/Microsoft/Documents/GitHub/LDA-new/LDAnew/Saved/POLICEF229B2584E935B5990A3E19B4A7D6577.tmp' to '../../../../../../Users/Microsoft/Documents/GitHub/LDA-new/LDAnew/Content/assets/UI/levelDesignUI/POLICE.uasset'
+[2025.05.19-23.03.27:146][156]LogSavePackage: Moving output files for package: /Game/assets/UI/levelDesignUI/tutorial_Panel
+[2025.05.19-23.03.27:146][156]LogSavePackage: Moving '../../../../../../Users/Microsoft/Documents/GitHub/LDA-new/LDAnew/Saved/tutorial_PanelF65FC2684239D5EECE7173BE2D1B5E41.tmp' to '../../../../../../Users/Microsoft/Documents/GitHub/LDA-new/LDAnew/Content/assets/UI/levelDesignUI/tutorial_Panel.uasset'
+[2025.05.19-23.03.27:155][156]LogSavePackage: Moving output files for package: /Game/assets/UI/levelDesignUI/tutorialButton
+[2025.05.19-23.03.27:155][156]LogSavePackage: Moving '../../../../../../Users/Microsoft/Documents/GitHub/LDA-new/LDAnew/Saved/tutorialButton275130CB4FF73186B5E1A999E5E1055A.tmp' to '../../../../../../Users/Microsoft/Documents/GitHub/LDA-new/LDAnew/Content/assets/UI/levelDesignUI/tutorialButton.uasset'
+[2025.05.19-23.03.27:166][156]LogFileHelpers: InternalPromptForCheckoutAndSave took 455 ms (total: 2.46 sec)
+[2025.05.19-23.03.27:383][156]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.05.19-23.03.27:414][156]LogWorldPartition: ULevel::OnLevelLoaded(FirstPersonMap)(bIsOwningWorldGameWorld=0, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=1, InitializeForGame=0)
+[2025.05.19-23.03.27:415][156]LogWorldPartition: Display: WorldPartition initialize started...
+[2025.05.19-23.03.27:415][156]LogWorldPartition: UWorldPartition::Initialize : World = FirstPersonMap, World Type = Inactive, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 1, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2025.05.19-23.03.28:094][156]LogProperty: Warning: Serialized Class /Script/Engine.BoxComponent for a property of Class /Script/Engine.StaticMeshComponent. Reference will be nullptred.
+    Property = ObjectProperty /Game/FirstPerson/Blueprints/WinPlace.WinPlace_C:Door
+    Item = BoxComponent /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.WinPlace_C_UAID_60189573EF5BA76902_1496053052.Door
+[2025.05.19-23.03.29:716][156]LogProperty: Warning: Serialized Class /Script/Engine.BoxComponent for a property of Class /Script/Engine.StaticMeshComponent. Reference will be nullptred.
+    Property = ObjectProperty /Game/FirstPerson/Blueprints/WinPlace.WinPlace_C:Door
+    Item = BoxComponent /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.WinPlace_C_UAID_60189573EF5BA76902_1496129123.Door
+[2025.05.19-23.03.29:733][156]LogContentBundle: [FirstPersonMap(Standalone)] Creating new contrainer.
+[2025.05.19-23.03.29:734][156]LogWorldPartition: Display: WorldPartition initialize took 2.31 sec (total: 18.5 sec)
+[2025.05.19-23.03.29:806][156]LogAnimation: Warning: Setting an additive animation (characterAnim) on an AnimSingleNodeInstance (AnimSingleNodeInstance /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.PoliceBehaviour_C_UAID_60189573EF5BA76902_1496084082.SkeletalMesh.AnimSingleNodeInstance_0) is not allowed. This will not function correctly in cooked builds!
+[2025.05.19-23.03.29:807][156]LogAnimation: Warning: Setting an additive animation (characterAnim) on an AnimSingleNodeInstance (AnimSingleNodeInstance /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.PoliceBehaviour_C_UAID_60189573EF5BA76902_1496084082.SkeletalMesh.AnimSingleNodeInstance_0) is not allowed. This will not function correctly in cooked builds!
+[2025.05.19-23.03.29:853][156]LogAnimation: Warning: Setting an additive animation (characterAnim) on an AnimSingleNodeInstance (AnimSingleNodeInstance /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.PoliceBehaviour_C_UAID_60189573EF5BA76902_1496084082.SkeletalMesh.AnimSingleNodeInstance_0) is not allowed. This will not function correctly in cooked builds!
+[2025.05.19-23.03.29:853][156]LogAnimation: Warning: Setting an additive animation (characterAnim) on an AnimSingleNodeInstance (AnimSingleNodeInstance /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.PoliceBehaviour_C_UAID_60189573EF5BA76902_1496084082.SkeletalMesh.AnimSingleNodeInstance_0) is not allowed. This will not function correctly in cooked builds!
+[2025.05.19-23.03.29:854][156]LogAnimation: Warning: Setting an additive animation (characterAnim) on an AnimSingleNodeInstance (AnimSingleNodeInstance /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.PoliceBehaviour_C_UAID_60189573EF5BA76902_1496084082.SkeletalMesh.AnimSingleNodeInstance_1) is not allowed. This will not function correctly in cooked builds!
+[2025.05.19-23.03.29:854][156]LogAnimation: Warning: Setting an additive animation (characterAnim) on an AnimSingleNodeInstance (AnimSingleNodeInstance /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.PoliceBehaviour_C_UAID_60189573EF5BA76902_1496084082.SkeletalMesh.AnimSingleNodeInstance_1) is not allowed. This will not function correctly in cooked builds!
+[2025.05.19-23.03.29:866][156]LogAssetEditorSubsystem: Opening Asset editor for World /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap
+[2025.05.19-23.03.29:867][156]Cmd: MAP LOAD FILE="../../../../../../Users/Microsoft/Documents/GitHub/LDA-new/LDAnew/Content/FirstPerson/Maps/FirstPersonMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2025.05.19-23.03.29:868][156]LightingResults: New page: Lighting Build
+[2025.05.19-23.03.29:889][156]LoadErrors: New page: Loading map: FirstPersonMap.umap
+[2025.05.19-23.03.29:994][156]LogWorld: UWorld::CleanupWorld for MainMenu, bSessionEnded=true, bCleanupResources=true
+[2025.05.19-23.03.29:995][156]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.19-23.03.29:996][156]MapCheck: New page: Map Check
+[2025.05.19-23.03.29:996][156]LightingResults: New page: Lighting Build
+[2025.05.19-23.03.30:037][156]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.05.19-23.03.30:067][156]LogUObjectHash: Compacting FUObjectHashTables data took   1.34ms
+[2025.05.19-23.03.30:077][156]LogWorld: UWorld::CleanupWorld for FirstPersonMap, bSessionEnded=true, bCleanupResources=true
+[2025.05.19-23.03.30:081][156]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.19-23.03.30:102][156]LogContentBundle: [FirstPersonMap(Standalone)] Deleting container.
+[2025.05.19-23.03.30:170][156]LogUObjectHash: Compacting FUObjectHashTables data took   1.87ms
+[2025.05.19-23.03.30:191][156]LogUObjectHash: Compacting FUObjectHashTables data took   1.17ms
+[2025.05.19-23.03.30:215][156]LogAudio: Display: Audio Device (ID: 1) registered with world 'FirstPersonMap'.
+[2025.05.19-23.03.30:216][156]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.05.19-23.03.30:216][156]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.05.19-23.03.30:222][156]LogAIModule: Creating AISystem for world FirstPersonMap
+[2025.05.19-23.03.30:227][156]LogWorldPartition: ULevel::OnLevelLoaded(FirstPersonMap)(bIsOwningWorldGameWorld=0, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=1, InitializeForGame=0)
+[2025.05.19-23.03.30:227][156]LogWorldPartition: Display: WorldPartition initialize started...
+[2025.05.19-23.03.30:227][156]LogWorldPartition: UWorldPartition::Initialize : World = FirstPersonMap, World Type = Editor, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 1, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2025.05.19-23.03.30:548][156]LogProperty: Warning: Serialized Class /Script/Engine.BoxComponent for a property of Class /Script/Engine.StaticMeshComponent. Reference will be nullptred.
+    Property = ObjectProperty /Game/FirstPerson/Blueprints/WinPlace.WinPlace_C:Door
+    Item = BoxComponent /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.WinPlace_C_UAID_60189573EF5BA76902_1496053052.Door
+[2025.05.19-23.03.31:332][156]LogProperty: Warning: Serialized Class /Script/Engine.BoxComponent for a property of Class /Script/Engine.StaticMeshComponent. Reference will be nullptred.
+    Property = ObjectProperty /Game/FirstPerson/Blueprints/WinPlace.WinPlace_C:Door
+    Item = BoxComponent /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.WinPlace_C_UAID_60189573EF5BA76902_1496129123.Door
+[2025.05.19-23.03.31:338][156]LogContentBundle: [FirstPersonMap(Standalone)] Creating new contrainer.
+[2025.05.19-23.03.31:338][156]LogWorldPartition: Display: WorldPartition initialize took 1.11 sec (total: 19.6 sec)
+[2025.05.19-23.03.31:386][156]LogAnimation: Warning: Setting an additive animation (characterAnim) on an AnimSingleNodeInstance (AnimSingleNodeInstance /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.PoliceBehaviour_C_UAID_60189573EF5BA76902_1496084082.SkeletalMesh.AnimSingleNodeInstance_0) is not allowed. This will not function correctly in cooked builds!
+[2025.05.19-23.03.31:386][156]LogAnimation: Warning: Setting an additive animation (characterAnim) on an AnimSingleNodeInstance (AnimSingleNodeInstance /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.PoliceBehaviour_C_UAID_60189573EF5BA76902_1496084082.SkeletalMesh.AnimSingleNodeInstance_0) is not allowed. This will not function correctly in cooked builds!
+[2025.05.19-23.03.31:421][156]LogAnimation: Warning: Setting an additive animation (characterAnim) on an AnimSingleNodeInstance (AnimSingleNodeInstance /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.PoliceBehaviour_C_UAID_60189573EF5BA76902_1496084082.SkeletalMesh.AnimSingleNodeInstance_0) is not allowed. This will not function correctly in cooked builds!
+[2025.05.19-23.03.31:422][156]LogAnimation: Warning: Setting an additive animation (characterAnim) on an AnimSingleNodeInstance (AnimSingleNodeInstance /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.PoliceBehaviour_C_UAID_60189573EF5BA76902_1496084082.SkeletalMesh.AnimSingleNodeInstance_0) is not allowed. This will not function correctly in cooked builds!
+[2025.05.19-23.03.31:422][156]LogAnimation: Warning: Setting an additive animation (characterAnim) on an AnimSingleNodeInstance (AnimSingleNodeInstance /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.PoliceBehaviour_C_UAID_60189573EF5BA76902_1496084082.SkeletalMesh.AnimSingleNodeInstance_1) is not allowed. This will not function correctly in cooked builds!
+[2025.05.19-23.03.31:422][156]LogAnimation: Warning: Setting an additive animation (characterAnim) on an AnimSingleNodeInstance (AnimSingleNodeInstance /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.PoliceBehaviour_C_UAID_60189573EF5BA76902_1496084082.SkeletalMesh.AnimSingleNodeInstance_1) is not allowed. This will not function correctly in cooked builds!
+[2025.05.19-23.03.31:581][156]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2025.05.19-23.03.31:585][156]LogNavigation: Warning: NavData RegistrationFailed_AgentAlreadySupported, specified agent type already has its navmesh implemented.
+[2025.05.19-23.03.31:830][156]LogNavigation: Warning: Exporting collision geometry with too many triangles (557230). This might cause performance and memory issues. Add a simple collision or change GeometryExportVertexCountWarningThreshold. See 'StaticMeshComponent /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_A036BC6D4AA5FD6902_1892137908.StaticMeshComponent0'.
+[2025.05.19-23.03.31:874][156]LogStall: Stall detector 'UAssetEditorSubsystem::OpenEditorForAsset' exceeded budget of 2.000000s
+[2025.05.19-23.03.32:070][156]LogWorldPartition: Actor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.RecastNavMesh_UAID_60189573EF5BA66902-Default is unreachable without properly detaching object /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/5/YI/3EHSCOR5F4FD9EAPFY4QNI.PackageMetaData in its package
+[2025.05.19-23.03.32:072][156]LogUObjectHash: Compacting FUObjectHashTables data took   1.07ms
+[2025.05.19-23.03.32:080][156]Cmd: MAP CHECKDEP NOCLEARLOG
+[2025.05.19-23.03.32:087][156]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 5.778ms to complete.
+[2025.05.19-23.03.32:091][156]LogStall: Stall detector 'UAssetEditorSubsystem::OpenEditorForAsset' complete in 2.226822s (0.226822s overbudget)
+[2025.05.19-23.03.32:102][156]AssetCheck: New page: Asset Save: multiple assets
+[2025.05.19-23.03.32:102][156]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/assets/UI/levelDesignUI/janganBergerak.janganBergerak
+[2025.05.19-23.03.32:102][156]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/assets/UI/levelDesignUI/POLICE.POLICE
+[2025.05.19-23.03.32:103][156]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/assets/UI/levelDesignUI/tutorial_Panel.tutorial_Panel
+[2025.05.19-23.03.32:103][156]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/assets/UI/levelDesignUI/tutorialButton.tutorialButton
+[2025.05.19-23.03.32:285][156]LogUObjectHash: Compacting FUObjectHashTables data took   2.63ms
+[2025.05.19-23.03.32:359][157]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 3547.809326
+[2025.05.19-23.03.34:782][161]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.19-23.03.34:782][161]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 3550.172119, Update Interval: 334.805756
