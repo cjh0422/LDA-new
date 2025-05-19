@@ -1908,3 +1908,6 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2025.05.19-21.41.04:110][ 52]LogAudioMixer: Display: Successful Swap new Device is (NumChannels=2, SampleRate=48000, DeviceID={0.0.0.00000000}.{6b41fbb6-b892-464d-8f24-616d2c76e5d6}, Name=Headphones (Realtek(R) Audio)), Reason=FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged, InstanceID=1, DurationMS=233.27
 [2025.05.19-21.41.04:110][ 52]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
 [2025.05.19-21.41.04:113][ 52]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2025.05.19-21.46.36:015][668]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 3322.496826
+[2025.05.19-21.46.37:015][671]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.19-21.46.37:015][671]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 3323.163574, Update Interval: 355.665771
