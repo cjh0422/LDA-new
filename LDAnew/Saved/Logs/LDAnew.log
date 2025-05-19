@@ -2315,3 +2315,1219 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2025.05.19-09.49.18:467][822]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
 [2025.05.19-09.49.18:488][822]LogWorld: UWorld::CleanupWorld for World_26, bSessionEnded=true, bCleanupResources=true
 [2025.05.19-09.49.18:488][822]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.19-09.51.23:213][110]Cmd: DELETE
+[2025.05.19-09.51.23:213][110]Cmd: ACTOR DELETE
+[2025.05.19-09.51.23:282][110]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.05.19-09.51.23:343][110]LogUObjectHash: Compacting FUObjectHashTables data took   3.57ms
+[2025.05.19-09.51.23:359][110]LogEditorActor: Deleted 1 Actors (0.108 secs)
+[2025.05.19-09.51.47:942][432]LogUObjectHash: Compacting FUObjectHashTables data took   4.95ms
+[2025.05.19-09.51.49:251][432]LogSlate: Window 'Save Content' being destroyed
+[2025.05.19-09.51.49:317][432]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.05.19-09.51.49:612][432]LogUObjectHash: Compacting FUObjectHashTables data took   1.73ms
+[2025.05.19-09.51.49:652][432]LogUObjectHash: Compacting FUObjectHashTables data took   1.46ms
+[2025.05.19-09.51.49:686][432]LogUObjectHash: Compacting FUObjectHashTables data took   1.33ms
+[2025.05.19-09.51.49:695][432]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/B/SA/O63TNQ27CMVAVKU93EQ9FM
+[2025.05.19-09.51.49:696][432]LogSavePackage: Moving '../../../../../../Users/Microsoft/Documents/GitHub/LDA-new/LDAnew/Saved/O63TNQ27CMVAVKU93EQ9FMDB7408D04B510AB72A90D695D1222B36.tmp' to '../../../../../../Users/Microsoft/Documents/GitHub/LDA-new/LDAnew/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/B/SA/O63TNQ27CMVAVKU93EQ9FM.uasset'
+[2025.05.19-09.51.49:752][432]LogFileHelpers: InternalPromptForCheckoutAndSave took 434 ms (total: 4.04 sec)
+[2025.05.19-09.51.49:763][432]AssetCheck: New page: Asset Save: StaticMeshActor_UAID_60189573EF5BA76902_1496140132
+[2025.05.19-09.51.49:763][432]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_60189573EF5BA76902_1496140132
+[2025.05.19-09.52.47:746][219]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 5769.786621
+[2025.05.19-09.52.48:623][221]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2025.05.19-09.52.49:047][221]LogAudioMixer: Warning: AudioMixerPlatformInterface Timeout [ 5 Seconds] waiting for h/w. InstanceID=1
+[2025.05.19-12.09.30:593][221]LogAudioMixer: Warning: AudioMixerPlatformInterface Timeout [8202 Seconds] waiting for h/w. InstanceID=1
+[2025.05.19-12.09.31:857][221]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2025.05.19-12.09.33:263][221]LogEOSSDK: LogEOSAuth: Refreshing authentication session. AccessTokenExpired: Yes RefreshRequired: Yes VerifyRequired: Yes UserId: 058...038
+[2025.05.19-12.09.33:263][221]LogEOSSDK: LogEOSAuth: Refresh authentication session. AuthState: 1 AccessExpires: -6760 RefreshExpires: 1.546e+07
+[2025.05.19-12.09.33:385][221]LogEOSSDK: Warning: LogHttp: 000004DDB21BC000: invalid HTTP response code received. URL: https://api.epicgames.dev/sdk/v1/product/86f32f1151354e7cb39c12f8ab2c22a3?platformId=WIN&deploymentId=a652a72ea1664dcab3a467891eea5f30, HTTP code: 0, content length: 0, actual payload size: 0
+[2025.05.19-12.09.33:386][221]LogEOSSDK: Warning: LogHttp: 000004DDB21BC000: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2025.05.19-12.09.33:386][221]LogEOSSDK: Warning: LogHttp: 000004DDB21BC000: libcurl info message cache 0 (Found bundle for host api.epicgames.dev: 0x4dd57880090 [can pipeline])
+[2025.05.19-12.09.33:388][221]LogEOSSDK: Warning: LogHttp: 000004DDB21BC000: libcurl info message cache 1 (Re-using existing connection! (#6) with host api.epicgames.dev)
+[2025.05.19-12.09.33:392][221]LogEOSSDK: Warning: LogHttp: 000004DDB21BC000: libcurl info message cache 2 (Connected to api.epicgames.dev (98.84.224.198) port 443 (#6))
+[2025.05.19-12.09.33:392][221]LogEOSSDK: Warning: LogHttp: 000004DDB21BC000: libcurl info message cache 3 (TLSv1.3 (OUT), TLS Unknown, Unknown (23):)
+[2025.05.19-12.09.33:392][221]LogEOSSDK: Warning: LogHttp: 000004DDB21BC000: libcurl info message cache 4 (SSL_write() returned SYSCALL, errno = 10053)
+[2025.05.19-12.09.33:393][221]LogEOSSDK: Warning: LogHttp: 000004DDB21BC000: libcurl info message cache 5 (Failed sending HTTP request)
+[2025.05.19-12.09.33:393][221]LogEOSSDK: Warning: LogHttp: 000004DDB21BC000: libcurl info message cache 6 (Connection died, retrying a fresh connect)
+[2025.05.19-12.09.33:393][221]LogEOSSDK: Warning: LogHttp: 000004DDB21BC000: libcurl info message cache 7 (Closing connection 6)
+[2025.05.19-12.09.33:393][221]LogEOSSDK: Warning: LogHttp: 000004DDB21BC000: libcurl info message cache 8 (Issue another request to this URL: 'https://api.epicgames.dev/sdk/v1/product/86f32f1151354e7cb39c12f8ab2c22a3?platformId=WIN&deploymentId=a652a72ea1664dcab3a467891eea5f30')
+[2025.05.19-12.09.33:393][221]LogEOSSDK: Warning: LogHttp: 000004DDB21BC000: libcurl info message cache 9 (Could not resolve host: api.epicgames.dev)
+[2025.05.19-12.09.33:393][221]LogEOSSDK: Warning: LogHttp: 000004DDB21BC000: libcurl info message cache 10 (Closing connection 8)
+[2025.05.19-12.09.33:495][221]LogEOSSDK: Warning: LogHttp: Retry exhausted on https://api.epicgames.dev/sdk/v1/product/86f32f1151354e7cb39c12f8ab2c22a3?platformId=WIN&deploymentId=a652a72ea1664dcab3a467891eea5f30
+[2025.05.19-12.09.33:535][221]LogEOSSDK: Warning: LogEOS: Failed to connect to the backend. ServiceName=[SDKConfig], OperationName=[GetProductConfigRoute], Url=[<Redacted>]
+[2025.05.19-12.09.38:016][221]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=11376
+[2025.05.19-12.09.43:003][221]LogAudioMixer: Warning: AudioMixerPlatformInterface Timeout [ 5 Seconds] waiting for h/w. InstanceID=1
+[2025.05.19-12.09.46:333][221]LogAutomationController: Ignoring very large delta of 8219.56 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2025.05.19-12.09.46:412][222]LogEOSSDK: Warning: LogEOS: SDK Config Product Update Request Failed, Result Code: EOS_NoConnection, Retrying after 51.392864 seconds
+[2025.05.19-12.09.47:036][222]LogUdpMessaging: Display: Added local interface '192.168.0.6' to multicast group '230.0.0.1:6666'
+[2025.05.19-12.09.47:711][222]LogAudioMixer: Display: Successful Swap new Device is (NumChannels=2, SampleRate=48000, DeviceID={0.0.0.00000000}.{51d992d6-ba51-42d0-a3d3-db2b9478d29b}, Name=Speakers (Realtek(R) Audio)), Reason=AudioMixerPlatformInterface. Timeout waiting for h/w., InstanceID=1, DurationMS=756.87
+[2025.05.19-12.09.47:715][222]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2025.05.19-12.09.47:722][222]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2025.05.19-12.09.47:830][223]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=11376
+[2025.05.19-12.09.47:867][224]LogEOSSDK: LogEOSAuth: UpdateUserAuthToken: User ClientId: xyz...459 AccountId: 058...038 Access[Expires: 2025.05.19-14.09.49 Remaining: 7200.32] Refresh[Expires: 2025-11-15T12:09:49.321Z Remaining: 15552000.32] State: Valid
+[2025.05.19-12.09.48:147][224]LogAudioMixer: Display: Successful Swap new Device is (NumChannels=2, SampleRate=48000, DeviceID={0.0.0.00000000}.{51d992d6-ba51-42d0-a3d3-db2b9478d29b}, Name=Speakers (Realtek(R) Audio)), Reason=AudioMixerPlatformInterface. Timeout waiting for h/w., InstanceID=1, DurationMS=244.43
+[2025.05.19-12.09.48:147][224]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2025.05.19-12.09.48:150][224]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2025.05.19-12.10.24:682][678]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 14028.356445
+[2025.05.19-12.10.25:234][688]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.19-12.10.25:234][688]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 14028.840820, Update Interval: 346.605438
+[2025.05.19-12.10.44:473][149]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2025.05.19-12.10.44:489][149]LogContentBrowser: Creating deferred item: NewFolder
+[2025.05.19-12.10.44:521][150]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2025.05.19-12.10.46:524][212]LogContentBrowser: Attempting asset rename: NewFolder -> banana
+[2025.05.19-12.10.46:529][212]LogContentBrowser: End creating deferred item NewFolder
+[2025.05.19-12.10.51:621][307]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\Microsoft\Downloads\uploads_files_2668923_Banana.fbx)
+[2025.05.19-12.10.51:664][307]LogFbx: Loading FBX Scene from C:\Users\Microsoft\Downloads\uploads_files_2668923_Banana.fbx
+[2025.05.19-12.10.51:688][307]LogFbx: FBX Scene Loaded Succesfully
+[2025.05.19-12.10.54:448][307]LogSlate: Window 'FBX Import Options' being destroyed
+[2025.05.19-12.10.54:814][307]LogFbxMaterialImport: Display: Unable to find Texture file D:\Ngungsi\Content\Blender File\2.83\Project\banana\Texture\Base Color.png
+[2025.05.19-12.10.54:907][307]LogFbx: Display: Triangulating static mesh Banana
+[2025.05.19-12.10.55:746][307]LogStaticMesh: Display: Building static mesh uploads_files_2668923_Banana...
+[2025.05.19-12.10.56:162][307]LogStaticMesh: Built static mesh [0.42s] /Game/assets/Freeasset/banana/uploads_files_2668923_Banana.uploads_files_2668923_Banana
+[2025.05.19-12.10.56:302][307]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2025.05.19-12.10.56:541][307]LogAutomationController: Ignoring very large delta of 5.00 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2025.05.19-12.10.57:021][311]LogShaderCompilers: Display: ================================================
+[2025.05.19-12.10.57:021][311]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2025.05.19-12.10.57:021][311]LogShaderCompilers: Display: Total job queries 4,187, among them cache hits 271 (6.47%)
+[2025.05.19-12.10.57:021][311]LogShaderCompilers: Display: Tracking 3,786 distinct input hashes that result in 2,688 distinct outputs (71.00%)
+[2025.05.19-12.10.57:021][311]LogShaderCompilers: Display: RAM used: 70.32 MiB of 409.60 MiB budget. Usage: 17.17%
+[2025.05.19-12.10.57:021][311]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2025.05.19-12.10.57:021][311]LogShaderCompilers: Display: Shaders Compiled: 3,786
+[2025.05.19-12.10.57:021][311]LogShaderCompilers: Display: Jobs assigned 3,786, completed 3,786 (100%)
+[2025.05.19-12.10.57:021][311]LogShaderCompilers: Display: Average time worker was idle: 39.75 s
+[2025.05.19-12.10.57:021][311]LogShaderCompilers: Display: Time job spent in pending queue: average 90.84 s, longest 202.13 s
+[2025.05.19-12.10.57:021][311]LogShaderCompilers: Display: Job execution time: average 5.03 s, max 19.86 s
+[2025.05.19-12.10.57:021][311]LogShaderCompilers: Display: Job life time (pending + execution): average 95.86 s, max 208.13
+[2025.05.19-12.10.57:021][311]LogShaderCompilers: Display: Shader code size: average 38.333 KiB, min 2.086 KiB, max 162.84 KiB
+[2025.05.19-12.10.57:021][311]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 253.49 s
+[2025.05.19-12.10.57:021][311]LogShaderCompilers: Display: Jobs were issued in 553 batches (only local compilation was used), average 6.85 jobs/batch
+[2025.05.19-12.10.57:021][311]LogShaderCompilers: Display: Average processing rate: 14.94 jobs/sec
+[2025.05.19-12.10.57:021][311]LogShaderCompilers: Display: Total thread time: 2,010.181 s
+[2025.05.19-12.10.57:021][311]LogShaderCompilers: Display: Total thread preprocess time: 118.156 s
+[2025.05.19-12.10.57:021][311]LogShaderCompilers: Display: Percentage time preprocessing: 5.88%
+[2025.05.19-12.10.57:021][311]LogShaderCompilers: Display: Effective parallelization: 7.93 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2025.05.19-12.10.57:022][311]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2025.05.19-12.10.57:022][311]LogShaderCompilers: Display:                                   FSSDTemporalAccumulationCS (compiled   10 times, average 6.14 sec, max 8.00 sec, min 4.27 sec)
+[2025.05.19-12.10.57:022][311]LogShaderCompilers: Display:                                          FClusteredShadingPS (compiled    4 times, average 5.71 sec, max 9.58 sec, min 0.89 sec)
+[2025.05.19-12.10.57:022][311]LogShaderCompilers: Display:                                        FCloudRenderViewPS011 (compiled    1 times, average 3.51 sec, max 3.51 sec, min 3.51 sec)
+[2025.05.19-12.10.57:022][311]LogShaderCompilers: Display:                                        FCloudRenderViewPS111 (compiled    1 times, average 3.42 sec, max 3.42 sec, min 3.42 sec)
+[2025.05.19-12.10.57:022][311]LogShaderCompilers: Display:                                        FCloudRenderViewPS110 (compiled    1 times, average 2.51 sec, max 2.51 sec, min 2.51 sec)
+[2025.05.19-12.10.57:023][311]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2025.05.19-12.10.57:023][311]LogShaderCompilers: Display:                                             FDeferredLightPS - 13.14% of total time (compiled  134 times, average 1.97 sec, max 3.60 sec, min 0.84 sec)
+[2025.05.19-12.10.57:023][311]LogShaderCompilers: Display:                                FVirtualShadowMapProjectionCS - 5.50% of total time (compiled   96 times, average 1.15 sec, max 2.95 sec, min 0.60 sec)
+[2025.05.19-12.10.57:023][311]LogShaderCompilers: Display:                                     FReflectionTraceVoxelsCS - 4.63% of total time (compiled   96 times, average 0.97 sec, max 1.97 sec, min 0.30 sec)
+[2025.05.19-12.10.57:023][311]LogShaderCompilers: Display:                      FRenderSingleScatteringWithPreshadingCS - 4.21% of total time (compiled  128 times, average 0.66 sec, max 1.78 sec, min 0.14 sec)
+[2025.05.19-12.10.57:023][311]LogShaderCompilers: Display:                                  FScreenProbeTraceMeshSDFsCS - 4.02% of total time (compiled   96 times, average 0.84 sec, max 1.58 sec, min 0.18 sec)
+[2025.05.19-12.10.57:023][311]LogShaderCompilers: Display: ================================================
+[2025.05.19-12.10.58:700][332]LogSlate: Window 'Message Log' being destroyed
+[2025.05.19-12.10.58:806][332]LogSlate: Window 'Message Log' being destroyed
+[2025.05.19-12.11.02:563][435]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/assets/Freeasset/banana/Material_001.Material_001
+[2025.05.19-12.11.02:683][435]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.05.19-12.11.02:696][435]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.05.19-12.11.03:009][435]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Engine/EditorMeshes/AssetViewer/Floor_Mesh) ...
+[2025.05.19-12.11.04:094][435]MaterialEditorStats: Texture samplers: 0/16
+[2025.05.19-12.11.04:094][435]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2025.05.19-12.11.04:094][435]MaterialEditorStats: Shader Count: 0
+[2025.05.19-12.11.04:430][435]LogViewport: Scene viewport resized to 374x421, mode Windowed.
+[2025.05.19-12.11.04:708][435]LogAutomationController: Ignoring very large delta of 2.18 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2025.05.19-12.11.05:147][437]MaterialEditorStats: Base pass shader: 193 instructions
+[2025.05.19-12.11.05:148][437]MaterialEditorStats: Base pass vertex shader: 131 instructions
+[2025.05.19-12.11.05:148][437]MaterialEditorStats: Texture samplers: 2/16
+[2025.05.19-12.11.05:148][437]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2025.05.19-12.11.05:148][437]MaterialEditorStats: Shader Count: 4
+[2025.05.19-12.12.36:984][758]LogSlate: Window 'Material_001' being destroyed
+[2025.05.19-12.12.37:055][758]LogSlate: Window 'Material_001' being destroyed
+[2025.05.19-12.12.37:111][758]LogWorld: UWorld::CleanupWorld for World_30, bSessionEnded=true, bCleanupResources=true
+[2025.05.19-12.12.37:118][758]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.19-12.12.41:655][830]LogInterchangeEngine: [Pending] Importing
+[2025.05.19-12.12.41:655][830]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/Microsoft/D.../food_0003_1k_T3nN9D/food_0003_normal_opengl_1k.png]
+[2025.05.19-12.12.41:657][830]LogInterchangeEngine: [Pending] Importing -  (2)
+[2025.05.19-12.12.41:657][830]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/Microsoft/D.../food_0003_1k_T3nN9D/food_0003_roughness_1k.jpg]
+[2025.05.19-12.12.41:660][830]LogInterchangeEngine: [Pending] Importing -  (3)
+[2025.05.19-12.12.41:660][830]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/Microsoft/D.../food_0003_1k_T3nN9D/food_0003_ao_1k.jpg]
+[2025.05.19-12.12.41:662][830]LogInterchangeEngine: [Pending] Importing -  (4)
+[2025.05.19-12.12.41:662][830]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/Microsoft/D.../food_0003_1k_T3nN9D/food_0003_color_1k.jpg]
+[2025.05.19-12.12.41:663][830]LogInterchangeEngine: [Pending] Importing -  (5)
+[2025.05.19-12.12.41:663][830]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/Microsoft/D.../food_0003_1k_T3nN9D/food_0003_height_1k.png]
+[2025.05.19-12.12.41:664][830]LogInterchangeEngine: [Pending] Importing -  (6)
+[2025.05.19-12.12.41:680][831]LogInterchangeImport: JPEG file [C:/Users/Microsoft/Downloads/food_0003_1k_T3nN9D/food_0003_roughness_1k.jpg]: Pipeline setting 'bPreferCompressedSourceData' has been overridden by Editor setting 'RetainJpegFormat'
+[2025.05.19-12.12.41:680][831]LogInterchangeImport: JPEG file [C:/Users/Microsoft/Downloads/food_0003_1k_T3nN9D/food_0003_ao_1k.jpg]: Pipeline setting 'bPreferCompressedSourceData' has been overridden by Editor setting 'RetainJpegFormat'
+[2025.05.19-12.12.41:681][831]LogInterchangeImport: JPEG file [C:/Users/Microsoft/Downloads/food_0003_1k_T3nN9D/food_0003_color_1k.jpg]: Pipeline setting 'bPreferCompressedSourceData' has been overridden by Editor setting 'RetainJpegFormat'
+[2025.05.19-12.12.41:772][831]LogTexture: Display: Building textures: /Game/assets/Freeasset/banana/food_0003_ao_1k.food_0003_ao_1k (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 98.645823 MB), EncodeSpeed: Fast
+[2025.05.19-12.12.41:844][831]LogTexture: Display: Building textures: /Game/assets/Freeasset/banana/food_0003_roughness_1k.food_0003_roughness_1k (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 98.645823 MB), EncodeSpeed: Fast
+[2025.05.19-12.12.41:923][831]LogTexture: Display: Building textures: /Game/assets/Freeasset/banana/food_0003_color_1k.food_0003_color_1k (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 101.645823 MB), EncodeSpeed: Fast
+[2025.05.19-12.12.41:984][831]LogTexture: Display: Building textures: /Game/assets/Freeasset/banana/food_0003_height_1k.food_0003_height_1k (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 99.645823 MB), EncodeSpeed: Fast
+[2025.05.19-12.12.42:032][831]LogInterchangeEngine: [Pending] Importing -  (6)
+[2025.05.19-12.12.42:135][831]LogInterchangePipeline: Display: Auto-detected normal map
+[2025.05.19-12.12.42:140][831]LogTexture: Display: Building textures: /Game/assets/Freeasset/banana/food_0003_normal_opengl_1k.food_0003_normal_opengl_1k (TFO_BC5, 1024x1024 x1x1x1) (Required Memory Estimate: 172.562488 MB), EncodeSpeed: Fast
+[2025.05.19-12.12.42:185][831]LogInterchangeEngine: [Pending] Importing -  (4)
+[2025.05.19-12.12.42:185][831]LogInterchangeEngine: [Pending] Importing -  (5)
+[2025.05.19-12.12.42:185][831]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/Microsoft/D.../food_0003_1k_T3nN9D/food_0003_normal_directx_1k.png]
+[2025.05.19-12.12.42:185][831]LogInterchangeEngine: [Pending] Importing -  (4)
+[2025.05.19-12.12.42:185][831]LogInterchangeEngine: [Pending] Importing -  (3)
+[2025.05.19-12.12.42:185][831]LogInterchangeEngine: [Pending] Importing -  (2)
+[2025.05.19-12.12.42:188][831]LogInterchangeEngine: [Pending] Importing -  (1)
+[2025.05.19-12.12.42:639][832]LogInterchangePipeline: Display: Auto-detected normal map
+[2025.05.19-12.12.42:644][832]LogTexture: Display: Building textures: /Game/assets/Freeasset/banana/food_0003_normal_directx_1k.food_0003_normal_directx_1k (TFO_BC5, 1024x1024 x1x1x1) (Required Memory Estimate: 172.562488 MB), EncodeSpeed: Fast
+[2025.05.19-12.12.42:764][832]LogInterchangeEngine: [Success] Import Done
+[2025.05.19-12.12.42:860][833]LogInterchangeEngine: [Success] Import Done
+[2025.05.19-12.12.46:065][847]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/assets/Freeasset/banana/Material_001.Material_001
+[2025.05.19-12.12.46:078][847]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.05.19-12.12.46:078][847]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.05.19-12.12.46:761][847]MaterialEditorStats: Texture samplers: 0/16
+[2025.05.19-12.12.46:761][847]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2025.05.19-12.12.46:761][847]MaterialEditorStats: Shader Count: 0
+[2025.05.19-12.12.46:781][847]LogViewport: Scene viewport resized to 374x421, mode Windowed.
+[2025.05.19-12.12.47:970][849]MaterialEditorStats: Base pass shader: 193 instructions
+[2025.05.19-12.12.47:970][849]MaterialEditorStats: Base pass vertex shader: 131 instructions
+[2025.05.19-12.12.47:970][849]MaterialEditorStats: Texture samplers: 2/16
+[2025.05.19-12.12.47:970][849]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2025.05.19-12.12.47:970][849]MaterialEditorStats: Shader Count: 4
+[2025.05.19-12.12.50:062][858]MaterialEditorStats: Texture samplers: 0/16
+[2025.05.19-12.12.50:062][858]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2025.05.19-12.12.50:062][858]MaterialEditorStats: Shader Count: 0
+[2025.05.19-12.12.50:897][865]LogViewport: Scene viewport resized to 339x335, mode Windowed.
+[2025.05.19-12.12.53:369][865]LogAutomationController: Ignoring very large delta of 2.60 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2025.05.19-12.12.53:370][866]MaterialEditorStats: Base pass shader: 187 instructions
+[2025.05.19-12.12.53:371][866]MaterialEditorStats: Base pass vertex shader: 131 instructions
+[2025.05.19-12.12.53:371][866]MaterialEditorStats: Texture samplers: 2/16
+[2025.05.19-12.12.53:371][866]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2025.05.19-12.12.53:371][866]MaterialEditorStats: Shader Count: 4
+[2025.05.19-12.12.57:625][893]MaterialEditorStats: Texture samplers: 0/16
+[2025.05.19-12.12.57:625][893]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2025.05.19-12.12.57:625][893]MaterialEditorStats: Shader Count: 0
+[2025.05.19-12.12.57:928][896]MaterialEditorStats: Base pass shader: 187 instructions
+[2025.05.19-12.12.57:928][896]MaterialEditorStats: Base pass vertex shader: 131 instructions
+[2025.05.19-12.12.57:928][896]MaterialEditorStats: Texture samplers: 2/16
+[2025.05.19-12.12.57:928][896]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2025.05.19-12.12.57:928][896]MaterialEditorStats: Shader Count: 4
+[2025.05.19-12.13.04:585][938]MaterialEditorStats: Texture samplers: 0/16
+[2025.05.19-12.13.04:585][938]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2025.05.19-12.13.04:585][938]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2025.05.19-12.13.04:585][938]MaterialEditorStats: Shader Count: 0
+[2025.05.19-12.13.04:942][942]MaterialEditorStats: Base pass shader: 194 instructions
+[2025.05.19-12.13.04:943][942]MaterialEditorStats: Base pass vertex shader: 137 instructions
+[2025.05.19-12.13.04:943][942]MaterialEditorStats: Texture samplers: 3/16
+[2025.05.19-12.13.04:943][942]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2025.05.19-12.13.04:943][942]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2025.05.19-12.13.04:943][942]MaterialEditorStats: Shader Count: 4
+[2025.05.19-12.13.06:572][954]MaterialEditorStats: Texture samplers: 0/16
+[2025.05.19-12.13.06:572][954]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2025.05.19-12.13.06:572][954]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2025.05.19-12.13.06:572][954]MaterialEditorStats: Shader Count: 0
+[2025.05.19-12.13.06:693][956]MaterialEditorStats: Base pass shader: 194 instructions
+[2025.05.19-12.13.06:693][956]MaterialEditorStats: Base pass vertex shader: 137 instructions
+[2025.05.19-12.13.06:693][956]MaterialEditorStats: Texture samplers: 3/16
+[2025.05.19-12.13.06:693][956]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2025.05.19-12.13.06:693][956]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2025.05.19-12.13.06:693][956]MaterialEditorStats: Shader Count: 4
+[2025.05.19-12.13.08:908][978]MaterialEditorStats: Texture samplers: 0/16
+[2025.05.19-12.13.08:908][978]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(2)
+[2025.05.19-12.13.08:908][978]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2025.05.19-12.13.08:908][978]MaterialEditorStats: Shader Count: 0
+[2025.05.19-12.13.09:289][984]MaterialEditorStats: Texture samplers: 1/16
+[2025.05.19-12.13.09:289][984]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(2)
+[2025.05.19-12.13.09:289][984]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2025.05.19-12.13.09:289][984]MaterialEditorStats: Shader Count: 1
+[2025.05.19-12.13.09:595][987]MaterialEditorStats: Base pass vertex shader: 137 instructions
+[2025.05.19-12.13.09:595][987]MaterialEditorStats: Texture samplers: 1/16
+[2025.05.19-12.13.09:595][987]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(2)
+[2025.05.19-12.13.09:595][987]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2025.05.19-12.13.09:595][987]MaterialEditorStats: Shader Count: 3
+[2025.05.19-12.13.09:652][988]MaterialEditorStats: Base pass shader: 194 instructions
+[2025.05.19-12.13.09:652][988]MaterialEditorStats: Base pass vertex shader: 137 instructions
+[2025.05.19-12.13.09:652][988]MaterialEditorStats: Texture samplers: 3/16
+[2025.05.19-12.13.09:652][988]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(2)
+[2025.05.19-12.13.09:652][988]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2025.05.19-12.13.09:652][988]MaterialEditorStats: Shader Count: 4
+[2025.05.19-12.13.11:092][  4]MaterialEditorStats: Texture samplers: 0/16
+[2025.05.19-12.13.11:092][  4]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(2)
+[2025.05.19-12.13.11:092][  4]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2025.05.19-12.13.11:092][  4]MaterialEditorStats: Shader Count: 0
+[2025.05.19-12.13.11:216][  6]MaterialEditorStats: Base pass shader: 194 instructions
+[2025.05.19-12.13.11:216][  6]MaterialEditorStats: Base pass vertex shader: 137 instructions
+[2025.05.19-12.13.11:216][  6]MaterialEditorStats: Texture samplers: 3/16
+[2025.05.19-12.13.11:216][  6]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(2)
+[2025.05.19-12.13.11:216][  6]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2025.05.19-12.13.11:216][  6]MaterialEditorStats: Shader Count: 4
+[2025.05.19-12.13.14:018][ 33]MaterialEditorStats: Texture samplers: 0/16
+[2025.05.19-12.13.14:018][ 33]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2025.05.19-12.13.14:018][ 33]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2025.05.19-12.13.14:018][ 33]MaterialEditorStats: Shader Count: 0
+[2025.05.19-12.13.14:082][ 35]MaterialEditorStats: Base pass shader: 202 instructions
+[2025.05.19-12.13.14:082][ 35]MaterialEditorStats: Base pass vertex shader: 137 instructions
+[2025.05.19-12.13.14:082][ 35]MaterialEditorStats: Texture samplers: 4/16
+[2025.05.19-12.13.14:082][ 35]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2025.05.19-12.13.14:082][ 35]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2025.05.19-12.13.14:082][ 35]MaterialEditorStats: Shader Count: 4
+[2025.05.19-12.13.19:827][ 54]LogAutomationController: Ignoring very large delta of 4.60 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2025.05.19-12.13.21:903][ 79]MaterialEditorStats: Texture samplers: 0/16
+[2025.05.19-12.13.21:904][ 79]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2025.05.19-12.13.21:904][ 79]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2025.05.19-12.13.21:904][ 79]MaterialEditorStats: Shader Count: 0
+[2025.05.19-12.13.22:109][ 81]MaterialEditorStats: Base pass shader: 202 instructions
+[2025.05.19-12.13.22:109][ 81]MaterialEditorStats: Base pass vertex shader: 137 instructions
+[2025.05.19-12.13.22:109][ 81]MaterialEditorStats: Texture samplers: 4/16
+[2025.05.19-12.13.22:109][ 81]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2025.05.19-12.13.22:109][ 81]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2025.05.19-12.13.22:109][ 81]MaterialEditorStats: Shader Count: 4
+[2025.05.19-12.13.22:900][ 93]LogViewport: Scene viewport resized to 374x421, mode Windowed.
+[2025.05.19-12.13.27:832][145]MaterialEditorStats: Texture samplers: 0/16
+[2025.05.19-12.13.27:832][145]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(4)
+[2025.05.19-12.13.27:832][145]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2025.05.19-12.13.27:832][145]MaterialEditorStats: Shader Count: 0
+[2025.05.19-12.13.28:218][150]MaterialEditorStats: Texture samplers: 2/16
+[2025.05.19-12.13.28:219][150]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(4)
+[2025.05.19-12.13.28:219][150]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2025.05.19-12.13.28:219][150]MaterialEditorStats: Shader Count: 1
+[2025.05.19-12.13.28:417][152]MaterialEditorStats: Base pass vertex shader: 137 instructions
+[2025.05.19-12.13.28:417][152]MaterialEditorStats: Texture samplers: 2/16
+[2025.05.19-12.13.28:417][152]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(4)
+[2025.05.19-12.13.28:417][152]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2025.05.19-12.13.28:417][152]MaterialEditorStats: Shader Count: 3
+[2025.05.19-12.13.28:517][153]MaterialEditorStats: Base pass shader: 205 instructions
+[2025.05.19-12.13.28:517][153]MaterialEditorStats: Base pass vertex shader: 137 instructions
+[2025.05.19-12.13.28:518][153]MaterialEditorStats: Texture samplers: 5/16
+[2025.05.19-12.13.28:518][153]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(4)
+[2025.05.19-12.13.28:518][153]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2025.05.19-12.13.28:518][153]MaterialEditorStats: Shader Count: 4
+[2025.05.19-12.13.31:056][182]LogMaterialEditor: Saving and Compiling material Material_001
+[2025.05.19-12.13.32:382][182]LogUObjectHash: Compacting FUObjectHashTables data took  11.18ms
+[2025.05.19-12.13.33:179][182]LogUObjectHash: Compacting FUObjectHashTables data took   1.19ms
+[2025.05.19-12.13.33:234][182]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.05.19-12.13.34:673][182]LogSavePackage: Moving output files for package: /Game/assets/Freeasset/banana/Material_001
+[2025.05.19-12.13.34:673][182]LogSavePackage: Moving '../../../../../../Users/Microsoft/Documents/GitHub/LDA-new/LDAnew/Saved/Material_001B26FE62B4D195104F30C0FAD4D8236C1.tmp' to '../../../../../../Users/Microsoft/Documents/GitHub/LDA-new/LDAnew/Content/assets/Freeasset/banana/Material_001.uasset'
+[2025.05.19-12.13.34:760][182]LogFileHelpers: InternalPromptForCheckoutAndSave took 1.52 sec (total: 5.56 sec)
+[2025.05.19-12.13.34:766][182]AssetCheck: New page: Asset Save: Material_001
+[2025.05.19-12.13.34:767][182]LogContentValidation: Display: Validating /Script/Engine.Material /Game/assets/Freeasset/banana/Material_001.Material_001
+[2025.05.19-12.13.34:776][182]MaterialEditorStats: Base pass shader: 205 instructions
+[2025.05.19-12.13.34:776][182]MaterialEditorStats: Base pass vertex shader: 137 instructions
+[2025.05.19-12.13.34:776][182]MaterialEditorStats: MaxSampler: 271 instructions
+[2025.05.19-12.13.34:776][182]MaterialEditorStats: Texture samplers: 7/16
+[2025.05.19-12.13.34:776][182]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(4)
+[2025.05.19-12.13.34:776][182]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2025.05.19-12.13.34:776][182]MaterialEditorStats: Shader Count: 16
+[2025.05.19-12.13.34:801][182]LogAutomationController: Ignoring very large delta of 3.83 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2025.05.19-12.13.36:950][206]LogSlate: Window 'Material_001' being destroyed
+[2025.05.19-12.13.37:040][206]LogSlate: Window 'Material_001' being destroyed
+[2025.05.19-12.13.37:087][206]LogWorld: UWorld::CleanupWorld for World_31, bSessionEnded=true, bCleanupResources=true
+[2025.05.19-12.13.37:088][206]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.19-12.13.38:944][246]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/assets/Freeasset/banana/uploads_files_2668923_Banana.uploads_files_2668923_Banana
+[2025.05.19-12.13.39:219][246]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.05.19-12.13.39:219][246]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.05.19-12.13.40:619][246]LogViewport: Scene viewport resized to 1403x848, mode Windowed.
+[2025.05.19-12.13.44:898][297]LogSlate: Window 'uploads_files_2668923_Banana' being destroyed
+[2025.05.19-12.13.44:998][297]LogSlate: Window 'uploads_files_2668923_Banana' being destroyed
+[2025.05.19-12.13.45:135][297]LogWorld: UWorld::CleanupWorld for World_32, bSessionEnded=true, bCleanupResources=true
+[2025.05.19-12.13.45:135][297]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.19-12.14.12:794][607]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/assets/Freeasset/banana/uploads_files_2668923_Banana.uploads_files_2668923_Banana
+[2025.05.19-12.14.12:795][607]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/assets/Freeasset/banana/uploads_files_2668923_Banana.uploads_files_2668923_Banana
+[2025.05.19-12.14.12:816][607]LogActorFactory: Actor Factory spawned StaticMesh /Game/assets/Freeasset/banana/uploads_files_2668923_Banana.uploads_files_2668923_Banana as actor: StaticMeshActor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_0
+[2025.05.19-12.14.13:451][619]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/assets/Freeasset/banana/uploads_files_2668923_Banana.uploads_files_2668923_Banana
+[2025.05.19-12.14.13:451][619]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/assets/Freeasset/banana/uploads_files_2668923_Banana.uploads_files_2668923_Banana
+[2025.05.19-12.14.13:493][619]LogActorFactory: Actor Factory spawned StaticMesh /Game/assets/Freeasset/banana/uploads_files_2668923_Banana.uploads_files_2668923_Banana as actor: StaticMeshActor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_A036BC6D4AA5E86902_1150508207
+[2025.05.19-12.14.27:150][841]LogShaderCompilers: Display: ================================================
+[2025.05.19-12.14.27:150][841]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2025.05.19-12.14.27:150][841]LogShaderCompilers: Display: Total job queries 4,347, among them cache hits 383 (8.81%)
+[2025.05.19-12.14.27:150][841]LogShaderCompilers: Display: Tracking 3,829 distinct input hashes that result in 2,712 distinct outputs (70.83%)
+[2025.05.19-12.14.27:151][841]LogShaderCompilers: Display: RAM used: 71.24 MiB of 409.60 MiB budget. Usage: 17.39%
+[2025.05.19-12.14.27:151][841]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2025.05.19-12.14.27:151][841]LogShaderCompilers: Display: Shaders Compiled: 3,829
+[2025.05.19-12.14.27:151][841]LogShaderCompilers: Display: Jobs assigned 3,834, completed 3,829 (99.87%)
+[2025.05.19-12.14.27:151][841]LogShaderCompilers: Display: Average time worker was idle: 192.33 s
+[2025.05.19-12.14.27:151][841]LogShaderCompilers: Display: Time job spent in pending queue: average 89.70 s, longest 202.13 s
+[2025.05.19-12.14.27:151][841]LogShaderCompilers: Display: Job execution time: average 4.98 s, max 19.86 s
+[2025.05.19-12.14.27:152][841]LogShaderCompilers: Display: Job life time (pending + execution): average 94.80 s, max 208.13
+[2025.05.19-12.14.27:152][841]LogShaderCompilers: Display: Shader code size: average 38.317 KiB, min 2.086 KiB, max 162.84 KiB
+[2025.05.19-12.14.27:152][841]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 262.75 s
+[2025.05.19-12.14.27:152][841]LogShaderCompilers: Display: Jobs were issued in 601 batches (only local compilation was used), average 6.38 jobs/batch
+[2025.05.19-12.14.27:152][841]LogShaderCompilers: Display: Average processing rate: 14.57 jobs/sec
+[2025.05.19-12.14.27:152][841]LogShaderCompilers: Display: Total thread time: 2,030.036 s
+[2025.05.19-12.14.27:152][841]LogShaderCompilers: Display: Total thread preprocess time: 120.654 s
+[2025.05.19-12.14.27:152][841]LogShaderCompilers: Display: Percentage time preprocessing: 5.94%
+[2025.05.19-12.14.27:152][841]LogShaderCompilers: Display: Effective parallelization: 7.73 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2025.05.19-12.14.27:154][841]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2025.05.19-12.14.27:155][841]LogShaderCompilers: Display:                                   FSSDTemporalAccumulationCS (compiled   10 times, average 6.14 sec, max 8.00 sec, min 4.27 sec)
+[2025.05.19-12.14.27:155][841]LogShaderCompilers: Display:                                          FClusteredShadingPS (compiled    4 times, average 5.71 sec, max 9.58 sec, min 0.89 sec)
+[2025.05.19-12.14.27:155][841]LogShaderCompilers: Display:                                        FCloudRenderViewPS011 (compiled    1 times, average 3.51 sec, max 3.51 sec, min 3.51 sec)
+[2025.05.19-12.14.27:155][841]LogShaderCompilers: Display:                                        FCloudRenderViewPS111 (compiled    1 times, average 3.42 sec, max 3.42 sec, min 3.42 sec)
+[2025.05.19-12.14.27:155][841]LogShaderCompilers: Display:                                        FCloudRenderViewPS110 (compiled    1 times, average 2.51 sec, max 2.51 sec, min 2.51 sec)
+[2025.05.19-12.14.27:155][841]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2025.05.19-12.14.27:155][841]LogShaderCompilers: Display:                                             FDeferredLightPS - 13.01% of total time (compiled  134 times, average 1.97 sec, max 3.60 sec, min 0.84 sec)
+[2025.05.19-12.14.27:155][841]LogShaderCompilers: Display:                                FVirtualShadowMapProjectionCS - 5.44% of total time (compiled   96 times, average 1.15 sec, max 2.95 sec, min 0.60 sec)
+[2025.05.19-12.14.27:155][841]LogShaderCompilers: Display:                                     FReflectionTraceVoxelsCS - 4.58% of total time (compiled   96 times, average 0.97 sec, max 1.97 sec, min 0.30 sec)
+[2025.05.19-12.14.27:155][841]LogShaderCompilers: Display:                      FRenderSingleScatteringWithPreshadingCS - 4.17% of total time (compiled  128 times, average 0.66 sec, max 1.78 sec, min 0.14 sec)
+[2025.05.19-12.14.27:155][841]LogShaderCompilers: Display:                                  FScreenProbeTraceMeshSDFsCS - 3.98% of total time (compiled   96 times, average 0.84 sec, max 1.58 sec, min 0.18 sec)
+[2025.05.19-12.14.27:155][841]LogShaderCompilers: Display: ================================================
+[2025.05.19-12.14.46:775][117]LogUObjectHash: Compacting FUObjectHashTables data took   4.80ms
+[2025.05.19-12.14.47:978][117]LogSlate: Window 'Save Content' being destroyed
+[2025.05.19-12.14.48:042][117]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.05.19-12.14.48:319][117]LogSavePackage: Moving output files for package: /Game/assets/Freeasset/banana/food_0003_ao_1k
+[2025.05.19-12.14.48:319][117]LogSavePackage: Moving '../../../../../../Users/Microsoft/Documents/GitHub/LDA-new/LDAnew/Saved/food_0003_ao_1kE44FC78B4289C9D877E2E39B7F5909AE.tmp' to '../../../../../../Users/Microsoft/Documents/GitHub/LDA-new/LDAnew/Content/assets/Freeasset/banana/food_0003_ao_1k.uasset'
+[2025.05.19-12.14.48:343][117]LogSavePackage: Moving output files for package: /Game/assets/Freeasset/banana/food_0003_color_1k
+[2025.05.19-12.14.48:343][117]LogSavePackage: Moving '../../../../../../Users/Microsoft/Documents/GitHub/LDA-new/LDAnew/Saved/food_0003_color_1kB99045A34E3FB3730029C1B9850E32A3.tmp' to '../../../../../../Users/Microsoft/Documents/GitHub/LDA-new/LDAnew/Content/assets/Freeasset/banana/food_0003_color_1k.uasset'
+[2025.05.19-12.14.48:421][117]LogSavePackage: Moving output files for package: /Game/assets/Freeasset/banana/food_0003_height_1k
+[2025.05.19-12.14.48:421][117]LogSavePackage: Moving '../../../../../../Users/Microsoft/Documents/GitHub/LDA-new/LDAnew/Saved/food_0003_height_1k39B935B74193562D1F368389A517656F.tmp' to '../../../../../../Users/Microsoft/Documents/GitHub/LDA-new/LDAnew/Content/assets/Freeasset/banana/food_0003_height_1k.uasset'
+[2025.05.19-12.14.48:620][117]LogSavePackage: Moving output files for package: /Game/assets/Freeasset/banana/food_0003_normal_directx_1k
+[2025.05.19-12.14.48:620][117]LogSavePackage: Moving '../../../../../../Users/Microsoft/Documents/GitHub/LDA-new/LDAnew/Saved/food_0003_normal_directx_1k5D0566434C27026FB1E7419D7822B2A3.tmp' to '../../../../../../Users/Microsoft/Documents/GitHub/LDA-new/LDAnew/Content/assets/Freeasset/banana/food_0003_normal_directx_1k.uasset'
+[2025.05.19-12.14.48:852][117]LogSavePackage: Moving output files for package: /Game/assets/Freeasset/banana/food_0003_normal_opengl_1k
+[2025.05.19-12.14.48:852][117]LogSavePackage: Moving '../../../../../../Users/Microsoft/Documents/GitHub/LDA-new/LDAnew/Saved/food_0003_normal_opengl_1k1C3BE70E49A82C85F294EE8651FF1FE1.tmp' to '../../../../../../Users/Microsoft/Documents/GitHub/LDA-new/LDAnew/Content/assets/Freeasset/banana/food_0003_normal_opengl_1k.uasset'
+[2025.05.19-12.14.49:022][117]LogSavePackage: Moving output files for package: /Game/assets/Freeasset/banana/food_0003_roughness_1k
+[2025.05.19-12.14.49:022][117]LogSavePackage: Moving '../../../../../../Users/Microsoft/Documents/GitHub/LDA-new/LDAnew/Saved/food_0003_roughness_1k9A346ED64900F85E138CB99C641FDBAD.tmp' to '../../../../../../Users/Microsoft/Documents/GitHub/LDA-new/LDAnew/Content/assets/Freeasset/banana/food_0003_roughness_1k.uasset'
+[2025.05.19-12.14.49:288][117]LogSavePackage: Moving output files for package: /Game/assets/Freeasset/banana/uploads_files_2668923_Banana
+[2025.05.19-12.14.49:288][117]LogSavePackage: Moving '../../../../../../Users/Microsoft/Documents/GitHub/LDA-new/LDAnew/Saved/uploads_files_2668923_Banana52FFC8AB432CE8AE5A83C7B288B49672.tmp' to '../../../../../../Users/Microsoft/Documents/GitHub/LDA-new/LDAnew/Content/assets/Freeasset/banana/uploads_files_2668923_Banana.uasset'
+[2025.05.19-12.14.49:320][117]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/1/L2/H54FPWW231GUXYHBVOE8SH
+[2025.05.19-12.14.49:320][117]LogSavePackage: Moving '../../../../../../Users/Microsoft/Documents/GitHub/LDA-new/LDAnew/Saved/H54FPWW231GUXYHBVOE8SH9782FEB84C1266D5449D578BCC30FB18.tmp' to '../../../../../../Users/Microsoft/Documents/GitHub/LDA-new/LDAnew/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/1/L2/H54FPWW231GUXYHBVOE8SH.uasset'
+[2025.05.19-12.14.49:374][117]LogFileHelpers: InternalPromptForCheckoutAndSave took 1.33 sec (total: 6.90 sec)
+[2025.05.19-12.14.49:420][117]AssetCheck: New page: Asset Save: multiple assets
+[2025.05.19-12.14.49:420][117]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/assets/Freeasset/banana/food_0003_ao_1k.food_0003_ao_1k
+[2025.05.19-12.14.49:420][117]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/assets/Freeasset/banana/food_0003_color_1k.food_0003_color_1k
+[2025.05.19-12.14.49:420][117]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/assets/Freeasset/banana/food_0003_height_1k.food_0003_height_1k
+[2025.05.19-12.14.49:420][117]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/assets/Freeasset/banana/food_0003_normal_directx_1k.food_0003_normal_directx_1k
+[2025.05.19-12.14.49:420][117]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/assets/Freeasset/banana/food_0003_normal_opengl_1k.food_0003_normal_opengl_1k
+[2025.05.19-12.14.49:420][117]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/assets/Freeasset/banana/food_0003_roughness_1k.food_0003_roughness_1k
+[2025.05.19-12.14.49:420][117]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/assets/Freeasset/banana/uploads_files_2668923_Banana.uploads_files_2668923_Banana
+[2025.05.19-12.14.49:420][117]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_A036BC6D4AA5E86902_1150508207
+[2025.05.19-12.14.49:441][117]LogAutomationController: Ignoring very large delta of 2.72 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2025.05.19-12.17.00:756][292]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 14424.377930
+[2025.05.19-12.17.01:755][295]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.19-12.17.01:755][295]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 14425.043945, Update Interval: 339.665527
+[2025.05.19-12.18.25:203][631]LogSlate: Warning: Unable to rasterize '../../../Engine/Content/Editor/Slate/Starship/AssetIcons/SpecularProfile_64.svg'. File could not be found
+[2025.05.19-12.18.25:991][640]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2025.05.19-12.18.26:011][640]LogContentBrowser: Creating deferred item: NewFolder
+[2025.05.19-12.18.26:044][641]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2025.05.19-12.18.27:458][685]LogContentBrowser: Attempting asset rename: NewFolder -> meat
+[2025.05.19-12.18.27:460][685]LogContentBrowser: End creating deferred item NewFolder
+[2025.05.19-12.18.39:486][904]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\Microsoft\Downloads\new\uploads_files_5227927_Raw+Meat+4\RawMeat4.FBX)
+[2025.05.19-12.18.39:517][904]LogFbx: Loading FBX Scene from C:\Users\Microsoft\Downloads\new\uploads_files_5227927_Raw+Meat+4\RawMeat4.FBX
+[2025.05.19-12.18.39:531][904]LogFbx: FBX Scene Loaded Succesfully
+[2025.05.19-12.18.42:539][904]LogSlate: Window 'FBX Import Options' being destroyed
+[2025.05.19-12.18.43:429][904]LogEditorFactories: Display: Image imported as : TSF BGRA8
+[2025.05.19-12.18.43:567][904]LogTexture: Display: Building textures: /Game/assets/Freeasset/meat/RawMeat4Albedo.RawMeat4Albedo (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1152.062484 MB), EncodeSpeed: Fast
+[2025.05.19-12.18.44:712][904]LogEditorFactories: Display: Auto-detected grayscale, image changed to G8
+[2025.05.19-12.18.44:712][904]LogEditorFactories: Display: Image imported as : TSF G8
+[2025.05.19-12.18.44:732][904]LogTexture: Display: Building textures: /Game/assets/Freeasset/meat/RawMeat4Rough.RawMeat4Rough (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1104.062484 MB), EncodeSpeed: Fast
+[2025.05.19-12.18.45:682][904]LogEditorFactories: Display: Image imported as : TSF BGRA8
+[2025.05.19-12.18.45:727][904]LogTexture: Display: Building textures: /Game/assets/Freeasset/meat/RawMeat4Normal.RawMeat4Normal (TFO_BC5, 4096x4096 x1x1x1) (Required Memory Estimate: 1152.062484 MB), EncodeSpeed: Fast
+[2025.05.19-12.18.46:322][904]LogFbx: Display: Triangulating static mesh RawMeat4
+[2025.05.19-12.18.46:443][904]LogStaticMesh: Display: Building static mesh RawMeat4...
+[2025.05.19-12.18.46:607][904]LogStaticMesh: Built static mesh [0.17s] /Game/assets/Freeasset/meat/RawMeat4.RawMeat4
+[2025.05.19-12.18.46:712][904]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2025.05.19-12.18.46:837][904]LogAutomationController: Ignoring very large delta of 7.40 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2025.05.19-12.18.48:050][919]LogShaderCompilers: Display: ================================================
+[2025.05.19-12.18.48:050][919]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2025.05.19-12.18.48:050][919]LogShaderCompilers: Display: Total job queries 4,355, among them cache hits 387 (8.89%)
+[2025.05.19-12.18.48:050][919]LogShaderCompilers: Display: Tracking 3,835 distinct input hashes that result in 2,718 distinct outputs (70.87%)
+[2025.05.19-12.18.48:050][919]LogShaderCompilers: Display: RAM used: 71.36 MiB of 409.60 MiB budget. Usage: 17.42%
+[2025.05.19-12.18.48:050][919]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2025.05.19-12.18.48:050][919]LogShaderCompilers: Display: Shaders Compiled: 3,835
+[2025.05.19-12.18.48:050][919]LogShaderCompilers: Display: Jobs assigned 3,838, completed 3,835 (99.92%)
+[2025.05.19-12.18.48:050][919]LogShaderCompilers: Display: Average time worker was idle: 192.78 s
+[2025.05.19-12.18.48:050][919]LogShaderCompilers: Display: Time job spent in pending queue: average 89.61 s, longest 202.13 s
+[2025.05.19-12.18.48:050][919]LogShaderCompilers: Display: Job execution time: average 4.97 s, max 19.86 s
+[2025.05.19-12.18.48:050][919]LogShaderCompilers: Display: Job life time (pending + execution): average 94.65 s, max 208.13
+[2025.05.19-12.18.48:050][919]LogShaderCompilers: Display: Shader code size: average 38.311 KiB, min 2.086 KiB, max 162.84 KiB
+[2025.05.19-12.18.48:050][919]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 263.97 s
+[2025.05.19-12.18.48:050][919]LogShaderCompilers: Display: Jobs were issued in 605 batches (only local compilation was used), average 6.34 jobs/batch
+[2025.05.19-12.18.48:050][919]LogShaderCompilers: Display: Average processing rate: 14.53 jobs/sec
+[2025.05.19-12.18.48:050][919]LogShaderCompilers: Display: Total thread time: 2,036.618 s
+[2025.05.19-12.18.48:050][919]LogShaderCompilers: Display: Total thread preprocess time: 121.381 s
+[2025.05.19-12.18.48:050][919]LogShaderCompilers: Display: Percentage time preprocessing: 5.96%
+[2025.05.19-12.18.48:050][919]LogShaderCompilers: Display: Effective parallelization: 7.72 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2025.05.19-12.18.48:050][919]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2025.05.19-12.18.48:050][919]LogShaderCompilers: Display:                                   FSSDTemporalAccumulationCS (compiled   10 times, average 6.14 sec, max 8.00 sec, min 4.27 sec)
+[2025.05.19-12.18.48:050][919]LogShaderCompilers: Display:                                          FClusteredShadingPS (compiled    4 times, average 5.71 sec, max 9.58 sec, min 0.89 sec)
+[2025.05.19-12.18.48:050][919]LogShaderCompilers: Display:                                        FCloudRenderViewPS011 (compiled    1 times, average 3.51 sec, max 3.51 sec, min 3.51 sec)
+[2025.05.19-12.18.48:050][919]LogShaderCompilers: Display:                                        FCloudRenderViewPS111 (compiled    1 times, average 3.42 sec, max 3.42 sec, min 3.42 sec)
+[2025.05.19-12.18.48:050][919]LogShaderCompilers: Display:                                        FCloudRenderViewPS110 (compiled    1 times, average 2.51 sec, max 2.51 sec, min 2.51 sec)
+[2025.05.19-12.18.48:050][919]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2025.05.19-12.18.48:050][919]LogShaderCompilers: Display:                                             FDeferredLightPS - 12.97% of total time (compiled  134 times, average 1.97 sec, max 3.60 sec, min 0.84 sec)
+[2025.05.19-12.18.48:050][919]LogShaderCompilers: Display:                                FVirtualShadowMapProjectionCS - 5.42% of total time (compiled   96 times, average 1.15 sec, max 2.95 sec, min 0.60 sec)
+[2025.05.19-12.18.48:050][919]LogShaderCompilers: Display:                                     FReflectionTraceVoxelsCS - 4.57% of total time (compiled   96 times, average 0.97 sec, max 1.97 sec, min 0.30 sec)
+[2025.05.19-12.18.48:050][919]LogShaderCompilers: Display:                      FRenderSingleScatteringWithPreshadingCS - 4.16% of total time (compiled  128 times, average 0.66 sec, max 1.78 sec, min 0.14 sec)
+[2025.05.19-12.18.48:050][919]LogShaderCompilers: Display:                                  FScreenProbeTraceMeshSDFsCS - 3.97% of total time (compiled   96 times, average 0.84 sec, max 1.58 sec, min 0.18 sec)
+[2025.05.19-12.18.48:051][919]LogShaderCompilers: Display: ================================================
+[2025.05.19-12.18.48:763][929]LogSlate: Window 'Message Log' being destroyed
+[2025.05.19-12.18.48:855][929]LogSlate: Window 'Message Log' being destroyed
+[2025.05.19-12.19.02:556][240]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/assets/Freeasset/meat/RawMeat4.RawMeat4
+[2025.05.19-12.19.02:556][240]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/assets/Freeasset/meat/RawMeat4.RawMeat4
+[2025.05.19-12.19.02:557][240]LogActorFactory: Actor Factory spawned StaticMesh /Game/assets/Freeasset/meat/RawMeat4.RawMeat4 as actor: StaticMeshActor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_1
+[2025.05.19-12.19.03:643][254]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/assets/Freeasset/meat/RawMeat4.RawMeat4
+[2025.05.19-12.19.03:643][254]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/assets/Freeasset/meat/RawMeat4.RawMeat4
+[2025.05.19-12.19.03:648][254]LogActorFactory: Actor Factory spawned StaticMesh /Game/assets/Freeasset/meat/RawMeat4.RawMeat4 as actor: StaticMeshActor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_A036BC6D4AA5E86902_1440697208
+[2025.05.19-12.20.12:644][237]LogUObjectHash: Compacting FUObjectHashTables data took   4.38ms
+[2025.05.19-12.20.12:657][237]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/C/4Y/8XFVVUW5ZQCG1R1ZOAHD0Z_Auto4
+[2025.05.19-12.20.12:657][237]LogSavePackage: Moving '../../../../../../Users/Microsoft/Documents/GitHub/LDA-new/LDAnew/Saved/8XFVVUW5ZQCG1R1ZOAHD0Z_Auto4F1987358464507B22A4AD4B3A77D8BD9.tmp' to '../../../../../../Users/Microsoft/Documents/GitHub/LDA-new/LDAnew/Saved/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/C/4Y/8XFVVUW5ZQCG1R1ZOAHD0Z_Auto4.uasset'
+[2025.05.19-12.20.12:659][237]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FirstPerson/Maps/FirstPersonMap' took 0.061
+[2025.05.19-12.20.12:659][237]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.061
+[2025.05.19-12.20.12:662][237]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/assets/Freeasset/meat/RawMeat4] ([1] browsable assets)...
+[2025.05.19-12.20.13:097][237]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/assets/Freeasset/meat/RawMeat4.RawMeat4]
+[2025.05.19-12.20.13:097][237]OBJ SavePackage: Finished generating thumbnails for package [/Game/assets/Freeasset/meat/RawMeat4]
+[2025.05.19-12.20.13:106][237]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/assets/Freeasset/meat/RawMeat4_Auto4
+[2025.05.19-12.20.13:106][237]LogSavePackage: Moving '../../../../../../Users/Microsoft/Documents/GitHub/LDA-new/LDAnew/Saved/RawMeat4_Auto4C5F2EAE04570063D744C3A9D6D14CA7F.tmp' to '../../../../../../Users/Microsoft/Documents/GitHub/LDA-new/LDAnew/Saved/Autosaves/Game/assets/Freeasset/meat/RawMeat4_Auto4.uasset'
+[2025.05.19-12.20.13:107][237]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/assets/Freeasset/meat/Material__46] ([1] browsable assets)...
+[2025.05.19-12.20.14:778][237]OBJ SavePackage:     Rendered thumbnail for [Material /Game/assets/Freeasset/meat/Material__46.Material__46]
+[2025.05.19-12.20.14:778][237]OBJ SavePackage: Finished generating thumbnails for package [/Game/assets/Freeasset/meat/Material__46]
+[2025.05.19-12.20.14:783][237]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/assets/Freeasset/meat/Material__46_Auto4
+[2025.05.19-12.20.14:783][237]LogSavePackage: Moving '../../../../../../Users/Microsoft/Documents/GitHub/LDA-new/LDAnew/Saved/Material__46_Auto4146BBEE94C4E5D8083EC90A85BDE2B35.tmp' to '../../../../../../Users/Microsoft/Documents/GitHub/LDA-new/LDAnew/Saved/Autosaves/Game/assets/Freeasset/meat/Material__46_Auto4.uasset'
+[2025.05.19-12.20.14:785][237]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/assets/Freeasset/meat/RawMeat4Albedo] ([1] browsable assets)...
+[2025.05.19-12.20.14:787][237]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/assets/Freeasset/meat/RawMeat4Albedo.RawMeat4Albedo]
+[2025.05.19-12.20.14:787][237]OBJ SavePackage: Finished generating thumbnails for package [/Game/assets/Freeasset/meat/RawMeat4Albedo]
+[2025.05.19-12.20.14:892][237]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/assets/Freeasset/meat/RawMeat4Albedo_Auto4
+[2025.05.19-12.20.14:892][237]LogSavePackage: Moving '../../../../../../Users/Microsoft/Documents/GitHub/LDA-new/LDAnew/Saved/RawMeat4Albedo_Auto456449A3544FFB777942D9F9EED872283.tmp' to '../../../../../../Users/Microsoft/Documents/GitHub/LDA-new/LDAnew/Saved/Autosaves/Game/assets/Freeasset/meat/RawMeat4Albedo_Auto4.uasset'
+[2025.05.19-12.20.14:893][237]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/assets/Freeasset/meat/RawMeat4Rough] ([1] browsable assets)...
+[2025.05.19-12.20.14:897][237]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/assets/Freeasset/meat/RawMeat4Rough.RawMeat4Rough]
+[2025.05.19-12.20.14:897][237]OBJ SavePackage: Finished generating thumbnails for package [/Game/assets/Freeasset/meat/RawMeat4Rough]
+[2025.05.19-12.20.14:916][237]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/assets/Freeasset/meat/RawMeat4Rough_Auto4
+[2025.05.19-12.20.14:917][237]LogSavePackage: Moving '../../../../../../Users/Microsoft/Documents/GitHub/LDA-new/LDAnew/Saved/RawMeat4Rough_Auto4C4C520C94DFD83D349F198A73DB967AA.tmp' to '../../../../../../Users/Microsoft/Documents/GitHub/LDA-new/LDAnew/Saved/Autosaves/Game/assets/Freeasset/meat/RawMeat4Rough_Auto4.uasset'
+[2025.05.19-12.20.14:919][237]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/assets/Freeasset/meat/RawMeat4Normal] ([1] browsable assets)...
+[2025.05.19-12.20.14:922][237]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/assets/Freeasset/meat/RawMeat4Normal.RawMeat4Normal]
+[2025.05.19-12.20.14:923][237]OBJ SavePackage: Finished generating thumbnails for package [/Game/assets/Freeasset/meat/RawMeat4Normal]
+[2025.05.19-12.20.15:057][237]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/assets/Freeasset/meat/RawMeat4Normal_Auto4
+[2025.05.19-12.20.15:057][237]LogSavePackage: Moving '../../../../../../Users/Microsoft/Documents/GitHub/LDA-new/LDAnew/Saved/RawMeat4Normal_Auto4474AC0924D5B33DF922891818938D8F2.tmp' to '../../../../../../Users/Microsoft/Documents/GitHub/LDA-new/LDAnew/Saved/Autosaves/Game/assets/Freeasset/meat/RawMeat4Normal_Auto4.uasset'
+[2025.05.19-12.20.15:058][237]LogFileHelpers: Auto-saving content packages took 2.398
+[2025.05.19-12.20.15:131][238]LogAutomationController: Ignoring very large delta of 3.04 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2025.05.19-12.20.22:883][376]LogAssetTools: Warning: Failed to import 'C:\Users\Microsoft\Downloads\jiq2nwj8gtmo-Raw_meat\Raw_meat.dae'. Unknown extension 'dae'.
+[2025.05.19-12.23.11:746][  5]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 14795.335938
+[2025.05.19-12.23.12:146][ 17]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.19-12.23.12:147][ 17]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 14795.703125, Update Interval: 332.183594
+[2025.05.19-12.23.16:501][ 60]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\Microsoft\Downloads\uploads_files_5240706_Steaks\Steaks.FBX)
+[2025.05.19-12.23.16:507][ 60]LogFbx: Loading FBX Scene from C:\Users\Microsoft\Downloads\uploads_files_5240706_Steaks\Steaks.FBX
+[2025.05.19-12.23.16:521][ 60]LogFbx: FBX Scene Loaded Succesfully
+[2025.05.19-12.23.19:443][ 60]LogSlate: Window 'FBX Import Options' being destroyed
+[2025.05.19-12.23.20:119][ 60]LogEditorFactories: Display: Image imported as : TSF BGRA8
+[2025.05.19-12.23.20:165][ 60]LogTexture: Display: Building textures: /Game/assets/Freeasset/meat/Steak1Albedo.Steak1Albedo (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1152.062484 MB), EncodeSpeed: Fast
+[2025.05.19-12.23.20:958][ 60]LogEditorFactories: Display: Auto-detected grayscale, image changed to G8
+[2025.05.19-12.23.20:958][ 60]LogEditorFactories: Display: Image imported as : TSF G8
+[2025.05.19-12.23.20:974][ 60]LogTexture: Display: Building textures: /Game/assets/Freeasset/meat/Steak1Rough.Steak1Rough (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1104.062484 MB), EncodeSpeed: Fast
+[2025.05.19-12.23.21:699][ 60]LogEditorFactories: Display: Image imported as : TSF BGRA8
+[2025.05.19-12.23.21:752][ 60]LogTexture: Display: Building textures: /Game/assets/Freeasset/meat/Steak1Normal.Steak1Normal (TFO_BC5, 4096x4096 x1x1x1) (Required Memory Estimate: 1152.062484 MB), EncodeSpeed: Fast
+[2025.05.19-12.23.22:278][ 60]LogFbx: Display: Triangulating static mesh Steak1
+[2025.05.19-12.23.22:871][ 60]LogEditorFactories: Display: Image imported as : TSF BGRA8
+[2025.05.19-12.23.22:926][ 60]LogTexture: Display: Building textures: /Game/assets/Freeasset/meat/Steak2Albedo.Steak2Albedo (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1152.062484 MB), EncodeSpeed: Fast
+[2025.05.19-12.23.23:831][ 60]LogEditorFactories: Display: Auto-detected grayscale, image changed to G8
+[2025.05.19-12.23.23:832][ 60]LogEditorFactories: Display: Image imported as : TSF G8
+[2025.05.19-12.23.23:854][ 60]LogTexture: Display: Building textures: /Game/assets/Freeasset/meat/Steak2Rough.Steak2Rough (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1104.062484 MB), EncodeSpeed: Fast
+[2025.05.19-12.23.24:665][ 60]LogEditorFactories: Display: Image imported as : TSF BGRA8
+[2025.05.19-12.23.24:720][ 60]LogTexture: Display: Building textures: /Game/assets/Freeasset/meat/Steak2Normal.Steak2Normal (TFO_BC5, 4096x4096 x1x1x1) (Required Memory Estimate: 1152.062484 MB), EncodeSpeed: Fast
+[2025.05.19-12.23.25:291][ 60]LogFbx: Display: Triangulating static mesh Steak2
+[2025.05.19-12.23.25:407][ 60]LogStaticMesh: Display: Building static mesh Steaks...
+[2025.05.19-12.23.25:574][ 60]LogStaticMesh: Built static mesh [0.17s] /Game/assets/Freeasset/meat/Steaks.Steaks
+[2025.05.19-12.23.25:656][ 60]FBXImport: FBX Scene Loading: Found texture name clash, name clash can be wrongly reassign at reimport , texture 'Metal' was renamed 'Metal_ncl1_1' 
+[2025.05.19-12.23.25:658][ 60]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2025.05.19-12.23.25:792][ 61]LogAutomationController: Ignoring very large delta of 9.32 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2025.05.19-12.23.26:278][ 64]LogShaderCompilers: Display: ================================================
+[2025.05.19-12.23.26:278][ 64]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2025.05.19-12.23.26:278][ 64]LogShaderCompilers: Display: Total job queries 4,373, among them cache hits 393 (8.99%)
+[2025.05.19-12.23.26:278][ 64]LogShaderCompilers: Display: Tracking 3,850 distinct input hashes that result in 2,727 distinct outputs (70.83%)
+[2025.05.19-12.23.26:278][ 64]LogShaderCompilers: Display: RAM used: 71.73 MiB of 409.60 MiB budget. Usage: 17.51%
+[2025.05.19-12.23.26:278][ 64]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2025.05.19-12.23.26:278][ 64]LogShaderCompilers: Display: Shaders Compiled: 3,850
+[2025.05.19-12.23.26:278][ 64]LogShaderCompilers: Display: Jobs assigned 3,850, completed 3,850 (100%)
+[2025.05.19-12.23.26:278][ 64]LogShaderCompilers: Display: Average time worker was idle: 191.98 s
+[2025.05.19-12.23.26:278][ 64]LogShaderCompilers: Display: Time job spent in pending queue: average 89.33 s, longest 202.13 s
+[2025.05.19-12.23.26:278][ 64]LogShaderCompilers: Display: Job execution time: average 4.96 s, max 19.86 s
+[2025.05.19-12.23.26:278][ 64]LogShaderCompilers: Display: Job life time (pending + execution): average 94.29 s, max 208.13
+[2025.05.19-12.23.26:278][ 64]LogShaderCompilers: Display: Shader code size: average 38.333 KiB, min 2.086 KiB, max 162.84 KiB
+[2025.05.19-12.23.26:278][ 64]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 265.90 s
+[2025.05.19-12.23.26:278][ 64]LogShaderCompilers: Display: Jobs were issued in 617 batches (only local compilation was used), average 6.24 jobs/batch
+[2025.05.19-12.23.26:278][ 64]LogShaderCompilers: Display: Average processing rate: 14.48 jobs/sec
+[2025.05.19-12.23.26:278][ 64]LogShaderCompilers: Display: Total thread time: 2,044.681 s
+[2025.05.19-12.23.26:278][ 64]LogShaderCompilers: Display: Total thread preprocess time: 122.431 s
+[2025.05.19-12.23.26:278][ 64]LogShaderCompilers: Display: Percentage time preprocessing: 5.99%
+[2025.05.19-12.23.26:278][ 64]LogShaderCompilers: Display: Effective parallelization: 7.69 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2025.05.19-12.23.26:278][ 64]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2025.05.19-12.23.26:278][ 64]LogShaderCompilers: Display:                                   FSSDTemporalAccumulationCS (compiled   10 times, average 6.14 sec, max 8.00 sec, min 4.27 sec)
+[2025.05.19-12.23.26:278][ 64]LogShaderCompilers: Display:                                          FClusteredShadingPS (compiled    4 times, average 5.71 sec, max 9.58 sec, min 0.89 sec)
+[2025.05.19-12.23.26:279][ 64]LogShaderCompilers: Display:                                        FCloudRenderViewPS011 (compiled    1 times, average 3.51 sec, max 3.51 sec, min 3.51 sec)
+[2025.05.19-12.23.26:279][ 64]LogShaderCompilers: Display:                                        FCloudRenderViewPS111 (compiled    1 times, average 3.42 sec, max 3.42 sec, min 3.42 sec)
+[2025.05.19-12.23.26:279][ 64]LogShaderCompilers: Display:                                        FCloudRenderViewPS110 (compiled    1 times, average 2.51 sec, max 2.51 sec, min 2.51 sec)
+[2025.05.19-12.23.26:279][ 64]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2025.05.19-12.23.26:279][ 64]LogShaderCompilers: Display:                                             FDeferredLightPS - 12.91% of total time (compiled  134 times, average 1.97 sec, max 3.60 sec, min 0.84 sec)
+[2025.05.19-12.23.26:279][ 64]LogShaderCompilers: Display:                                FVirtualShadowMapProjectionCS - 5.40% of total time (compiled   96 times, average 1.15 sec, max 2.95 sec, min 0.60 sec)
+[2025.05.19-12.23.26:279][ 64]LogShaderCompilers: Display:                                     FReflectionTraceVoxelsCS - 4.55% of total time (compiled   96 times, average 0.97 sec, max 1.97 sec, min 0.30 sec)
+[2025.05.19-12.23.26:279][ 64]LogShaderCompilers: Display:                      FRenderSingleScatteringWithPreshadingCS - 4.14% of total time (compiled  128 times, average 0.66 sec, max 1.78 sec, min 0.14 sec)
+[2025.05.19-12.23.26:279][ 64]LogShaderCompilers: Display:                                  FScreenProbeTraceMeshSDFsCS - 3.95% of total time (compiled   96 times, average 0.84 sec, max 1.58 sec, min 0.18 sec)
+[2025.05.19-12.23.26:279][ 64]LogShaderCompilers: Display: ================================================
+[2025.05.19-12.23.28:590][ 81]LogSlate: Window 'Message Log' being destroyed
+[2025.05.19-12.23.28:675][ 81]LogSlate: Window 'Message Log' being destroyed
+[2025.05.19-12.23.32:653][190]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/assets/Freeasset/meat/Steaks.Steaks
+[2025.05.19-12.23.32:653][190]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/assets/Freeasset/meat/Steaks.Steaks
+[2025.05.19-12.23.32:654][190]LogActorFactory: Actor Factory spawned StaticMesh /Game/assets/Freeasset/meat/Steaks.Steaks as actor: StaticMeshActor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_2
+[2025.05.19-12.23.33:584][205]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/assets/Freeasset/meat/Steaks.Steaks
+[2025.05.19-12.23.33:585][205]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/assets/Freeasset/meat/Steaks.Steaks
+[2025.05.19-12.23.33:597][205]LogActorFactory: Actor Factory spawned StaticMesh /Game/assets/Freeasset/meat/Steaks.Steaks as actor: StaticMeshActor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_A036BC6D4AA5E86902_1710638209
+[2025.05.19-12.23.50:528][555]Cmd: TRANSACTION UNDO
+[2025.05.19-12.23.50:528][555]LogEditorTransaction: Undo Rotate Elements
+[2025.05.19-12.24.38:242][525]LogUObjectHash: Compacting FUObjectHashTables data took   5.81ms
+[2025.05.19-12.24.39:472][525]LogSlate: Window 'Save Content' being destroyed
+[2025.05.19-12.24.39:536][525]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.05.19-12.24.39:792][525]LogSavePackage: Moving output files for package: /Game/assets/Freeasset/meat/Material__46
+[2025.05.19-12.24.39:793][525]LogSavePackage: Moving '../../../../../../Users/Microsoft/Documents/GitHub/LDA-new/LDAnew/Saved/Material__46E06975EF4B49AAB4EDDDDDBB334B18D1.tmp' to '../../../../../../Users/Microsoft/Documents/GitHub/LDA-new/LDAnew/Content/assets/Freeasset/meat/Material__46.uasset'
+[2025.05.19-12.24.39:798][525]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/assets/Freeasset/meat/RawMeat4" FILE="../../../../../../Users/Microsoft/Documents/GitHub/LDA-new/LDAnew/Content/assets/Freeasset/meat/RawMeat4.uasset" SILENT=true
+[2025.05.19-12.24.39:809][525]LogSavePackage: Moving output files for package: /Game/assets/Freeasset/meat/RawMeat4
+[2025.05.19-12.24.39:809][525]LogSavePackage: Moving '../../../../../../Users/Microsoft/Documents/GitHub/LDA-new/LDAnew/Saved/RawMeat4908EB0504A3AE247EEAD0EA54BB04D4A.tmp' to '../../../../../../Users/Microsoft/Documents/GitHub/LDA-new/LDAnew/Content/assets/Freeasset/meat/RawMeat4.uasset'
+[2025.05.19-12.24.39:819][525]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/C/4Y/8XFVVUW5ZQCG1R1ZOAHD0Z
+[2025.05.19-12.24.39:819][525]LogSavePackage: Moving '../../../../../../Users/Microsoft/Documents/GitHub/LDA-new/LDAnew/Saved/8XFVVUW5ZQCG1R1ZOAHD0Z8C902D8F4580380024C016A689473F5D.tmp' to '../../../../../../Users/Microsoft/Documents/GitHub/LDA-new/LDAnew/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/C/4Y/8XFVVUW5ZQCG1R1ZOAHD0Z.uasset'
+[2025.05.19-12.24.40:821][525]LogSavePackage: Moving output files for package: /Game/assets/Freeasset/meat/RawMeat4Albedo
+[2025.05.19-12.24.40:821][525]LogSavePackage: Moving '../../../../../../Users/Microsoft/Documents/GitHub/LDA-new/LDAnew/Saved/RawMeat4AlbedoF3078DEE41E12A016FDE21AD0FF3E15E.tmp' to '../../../../../../Users/Microsoft/Documents/GitHub/LDA-new/LDAnew/Content/assets/Freeasset/meat/RawMeat4Albedo.uasset'
+[2025.05.19-12.24.41:704][525]LogSavePackage: Moving output files for package: /Game/assets/Freeasset/meat/RawMeat4Normal
+[2025.05.19-12.24.41:705][525]LogSavePackage: Moving '../../../../../../Users/Microsoft/Documents/GitHub/LDA-new/LDAnew/Saved/RawMeat4NormalA436F83344600AAE3CB8F0BF37445BF9.tmp' to '../../../../../../Users/Microsoft/Documents/GitHub/LDA-new/LDAnew/Content/assets/Freeasset/meat/RawMeat4Normal.uasset'
+[2025.05.19-12.24.41:933][525]LogSavePackage: Moving output files for package: /Game/assets/Freeasset/meat/RawMeat4Rough
+[2025.05.19-12.24.41:933][525]LogSavePackage: Moving '../../../../../../Users/Microsoft/Documents/GitHub/LDA-new/LDAnew/Saved/RawMeat4RoughD0A9F4A34B03F2A3C1E3EAB46D31DE6D.tmp' to '../../../../../../Users/Microsoft/Documents/GitHub/LDA-new/LDAnew/Content/assets/Freeasset/meat/RawMeat4Rough.uasset'
+[2025.05.19-12.24.42:253][525]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/assets/Freeasset/meat/Steak1" FILE="../../../../../../Users/Microsoft/Documents/GitHub/LDA-new/LDAnew/Content/assets/Freeasset/meat/Steak1.uasset" SILENT=true
+[2025.05.19-12.24.42:429][525]LogSavePackage: Moving output files for package: /Game/assets/Freeasset/meat/Steak1
+[2025.05.19-12.24.42:429][525]LogSavePackage: Moving '../../../../../../Users/Microsoft/Documents/GitHub/LDA-new/LDAnew/Saved/Steak17A9787D64BFB1323B3848F9C7C0E485F.tmp' to '../../../../../../Users/Microsoft/Documents/GitHub/LDA-new/LDAnew/Content/assets/Freeasset/meat/Steak1.uasset'
+[2025.05.19-12.24.43:101][525]LogSavePackage: Moving output files for package: /Game/assets/Freeasset/meat/Steak1Albedo
+[2025.05.19-12.24.43:101][525]LogSavePackage: Moving '../../../../../../Users/Microsoft/Documents/GitHub/LDA-new/LDAnew/Saved/Steak1AlbedoCC1E57BD444D86A5507B95854245147F.tmp' to '../../../../../../Users/Microsoft/Documents/GitHub/LDA-new/LDAnew/Content/assets/Freeasset/meat/Steak1Albedo.uasset'
+[2025.05.19-12.24.43:613][525]LogSavePackage: Moving output files for package: /Game/assets/Freeasset/meat/Steak1Normal
+[2025.05.19-12.24.43:614][525]LogSavePackage: Moving '../../../../../../Users/Microsoft/Documents/GitHub/LDA-new/LDAnew/Saved/Steak1NormalFF2EFC264441C2E6E765D0B09FD621B8.tmp' to '../../../../../../Users/Microsoft/Documents/GitHub/LDA-new/LDAnew/Content/assets/Freeasset/meat/Steak1Normal.uasset'
+[2025.05.19-12.24.43:625][525]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/assets/Freeasset/meat/Steak1Rough" FILE="../../../../../../Users/Microsoft/Documents/GitHub/LDA-new/LDAnew/Content/assets/Freeasset/meat/Steak1Rough.uasset" SILENT=true
+[2025.05.19-12.24.43:753][525]LogSavePackage: Moving output files for package: /Game/assets/Freeasset/meat/Steak1Rough
+[2025.05.19-12.24.43:753][525]LogSavePackage: Moving '../../../../../../Users/Microsoft/Documents/GitHub/LDA-new/LDAnew/Saved/Steak1Rough3D63477E4CF9BA5CCA521EBD50E05E56.tmp' to '../../../../../../Users/Microsoft/Documents/GitHub/LDA-new/LDAnew/Content/assets/Freeasset/meat/Steak1Rough.uasset'
+[2025.05.19-12.24.43:809][525]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/assets/Freeasset/meat/Steak2" FILE="../../../../../../Users/Microsoft/Documents/GitHub/LDA-new/LDAnew/Content/assets/Freeasset/meat/Steak2.uasset" SILENT=true
+[2025.05.19-12.24.43:814][525]LogSavePackage: Moving output files for package: /Game/assets/Freeasset/meat/Steak2
+[2025.05.19-12.24.43:814][525]LogSavePackage: Moving '../../../../../../Users/Microsoft/Documents/GitHub/LDA-new/LDAnew/Saved/Steak2D5353FA8495F6B297CAF789D79DB7A03.tmp' to '../../../../../../Users/Microsoft/Documents/GitHub/LDA-new/LDAnew/Content/assets/Freeasset/meat/Steak2.uasset'
+[2025.05.19-12.24.44:336][525]LogSavePackage: Moving output files for package: /Game/assets/Freeasset/meat/Steak2Albedo
+[2025.05.19-12.24.44:336][525]LogSavePackage: Moving '../../../../../../Users/Microsoft/Documents/GitHub/LDA-new/LDAnew/Saved/Steak2AlbedoC7BFCCFF4037A9BD519A81A5CF5CE5C5.tmp' to '../../../../../../Users/Microsoft/Documents/GitHub/LDA-new/LDAnew/Content/assets/Freeasset/meat/Steak2Albedo.uasset'
+[2025.05.19-12.24.45:361][525]LogSavePackage: Moving output files for package: /Game/assets/Freeasset/meat/Steak2Normal
+[2025.05.19-12.24.45:363][525]LogSavePackage: Moving '../../../../../../Users/Microsoft/Documents/GitHub/LDA-new/LDAnew/Saved/Steak2Normal9FB3034240511D6E965F46A302199627.tmp' to '../../../../../../Users/Microsoft/Documents/GitHub/LDA-new/LDAnew/Content/assets/Freeasset/meat/Steak2Normal.uasset'
+[2025.05.19-12.24.45:536][525]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/assets/Freeasset/meat/Steak2Rough" FILE="../../../../../../Users/Microsoft/Documents/GitHub/LDA-new/LDAnew/Content/assets/Freeasset/meat/Steak2Rough.uasset" SILENT=true
+[2025.05.19-12.24.45:872][525]LogSavePackage: Moving output files for package: /Game/assets/Freeasset/meat/Steak2Rough
+[2025.05.19-12.24.45:873][525]LogSavePackage: Moving '../../../../../../Users/Microsoft/Documents/GitHub/LDA-new/LDAnew/Saved/Steak2Rough5765C38A4082E36DC1F66FB87F2B9243.tmp' to '../../../../../../Users/Microsoft/Documents/GitHub/LDA-new/LDAnew/Content/assets/Freeasset/meat/Steak2Rough.uasset'
+[2025.05.19-12.24.45:947][525]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/assets/Freeasset/meat/Steaks" FILE="../../../../../../Users/Microsoft/Documents/GitHub/LDA-new/LDAnew/Content/assets/Freeasset/meat/Steaks.uasset" SILENT=true
+[2025.05.19-12.24.46:045][525]LogSavePackage: Moving output files for package: /Game/assets/Freeasset/meat/Steaks
+[2025.05.19-12.24.46:045][525]LogSavePackage: Moving '../../../../../../Users/Microsoft/Documents/GitHub/LDA-new/LDAnew/Saved/Steaks6E610C4D4824EA7BDF7B0ABCA3BE3B15.tmp' to '../../../../../../Users/Microsoft/Documents/GitHub/LDA-new/LDAnew/Content/assets/Freeasset/meat/Steaks.uasset'
+[2025.05.19-12.24.46:056][525]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/7/9L/U4E0DBDS69UDR1AK4O01FT
+[2025.05.19-12.24.46:056][525]LogSavePackage: Moving '../../../../../../Users/Microsoft/Documents/GitHub/LDA-new/LDAnew/Saved/U4E0DBDS69UDR1AK4O01FT9D80D8AF412F19A1F68A51952078F125.tmp' to '../../../../../../Users/Microsoft/Documents/GitHub/LDA-new/LDAnew/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/7/9L/U4E0DBDS69UDR1AK4O01FT.uasset'
+[2025.05.19-12.24.46:116][525]LogFileHelpers: InternalPromptForCheckoutAndSave took 6.57 sec (total: 13.4 sec)
+[2025.05.19-12.24.46:141][525]AssetCheck: New page: Asset Save: multiple assets
+[2025.05.19-12.24.46:141][525]LogContentValidation: Display: Validating /Script/Engine.Material /Game/assets/Freeasset/meat/Material__46.Material__46
+[2025.05.19-12.24.46:141][525]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/assets/Freeasset/meat/RawMeat4.RawMeat4
+[2025.05.19-12.24.46:141][525]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_A036BC6D4AA5E86902_1440697208
+[2025.05.19-12.24.46:141][525]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/assets/Freeasset/meat/RawMeat4Albedo.RawMeat4Albedo
+[2025.05.19-12.24.46:141][525]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/assets/Freeasset/meat/RawMeat4Normal.RawMeat4Normal
+[2025.05.19-12.24.46:141][525]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/assets/Freeasset/meat/RawMeat4Rough.RawMeat4Rough
+[2025.05.19-12.24.46:141][525]LogContentValidation: Display: Validating /Script/Engine.Material /Game/assets/Freeasset/meat/Steak1.Steak1
+[2025.05.19-12.24.46:141][525]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/assets/Freeasset/meat/Steak1Albedo.Steak1Albedo
+[2025.05.19-12.24.46:141][525]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/assets/Freeasset/meat/Steak1Normal.Steak1Normal
+[2025.05.19-12.24.46:141][525]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/assets/Freeasset/meat/Steak1Rough.Steak1Rough
+[2025.05.19-12.24.46:141][525]LogContentValidation: Display: Validating /Script/Engine.Material /Game/assets/Freeasset/meat/Steak2.Steak2
+[2025.05.19-12.24.46:141][525]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/assets/Freeasset/meat/Steak2Albedo.Steak2Albedo
+[2025.05.19-12.24.46:141][525]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/assets/Freeasset/meat/Steak2Normal.Steak2Normal
+[2025.05.19-12.24.46:141][525]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/assets/Freeasset/meat/Steak2Rough.Steak2Rough
+[2025.05.19-12.24.46:141][525]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/assets/Freeasset/meat/Steaks.Steaks
+[2025.05.19-12.24.46:141][525]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_A036BC6D4AA5E86902_1710638209
+[2025.05.19-12.24.46:153][525]LogAutomationController: Ignoring very large delta of 7.96 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2025.05.19-12.27.45:533][178]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2025.05.19-12.27.45:561][178]LogContentBrowser: Creating deferred item: NewFolder
+[2025.05.19-12.27.45:586][179]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2025.05.19-12.27.50:276][241]LogContentBrowser: Attempting asset rename: NewFolder -> meatGrinder
+[2025.05.19-12.27.50:277][241]LogContentBrowser: End creating deferred item NewFolder
+[2025.05.19-12.28.04:179][401]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\Microsoft\Downloads\uploads_files_729574_Meat_Grinder_ts.FBX)
+[2025.05.19-12.28.04:189][401]LogFbx: Loading FBX Scene from C:\Users\Microsoft\Downloads\uploads_files_729574_Meat_Grinder_ts.FBX
+[2025.05.19-12.28.04:205][401]LogFbx: FBX Scene Loaded Succesfully
+[2025.05.19-12.28.06:162][401]LogSlate: Window 'FBX Import Options' being destroyed
+[2025.05.19-12.28.06:344][401]LogFbxMaterialImport: Display: Unable to find Texture file C:\LJUBICA\3D ARCH\FOR SALE\Meat Grinder\Textures MG\Meat Grinder_Metal_Base_Color.jpg
+[2025.05.19-12.28.06:344][401]LogFbxMaterialImport: Display: Unable to find Texture file C:\LJUBICA\3D ARCH\FOR SALE\Meat Grinder\Textures MG\Meat Grinder_Metal_Roughness.jpg
+[2025.05.19-12.28.06:347][401]LogFbxMaterialImport: Display: Unable to find Texture file C:\LJUBICA\3D ARCH\FOR SALE\Meat Grinder\Textures MG\Meat Grinder_Metal_Normal_OpenGL.jpg
+[2025.05.19-12.28.06:393][401]LogFbxMaterialImport: Display: Unable to find Texture file C:\LJUBICA\3D ARCH\FOR SALE\Meat Grinder\Textures MG\Meat_Grinder_Wood_Base_Color.jpg
+[2025.05.19-12.28.06:394][401]LogFbxMaterialImport: Display: Unable to find Texture file C:\LJUBICA\3D ARCH\FOR SALE\Meat Grinder\Textures MG\Meat_Grinder_Wood_Normal_OpenGL.jpg
+[2025.05.19-12.28.06:521][401]LogStaticMesh: Display: Building static mesh uploads_files_729574_Meat_Grinder_ts...
+[2025.05.19-12.28.06:769][401]LogStaticMesh: Built static mesh [0.25s] /Game/assets/Freeasset/meatGrinder/uploads_files_729574_Meat_Grinder_ts.uploads_files_729574_Meat_Grinder_ts
+[2025.05.19-12.28.06:838][401]LogStaticMesh: Warning: uploads_files_729574_Meat_Grinder_ts has some nearly zero tangents which can create some issues. (Tolerance of 1E-4)
+[2025.05.19-12.28.06:838][401]LogStaticMesh: Warning: uploads_files_729574_Meat_Grinder_ts has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2025.05.19-12.28.06:845][401]FBXImport: Warning: uploads_files_729574_Meat_Grinder_ts has some nearly zero tangents which can create some issues. (Tolerance of 1E-4) 
+[2025.05.19-12.28.06:845][401]FBXImport: Warning: uploads_files_729574_Meat_Grinder_ts has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4) 
+[2025.05.19-12.28.06:975][402]LogAutomationController: Ignoring very large delta of 2.84 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2025.05.19-12.28.07:473][405]LogShaderCompilers: Display: ================================================
+[2025.05.19-12.28.07:473][405]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2025.05.19-12.28.07:473][405]LogShaderCompilers: Display: Total job queries 4,409, among them cache hits 429 (9.73%)
+[2025.05.19-12.28.07:473][405]LogShaderCompilers: Display: Tracking 3,850 distinct input hashes that result in 2,727 distinct outputs (70.83%)
+[2025.05.19-12.28.07:474][405]LogShaderCompilers: Display: RAM used: 71.73 MiB of 409.60 MiB budget. Usage: 17.51%
+[2025.05.19-12.28.07:474][405]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2025.05.19-12.28.07:474][405]LogShaderCompilers: Display: Shaders Compiled: 3,850
+[2025.05.19-12.28.07:474][405]LogShaderCompilers: Display: Jobs assigned 3,850, completed 3,850 (100%)
+[2025.05.19-12.28.07:474][405]LogShaderCompilers: Display: Average time worker was idle: 191.98 s
+[2025.05.19-12.28.07:474][405]LogShaderCompilers: Display: Time job spent in pending queue: average 89.33 s, longest 202.13 s
+[2025.05.19-12.28.07:474][405]LogShaderCompilers: Display: Job execution time: average 4.96 s, max 19.86 s
+[2025.05.19-12.28.07:474][405]LogShaderCompilers: Display: Job life time (pending + execution): average 94.29 s, max 208.13
+[2025.05.19-12.28.07:474][405]LogShaderCompilers: Display: Shader code size: average 38.333 KiB, min 2.086 KiB, max 162.84 KiB
+[2025.05.19-12.28.07:474][405]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 265.90 s
+[2025.05.19-12.28.07:474][405]LogShaderCompilers: Display: Jobs were issued in 617 batches (only local compilation was used), average 6.24 jobs/batch
+[2025.05.19-12.28.07:474][405]LogShaderCompilers: Display: Average processing rate: 14.48 jobs/sec
+[2025.05.19-12.28.07:474][405]LogShaderCompilers: Display: Total thread time: 2,044.681 s
+[2025.05.19-12.28.07:474][405]LogShaderCompilers: Display: Total thread preprocess time: 122.431 s
+[2025.05.19-12.28.07:474][405]LogShaderCompilers: Display: Percentage time preprocessing: 5.99%
+[2025.05.19-12.28.07:474][405]LogShaderCompilers: Display: Effective parallelization: 7.69 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2025.05.19-12.28.07:474][405]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2025.05.19-12.28.07:474][405]LogShaderCompilers: Display:                                   FSSDTemporalAccumulationCS (compiled   10 times, average 6.14 sec, max 8.00 sec, min 4.27 sec)
+[2025.05.19-12.28.07:474][405]LogShaderCompilers: Display:                                          FClusteredShadingPS (compiled    4 times, average 5.71 sec, max 9.58 sec, min 0.89 sec)
+[2025.05.19-12.28.07:474][405]LogShaderCompilers: Display:                                        FCloudRenderViewPS011 (compiled    1 times, average 3.51 sec, max 3.51 sec, min 3.51 sec)
+[2025.05.19-12.28.07:474][405]LogShaderCompilers: Display:                                        FCloudRenderViewPS111 (compiled    1 times, average 3.42 sec, max 3.42 sec, min 3.42 sec)
+[2025.05.19-12.28.07:474][405]LogShaderCompilers: Display:                                        FCloudRenderViewPS110 (compiled    1 times, average 2.51 sec, max 2.51 sec, min 2.51 sec)
+[2025.05.19-12.28.07:474][405]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2025.05.19-12.28.07:474][405]LogShaderCompilers: Display:                                             FDeferredLightPS - 12.91% of total time (compiled  134 times, average 1.97 sec, max 3.60 sec, min 0.84 sec)
+[2025.05.19-12.28.07:474][405]LogShaderCompilers: Display:                                FVirtualShadowMapProjectionCS - 5.40% of total time (compiled   96 times, average 1.15 sec, max 2.95 sec, min 0.60 sec)
+[2025.05.19-12.28.07:474][405]LogShaderCompilers: Display:                                     FReflectionTraceVoxelsCS - 4.55% of total time (compiled   96 times, average 0.97 sec, max 1.97 sec, min 0.30 sec)
+[2025.05.19-12.28.07:474][405]LogShaderCompilers: Display:                      FRenderSingleScatteringWithPreshadingCS - 4.14% of total time (compiled  128 times, average 0.66 sec, max 1.78 sec, min 0.14 sec)
+[2025.05.19-12.28.07:474][405]LogShaderCompilers: Display:                                  FScreenProbeTraceMeshSDFsCS - 3.95% of total time (compiled   96 times, average 0.84 sec, max 1.58 sec, min 0.18 sec)
+[2025.05.19-12.28.07:474][405]LogShaderCompilers: Display: ================================================
+[2025.05.19-12.28.10:246][435]LogSlate: Window 'Message Log' being destroyed
+[2025.05.19-12.28.10:354][435]LogSlate: Window 'Message Log' being destroyed
+[2025.05.19-12.28.15:005][527]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/assets/Freeasset/meatGrinder/Meat_Grinder_Metal.Meat_Grinder_Metal
+[2025.05.19-12.28.15:076][527]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.05.19-12.28.15:078][527]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.05.19-12.28.16:769][527]MaterialEditorStats: Texture samplers: 0/16
+[2025.05.19-12.28.16:769][527]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2025.05.19-12.28.16:769][527]MaterialEditorStats: Shader Count: 0
+[2025.05.19-12.28.16:807][527]LogViewport: Scene viewport resized to 374x421, mode Windowed.
+[2025.05.19-12.28.17:039][529]MaterialEditorStats: Base pass shader: 193 instructions
+[2025.05.19-12.28.17:040][529]MaterialEditorStats: Base pass vertex shader: 131 instructions
+[2025.05.19-12.28.17:040][529]MaterialEditorStats: Texture samplers: 2/16
+[2025.05.19-12.28.17:040][529]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2025.05.19-12.28.17:040][529]MaterialEditorStats: Shader Count: 4
+[2025.05.19-12.28.21:093][589]LogSlate: Window 'Meat_Grinder_Metal' being destroyed
+[2025.05.19-12.28.21:171][589]LogSlate: Window 'Meat_Grinder_Metal' being destroyed
+[2025.05.19-12.28.21:222][589]LogWorld: UWorld::CleanupWorld for World_33, bSessionEnded=true, bCleanupResources=true
+[2025.05.19-12.28.21:230][589]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.19-12.28.22:070][611]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/assets/Freeasset/meatGrinder/uploads_files_729574_Meat_Grinder_ts.uploads_files_729574_Meat_Grinder_ts
+[2025.05.19-12.28.22:219][611]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.05.19-12.28.22:219][611]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.05.19-12.28.23:353][611]LogViewport: Scene viewport resized to 1403x848, mode Windowed.
+[2025.05.19-12.28.33:718][700]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/assets/Freeasset/meatGrinder/uploads_files_729574_Meat_Grinder_ts) ...
+[2025.05.19-12.28.40:143][767]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/assets/Freeasset/meatGrinder/uploads_files_729574_Meat_Grinder_ts) ...
+[2025.05.19-12.28.44:064][822]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.05.19-12.28.44:347][822]LogSavePackage: Moving output files for package: /Game/assets/Freeasset/meatGrinder/uploads_files_729574_Meat_Grinder_ts
+[2025.05.19-12.28.44:347][822]LogSavePackage: Moving '../../../../../../Users/Microsoft/Documents/GitHub/LDA-new/LDAnew/Saved/uploads_files_729574_Meat_Grinde614588494AD82087BC54059BF4B5DD3E.tmp' to '../../../../../../Users/Microsoft/Documents/GitHub/LDA-new/LDAnew/Content/assets/Freeasset/meatGrinder/uploads_files_729574_Meat_Grinder_ts.uasset'
+[2025.05.19-12.28.44:395][822]LogFileHelpers: InternalPromptForCheckoutAndSave took 331 ms (total: 13.8 sec)
+[2025.05.19-12.28.44:397][822]AssetCheck: New page: Asset Save: uploads_files_729574_Meat_Grinder_ts
+[2025.05.19-12.28.44:397][822]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/assets/Freeasset/meatGrinder/uploads_files_729574_Meat_Grinder_ts.uploads_files_729574_Meat_Grinder_ts
+[2025.05.19-12.28.45:831][845]LogSlate: Window 'uploads_files_729574_Meat_Grinder_ts' being destroyed
+[2025.05.19-12.28.45:933][845]LogSlate: Window 'uploads_files_729574_Meat_Grinder_ts' being destroyed
+[2025.05.19-12.28.45:996][845]LogWorld: UWorld::CleanupWorld for World_34, bSessionEnded=true, bCleanupResources=true
+[2025.05.19-12.28.45:996][845]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.19-12.28.50:293][959]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/assets/Freeasset/meatGrinder/uploads_files_729574_Meat_Grinder_ts.uploads_files_729574_Meat_Grinder_ts
+[2025.05.19-12.28.50:294][959]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/assets/Freeasset/meatGrinder/uploads_files_729574_Meat_Grinder_ts.uploads_files_729574_Meat_Grinder_ts
+[2025.05.19-12.28.50:295][959]LogActorFactory: Actor Factory spawned StaticMesh /Game/assets/Freeasset/meatGrinder/uploads_files_729574_Meat_Grinder_ts.uploads_files_729574_Meat_Grinder_ts as actor: StaticMeshActor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_3
+[2025.05.19-12.28.50:793][972]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/assets/Freeasset/meatGrinder/uploads_files_729574_Meat_Grinder_ts.uploads_files_729574_Meat_Grinder_ts
+[2025.05.19-12.28.50:793][972]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/assets/Freeasset/meatGrinder/uploads_files_729574_Meat_Grinder_ts.uploads_files_729574_Meat_Grinder_ts
+[2025.05.19-12.28.50:800][972]LogActorFactory: Actor Factory spawned StaticMesh /Game/assets/Freeasset/meatGrinder/uploads_files_729574_Meat_Grinder_ts.uploads_files_729574_Meat_Grinder_ts as actor: StaticMeshActor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_A036BC6D4AA5E86902_2027847210
+[2025.05.19-12.29.29:737][770]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 15173.288086
+[2025.05.19-12.29.30:735][773]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.19-12.29.30:735][773]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 15173.955078, Update Interval: 340.755035
+[2025.05.19-12.30.15:998][907]LogUObjectHash: Compacting FUObjectHashTables data took   5.24ms
+[2025.05.19-12.30.16:014][907]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/0/VK/44ARY38M2ETKYNP0DHWECS_Auto5
+[2025.05.19-12.30.16:014][907]LogSavePackage: Moving '../../../../../../Users/Microsoft/Documents/GitHub/LDA-new/LDAnew/Saved/44ARY38M2ETKYNP0DHWECS_Auto572EB60014B50316055E836AB700B0115.tmp' to '../../../../../../Users/Microsoft/Documents/GitHub/LDA-new/LDAnew/Saved/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/0/VK/44ARY38M2ETKYNP0DHWECS_Auto5.uasset'
+[2025.05.19-12.30.16:016][907]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FirstPerson/Maps/FirstPersonMap' took 0.108
+[2025.05.19-12.30.16:016][907]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.108
+[2025.05.19-12.30.16:017][907]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/assets/Freeasset/meatGrinder/Meat_Grinder_Metal] ([1] browsable assets)...
+[2025.05.19-12.30.17:636][907]OBJ SavePackage:     Rendered thumbnail for [Material /Game/assets/Freeasset/meatGrinder/Meat_Grinder_Metal.Meat_Grinder_Metal]
+[2025.05.19-12.30.17:636][907]OBJ SavePackage: Finished generating thumbnails for package [/Game/assets/Freeasset/meatGrinder/Meat_Grinder_Metal]
+[2025.05.19-12.30.17:641][907]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/assets/Freeasset/meatGrinder/Meat_Grinder_Metal_Auto5
+[2025.05.19-12.30.17:641][907]LogSavePackage: Moving '../../../../../../Users/Microsoft/Documents/GitHub/LDA-new/LDAnew/Saved/Meat_Grinder_Metal_Auto58510D04F4E9BDFF3C3192FB41606EDF9.tmp' to '../../../../../../Users/Microsoft/Documents/GitHub/LDA-new/LDAnew/Saved/Autosaves/Game/assets/Freeasset/meatGrinder/Meat_Grinder_Metal_Auto5.uasset'
+[2025.05.19-12.30.17:642][907]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/assets/Freeasset/meatGrinder/Meat_Grinder_Wood] ([1] browsable assets)...
+[2025.05.19-12.30.17:689][907]OBJ SavePackage:     Rendered thumbnail for [Material /Game/assets/Freeasset/meatGrinder/Meat_Grinder_Wood.Meat_Grinder_Wood]
+[2025.05.19-12.30.17:691][907]OBJ SavePackage: Finished generating thumbnails for package [/Game/assets/Freeasset/meatGrinder/Meat_Grinder_Wood]
+[2025.05.19-12.30.17:695][907]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/assets/Freeasset/meatGrinder/Meat_Grinder_Wood_Auto5
+[2025.05.19-12.30.17:695][907]LogSavePackage: Moving '../../../../../../Users/Microsoft/Documents/GitHub/LDA-new/LDAnew/Saved/Meat_Grinder_Wood_Auto568BEAB3C4132ECC68CAD9FAD7B855FD6.tmp' to '../../../../../../Users/Microsoft/Documents/GitHub/LDA-new/LDAnew/Saved/Autosaves/Game/assets/Freeasset/meatGrinder/Meat_Grinder_Wood_Auto5.uasset'
+[2025.05.19-12.30.17:696][907]LogFileHelpers: Auto-saving content packages took 1.680
+[2025.05.19-12.30.17:869][908]LogAutomationController: Ignoring very large delta of 2.46 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2025.05.19-12.31.41:139][158]LogDerivedDataCache: C:/Users/Microsoft/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:17.878 and deleted 3 files with total size 0 MiB and 3 empty folders. Scanned 9290 files in 11559 folders with total size 1124 MiB.
+[2025.05.19-12.35.56:681][925]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 15560.214844
+[2025.05.19-12.35.57:681][928]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.19-12.35.57:681][928]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 15560.880859, Update Interval: 331.663574
+[2025.05.19-12.36.48:521][341]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\Microsoft\Downloads\uploads_files_3733802_Large+Bowl\Large Bowl\3D Model\Large Bowl.fbx)
+[2025.05.19-12.36.48:544][341]LogFbx: Loading FBX Scene from C:\Users\Microsoft\Downloads\uploads_files_3733802_Large+Bowl\Large Bowl\3D Model\Large Bowl.fbx
+[2025.05.19-12.36.48:556][341]LogFbx: FBX Scene Loaded Succesfully
+[2025.05.19-12.36.50:484][341]LogSlate: Window 'FBX Import Options' being destroyed
+[2025.05.19-12.36.50:738][341]LogFbx: Display: Triangulating static mesh Object_1
+[2025.05.19-12.36.50:946][341]LogStaticMesh: Display: Building static mesh Large_Bowl...
+[2025.05.19-12.36.51:130][341]LogStaticMesh: Built static mesh [0.18s] /Game/assets/Freeasset/plate/Large_Bowl.Large_Bowl
+[2025.05.19-12.36.51:217][341]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2025.05.19-12.36.51:385][341]LogAutomationController: Ignoring very large delta of 2.91 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2025.05.19-12.36.51:835][345]LogShaderCompilers: Display: ================================================
+[2025.05.19-12.36.51:836][345]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2025.05.19-12.36.51:836][345]LogShaderCompilers: Display: Total job queries 4,470, among them cache hits 460 (10.29%)
+[2025.05.19-12.36.51:836][345]LogShaderCompilers: Display: Tracking 3,880 distinct input hashes that result in 2,743 distinct outputs (70.70%)
+[2025.05.19-12.36.51:836][345]LogShaderCompilers: Display: RAM used: 72.46 MiB of 409.60 MiB budget. Usage: 17.69%
+[2025.05.19-12.36.51:836][345]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2025.05.19-12.36.51:836][345]LogShaderCompilers: Display: Shaders Compiled: 3,880
+[2025.05.19-12.36.51:836][345]LogShaderCompilers: Display: Jobs assigned 3,880, completed 3,880 (100%)
+[2025.05.19-12.36.51:836][345]LogShaderCompilers: Display: Average time worker was idle: 190.48 s
+[2025.05.19-12.36.51:836][345]LogShaderCompilers: Display: Time job spent in pending queue: average 88.64 s, longest 202.13 s
+[2025.05.19-12.36.51:836][345]LogShaderCompilers: Display: Job execution time: average 4.92 s, max 19.86 s
+[2025.05.19-12.36.51:836][345]LogShaderCompilers: Display: Job life time (pending + execution): average 93.56 s, max 208.13
+[2025.05.19-12.36.51:836][345]LogShaderCompilers: Display: Shader code size: average 38.341 KiB, min 2.086 KiB, max 162.84 KiB
+[2025.05.19-12.36.51:836][345]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 270.48 s
+[2025.05.19-12.36.51:836][345]LogShaderCompilers: Display: Jobs were issued in 647 batches (only local compilation was used), average 6.00 jobs/batch
+[2025.05.19-12.36.51:836][345]LogShaderCompilers: Display: Average processing rate: 14.35 jobs/sec
+[2025.05.19-12.36.51:836][345]LogShaderCompilers: Display: Total thread time: 2,057.628 s
+[2025.05.19-12.36.51:836][345]LogShaderCompilers: Display: Total thread preprocess time: 123.946 s
+[2025.05.19-12.36.51:836][345]LogShaderCompilers: Display: Percentage time preprocessing: 6.02%
+[2025.05.19-12.36.51:836][345]LogShaderCompilers: Display: Effective parallelization: 7.61 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2025.05.19-12.36.51:836][345]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2025.05.19-12.36.51:836][345]LogShaderCompilers: Display:                                   FSSDTemporalAccumulationCS (compiled   10 times, average 6.14 sec, max 8.00 sec, min 4.27 sec)
+[2025.05.19-12.36.51:836][345]LogShaderCompilers: Display:                                          FClusteredShadingPS (compiled    4 times, average 5.71 sec, max 9.58 sec, min 0.89 sec)
+[2025.05.19-12.36.51:836][345]LogShaderCompilers: Display:                                        FCloudRenderViewPS011 (compiled    1 times, average 3.51 sec, max 3.51 sec, min 3.51 sec)
+[2025.05.19-12.36.51:837][345]LogShaderCompilers: Display:                                        FCloudRenderViewPS111 (compiled    1 times, average 3.42 sec, max 3.42 sec, min 3.42 sec)
+[2025.05.19-12.36.51:837][345]LogShaderCompilers: Display:                                        FCloudRenderViewPS110 (compiled    1 times, average 2.51 sec, max 2.51 sec, min 2.51 sec)
+[2025.05.19-12.36.51:837][345]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2025.05.19-12.36.51:837][345]LogShaderCompilers: Display:                                             FDeferredLightPS - 12.83% of total time (compiled  134 times, average 1.97 sec, max 3.60 sec, min 0.84 sec)
+[2025.05.19-12.36.51:837][345]LogShaderCompilers: Display:                                FVirtualShadowMapProjectionCS - 5.37% of total time (compiled   96 times, average 1.15 sec, max 2.95 sec, min 0.60 sec)
+[2025.05.19-12.36.51:837][345]LogShaderCompilers: Display:                                     FReflectionTraceVoxelsCS - 4.52% of total time (compiled   96 times, average 0.97 sec, max 1.97 sec, min 0.30 sec)
+[2025.05.19-12.36.51:837][345]LogShaderCompilers: Display:                      FRenderSingleScatteringWithPreshadingCS - 4.12% of total time (compiled  128 times, average 0.66 sec, max 1.78 sec, min 0.14 sec)
+[2025.05.19-12.36.51:838][345]LogShaderCompilers: Display:                                  FScreenProbeTraceMeshSDFsCS - 3.93% of total time (compiled   96 times, average 0.84 sec, max 1.58 sec, min 0.18 sec)
+[2025.05.19-12.36.51:838][345]LogShaderCompilers: Display: ================================================
+[2025.05.19-12.36.54:805][373]LogSlate: Window 'Message Log' being destroyed
+[2025.05.19-12.36.54:913][373]LogSlate: Window 'Message Log' being destroyed
+[2025.05.19-12.36.57:757][440]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/assets/Freeasset/plate/Large_Bowl.Large_Bowl
+[2025.05.19-12.36.57:757][440]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/assets/Freeasset/plate/Large_Bowl.Large_Bowl
+[2025.05.19-12.36.57:760][440]LogActorFactory: Actor Factory spawned StaticMesh /Game/assets/Freeasset/plate/Large_Bowl.Large_Bowl as actor: StaticMeshActor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_4
+[2025.05.19-12.36.59:008][459]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/assets/Freeasset/plate/Large_Bowl.Large_Bowl
+[2025.05.19-12.36.59:008][459]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/assets/Freeasset/plate/Large_Bowl.Large_Bowl
+[2025.05.19-12.36.59:020][459]LogActorFactory: Actor Factory spawned StaticMesh /Game/assets/Freeasset/plate/Large_Bowl.Large_Bowl as actor: StaticMeshActor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_A036BC6D4AA5E96902_1442320387
+[2025.05.19-12.37.59:789][730]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/assets/Freeasset/meat/RawMeat4.RawMeat4
+[2025.05.19-12.37.59:790][730]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/assets/Freeasset/meat/RawMeat4.RawMeat4
+[2025.05.19-12.37.59:792][730]LogActorFactory: Actor Factory spawned StaticMesh /Game/assets/Freeasset/meat/RawMeat4.RawMeat4 as actor: StaticMeshActor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_5
+[2025.05.19-12.38.00:949][745]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/assets/Freeasset/meat/RawMeat4.RawMeat4
+[2025.05.19-12.38.00:950][745]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/assets/Freeasset/meat/RawMeat4.RawMeat4
+[2025.05.19-12.38.00:962][745]LogActorFactory: Actor Factory spawned StaticMesh /Game/assets/Freeasset/meat/RawMeat4.RawMeat4 as actor: StaticMeshActor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_A036BC6D4AA5E96902_1504261388
+[2025.05.19-12.38.30:178][371]Cmd: EDIT COPY
+[2025.05.19-12.38.30:626][378]Cmd: EDIT PASTE
+[2025.05.19-12.39.53:178][985]LogShaderCompilers: Display: ================================================
+[2025.05.19-12.39.53:178][985]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2025.05.19-12.39.53:178][985]LogShaderCompilers: Display: Total job queries 4,476, among them cache hits 462 (10.32%)
+[2025.05.19-12.39.53:178][985]LogShaderCompilers: Display: Tracking 3,881 distinct input hashes that result in 2,744 distinct outputs (70.70%)
+[2025.05.19-12.39.53:178][985]LogShaderCompilers: Display: RAM used: 72.47 MiB of 409.60 MiB budget. Usage: 17.69%
+[2025.05.19-12.39.53:178][985]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2025.05.19-12.39.53:178][985]LogShaderCompilers: Display: Shaders Compiled: 3,881
+[2025.05.19-12.39.53:178][985]LogShaderCompilers: Display: Jobs assigned 3,884, completed 3,881 (99.92%)
+[2025.05.19-12.39.53:178][985]LogShaderCompilers: Display: Average time worker was idle: 192.88 s
+[2025.05.19-12.39.53:178][985]LogShaderCompilers: Display: Time job spent in pending queue: average 88.55 s, longest 202.13 s
+[2025.05.19-12.39.53:178][985]LogShaderCompilers: Display: Job execution time: average 4.92 s, max 19.86 s
+[2025.05.19-12.39.53:178][985]LogShaderCompilers: Display: Job life time (pending + execution): average 93.54 s, max 208.13
+[2025.05.19-12.39.53:178][985]LogShaderCompilers: Display: Shader code size: average 38.339 KiB, min 2.086 KiB, max 162.84 KiB
+[2025.05.19-12.39.53:178][985]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 271.12 s
+[2025.05.19-12.39.53:178][985]LogShaderCompilers: Display: Jobs were issued in 651 batches (only local compilation was used), average 5.97 jobs/batch
+[2025.05.19-12.39.53:178][985]LogShaderCompilers: Display: Average processing rate: 14.31 jobs/sec
+[2025.05.19-12.39.53:178][985]LogShaderCompilers: Display: Total thread time: 2,057.82 s
+[2025.05.19-12.39.53:178][985]LogShaderCompilers: Display: Total thread preprocess time: 123.986 s
+[2025.05.19-12.39.53:178][985]LogShaderCompilers: Display: Percentage time preprocessing: 6.03%
+[2025.05.19-12.39.53:178][985]LogShaderCompilers: Display: Effective parallelization: 7.59 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2025.05.19-12.39.53:178][985]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2025.05.19-12.39.53:178][985]LogShaderCompilers: Display:                                   FSSDTemporalAccumulationCS (compiled   10 times, average 6.14 sec, max 8.00 sec, min 4.27 sec)
+[2025.05.19-12.39.53:178][985]LogShaderCompilers: Display:                                          FClusteredShadingPS (compiled    4 times, average 5.71 sec, max 9.58 sec, min 0.89 sec)
+[2025.05.19-12.39.53:178][985]LogShaderCompilers: Display:                                        FCloudRenderViewPS011 (compiled    1 times, average 3.51 sec, max 3.51 sec, min 3.51 sec)
+[2025.05.19-12.39.53:178][985]LogShaderCompilers: Display:                                        FCloudRenderViewPS111 (compiled    1 times, average 3.42 sec, max 3.42 sec, min 3.42 sec)
+[2025.05.19-12.39.53:178][985]LogShaderCompilers: Display:                                        FCloudRenderViewPS110 (compiled    1 times, average 2.51 sec, max 2.51 sec, min 2.51 sec)
+[2025.05.19-12.39.53:179][985]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2025.05.19-12.39.53:179][985]LogShaderCompilers: Display:                                             FDeferredLightPS - 12.83% of total time (compiled  134 times, average 1.97 sec, max 3.60 sec, min 0.84 sec)
+[2025.05.19-12.39.53:179][985]LogShaderCompilers: Display:                                FVirtualShadowMapProjectionCS - 5.37% of total time (compiled   96 times, average 1.15 sec, max 2.95 sec, min 0.60 sec)
+[2025.05.19-12.39.53:179][985]LogShaderCompilers: Display:                                     FReflectionTraceVoxelsCS - 4.52% of total time (compiled   96 times, average 0.97 sec, max 1.97 sec, min 0.30 sec)
+[2025.05.19-12.39.53:179][985]LogShaderCompilers: Display:                      FRenderSingleScatteringWithPreshadingCS - 4.12% of total time (compiled  128 times, average 0.66 sec, max 1.78 sec, min 0.14 sec)
+[2025.05.19-12.39.53:179][985]LogShaderCompilers: Display:                                  FScreenProbeTraceMeshSDFsCS - 3.93% of total time (compiled   96 times, average 0.84 sec, max 1.58 sec, min 0.18 sec)
+[2025.05.19-12.39.53:179][985]LogShaderCompilers: Display: ================================================
+[2025.05.19-12.40.28:347][651]Cmd: TRANSACTION UNDO
+[2025.05.19-12.40.28:347][651]LogEditorTransaction: Undo Move Elements
+[2025.05.19-12.40.51:226][112]LogUObjectHash: Compacting FUObjectHashTables data took   5.51ms
+[2025.05.19-12.40.52:118][112]LogSlate: Window 'Save Content' being destroyed
+[2025.05.19-12.40.52:215][112]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.05.19-12.40.52:677][112]LogSavePackage: Moving output files for package: /Game/assets/Freeasset/plate/_White_Gloss
+[2025.05.19-12.40.52:677][112]LogSavePackage: Moving '../../../../../../Users/Microsoft/Documents/GitHub/LDA-new/LDAnew/Saved/_White_Gloss07D8E20D4FCB273C9A3917B4D6BAB0F5.tmp' to '../../../../../../Users/Microsoft/Documents/GitHub/LDA-new/LDAnew/Content/assets/Freeasset/plate/_White_Gloss.uasset'
+[2025.05.19-12.40.52:696][112]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/F/3L/0EELDUEON15RPIUE2K31LS
+[2025.05.19-12.40.52:697][112]LogSavePackage: Moving '../../../../../../Users/Microsoft/Documents/GitHub/LDA-new/LDAnew/Saved/0EELDUEON15RPIUE2K31LSF99F3A19425BC0F7EA485DA90521D710.tmp' to '../../../../../../Users/Microsoft/Documents/GitHub/LDA-new/LDAnew/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/F/3L/0EELDUEON15RPIUE2K31LS.uasset'
+[2025.05.19-12.40.52:726][112]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/assets/Freeasset/plate/Large_Bowl" FILE="../../../../../../Users/Microsoft/Documents/GitHub/LDA-new/LDAnew/Content/assets/Freeasset/plate/Large_Bowl.uasset" SILENT=true
+[2025.05.19-12.40.52:742][112]LogSavePackage: Moving output files for package: /Game/assets/Freeasset/plate/Large_Bowl
+[2025.05.19-12.40.52:743][112]LogSavePackage: Moving '../../../../../../Users/Microsoft/Documents/GitHub/LDA-new/LDAnew/Saved/Large_Bowl9943C59D44CD49B22A3C9E9FA6909C5F.tmp' to '../../../../../../Users/Microsoft/Documents/GitHub/LDA-new/LDAnew/Content/assets/Freeasset/plate/Large_Bowl.uasset'
+[2025.05.19-12.40.52:749][112]LogSavePackage: Moving output files for package: /Game/assets/Freeasset/meatGrinder/Meat_Grinder_Metal
+[2025.05.19-12.40.52:749][112]LogSavePackage: Moving '../../../../../../Users/Microsoft/Documents/GitHub/LDA-new/LDAnew/Saved/Meat_Grinder_MetalB65A68DE41F322BF5D87DFB70EB1AC01.tmp' to '../../../../../../Users/Microsoft/Documents/GitHub/LDA-new/LDAnew/Content/assets/Freeasset/meatGrinder/Meat_Grinder_Metal.uasset'
+[2025.05.19-12.40.52:755][112]LogSavePackage: Moving output files for package: /Game/assets/Freeasset/meatGrinder/Meat_Grinder_Wood
+[2025.05.19-12.40.52:755][112]LogSavePackage: Moving '../../../../../../Users/Microsoft/Documents/GitHub/LDA-new/LDAnew/Saved/Meat_Grinder_WoodFD1E31D64C65D018E8602D8222B70395.tmp' to '../../../../../../Users/Microsoft/Documents/GitHub/LDA-new/LDAnew/Content/assets/Freeasset/meatGrinder/Meat_Grinder_Wood.uasset'
+[2025.05.19-12.40.52:763][112]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/A/C0/XK59E1PEHFVA4SXUIJVXLO
+[2025.05.19-12.40.52:763][112]LogSavePackage: Moving '../../../../../../Users/Microsoft/Documents/GitHub/LDA-new/LDAnew/Saved/XK59E1PEHFVA4SXUIJVXLOB1944DC94C827740BE371FBA3F56F9C5.tmp' to '../../../../../../Users/Microsoft/Documents/GitHub/LDA-new/LDAnew/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/A/C0/XK59E1PEHFVA4SXUIJVXLO.uasset'
+[2025.05.19-12.40.52:772][112]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/A/62/QLDYWK64GH7U8T67UP5XKG
+[2025.05.19-12.40.52:772][112]LogSavePackage: Moving '../../../../../../Users/Microsoft/Documents/GitHub/LDA-new/LDAnew/Saved/QLDYWK64GH7U8T67UP5XKGF8CA59F84BE68EA8CEC380A435C27514.tmp' to '../../../../../../Users/Microsoft/Documents/GitHub/LDA-new/LDAnew/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/A/62/QLDYWK64GH7U8T67UP5XKG.uasset'
+[2025.05.19-12.40.52:781][112]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/0/VK/44ARY38M2ETKYNP0DHWECS
+[2025.05.19-12.40.52:781][112]LogSavePackage: Moving '../../../../../../Users/Microsoft/Documents/GitHub/LDA-new/LDAnew/Saved/44ARY38M2ETKYNP0DHWECSC133474544E2E30B8DA30BBC898BAF89.tmp' to '../../../../../../Users/Microsoft/Documents/GitHub/LDA-new/LDAnew/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/0/VK/44ARY38M2ETKYNP0DHWECS.uasset'
+[2025.05.19-12.40.52:829][112]LogFileHelpers: InternalPromptForCheckoutAndSave took 614 ms (total: 14.4 sec)
+[2025.05.19-12.40.52:859][112]AssetCheck: New page: Asset Save: multiple assets
+[2025.05.19-12.40.52:859][112]LogContentValidation: Display: Validating /Script/Engine.Material /Game/assets/Freeasset/plate/_White_Gloss._White_Gloss
+[2025.05.19-12.40.52:859][112]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_A036BC6D4AA5E96902_1442320387
+[2025.05.19-12.40.52:859][112]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/assets/Freeasset/plate/Large_Bowl.Large_Bowl
+[2025.05.19-12.40.52:859][112]LogContentValidation: Display: Validating /Script/Engine.Material /Game/assets/Freeasset/meatGrinder/Meat_Grinder_Metal.Meat_Grinder_Metal
+[2025.05.19-12.40.52:859][112]LogContentValidation: Display: Validating /Script/Engine.Material /Game/assets/Freeasset/meatGrinder/Meat_Grinder_Wood.Meat_Grinder_Wood
+[2025.05.19-12.40.52:859][112]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_A036BC6D4AA5E96902_1504261388
+[2025.05.19-12.40.52:860][112]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_A036BC6D4AA5E96902_1533946389
+[2025.05.19-12.40.52:860][112]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_A036BC6D4AA5E86902_2027847210
+[2025.05.19-12.42.18:810][375]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 15942.323242
+[2025.05.19-12.42.20:143][379]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.19-12.42.20:143][379]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 15943.324219, Update Interval: 348.542725
+[2025.05.19-12.42.58:274][543]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2025.05.19-12.42.58:293][543]LogContentBrowser: Creating deferred item: NewFolder
+[2025.05.19-12.42.58:312][544]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2025.05.19-12.43.02:506][608]LogContentBrowser: Attempting asset rename: NewFolder -> buket
+[2025.05.19-12.43.02:508][608]LogContentBrowser: End creating deferred item NewFolder
+[2025.05.19-12.43.08:407][633]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2025.05.19-12.43.09:381][633]LogAudioMixer: Warning: AudioMixerPlatformInterface Timeout [ 5 Seconds] waiting for h/w. InstanceID=1
+[2025.05.19-12.43.14:397][633]LogAudioMixer: Warning: AudioMixerPlatformInterface Timeout [ 5 Seconds] waiting for h/w. InstanceID=1
+[2025.05.19-12.43.19:400][633]LogAudioMixer: Warning: AudioMixerPlatformInterface Timeout [ 5 Seconds] waiting for h/w. InstanceID=1
+[2025.05.19-12.44.31:002][633]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2025.05.19-12.44.31:557][633]LogAnalytics: Warning: EventCache either took too long to flush (1.502 ms) or had a very large payload (0.436 KB, 1 events). Listing events in the payload for investigation:
+[2025.05.19-12.44.31:560][633]LogAnalytics: Warning:     Editor.Usage.Heartbeat,433
+[2025.05.19-12.44.32:541][633]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=11376
+[2025.05.19-12.44.33:510][633]LogAutomationController: Ignoring very large delta of 86.92 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2025.05.19-12.44.34:091][634]LogUdpMessaging: Display: Added local interface '192.168.0.6' to multicast group '230.0.0.1:6666'
+[2025.05.19-12.44.34:124][634]LogAudioMixer: Display: Successful Swap new Device is (NumChannels=2, SampleRate=48000, DeviceID={0.0.0.00000000}.{51d992d6-ba51-42d0-a3d3-db2b9478d29b}, Name=Speakers (Realtek(R) Audio)), Reason=AudioMixerPlatformInterface. Timeout waiting for h/w., InstanceID=1, DurationMS=544.34
+[2025.05.19-12.44.34:126][634]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2025.05.19-12.44.34:129][634]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2025.05.19-12.44.42:192][788]LogAutomationController: Ignoring very large delta of 2.10 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2025.05.19-12.44.48:551][169]LogContentBrowser: Attempting asset rename: buket -> bucket
+[2025.05.19-12.44.58:827][521]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\Microsoft\Downloads\uploads_files_3733802_Large+Bowl\Large Bowl\3D Model\Large Bowl.fbx)
+[2025.05.19-12.44.58:854][521]LogFbx: Loading FBX Scene from C:\Users\Microsoft\Downloads\uploads_files_3733802_Large+Bowl\Large Bowl\3D Model\Large Bowl.fbx
+[2025.05.19-12.44.58:864][521]LogFbx: FBX Scene Loaded Succesfully
+[2025.05.19-12.45.01:228][521]LogSlate: Window 'FBX Import Options' being destroyed
+[2025.05.19-12.45.01:522][521]LogFbx: Display: Triangulating static mesh Object_1
+[2025.05.19-12.45.01:686][521]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2025.05.19-12.45.01:822][522]LogAutomationController: Ignoring very large delta of 3.03 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2025.05.19-12.45.02:305][525]LogShaderCompilers: Display: ================================================
+[2025.05.19-12.45.02:306][525]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2025.05.19-12.45.02:306][525]LogShaderCompilers: Display: Total job queries 4,496, among them cache hits 478 (10.63%)
+[2025.05.19-12.45.02:306][525]LogShaderCompilers: Display: Tracking 3,888 distinct input hashes that result in 2,746 distinct outputs (70.63%)
+[2025.05.19-12.45.02:306][525]LogShaderCompilers: Display: RAM used: 72.62 MiB of 409.60 MiB budget. Usage: 17.73%
+[2025.05.19-12.45.02:306][525]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2025.05.19-12.45.02:306][525]LogShaderCompilers: Display: Shaders Compiled: 3,888
+[2025.05.19-12.45.02:306][525]LogShaderCompilers: Display: Jobs assigned 3,888, completed 3,888 (100%)
+[2025.05.19-12.45.02:307][525]LogShaderCompilers: Display: Average time worker was idle: 191.76 s
+[2025.05.19-12.45.02:307][525]LogShaderCompilers: Display: Time job spent in pending queue: average 88.46 s, longest 202.13 s
+[2025.05.19-12.45.02:307][525]LogShaderCompilers: Display: Job execution time: average 4.92 s, max 19.86 s
+[2025.05.19-12.45.02:307][525]LogShaderCompilers: Display: Job life time (pending + execution): average 93.37 s, max 208.13
+[2025.05.19-12.45.02:307][525]LogShaderCompilers: Display: Shader code size: average 38.334 KiB, min 2.086 KiB, max 162.84 KiB
+[2025.05.19-12.45.02:307][525]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 272.46 s
+[2025.05.19-12.45.02:307][525]LogShaderCompilers: Display: Jobs were issued in 655 batches (only local compilation was used), average 5.94 jobs/batch
+[2025.05.19-12.45.02:307][525]LogShaderCompilers: Display: Average processing rate: 14.27 jobs/sec
+[2025.05.19-12.45.02:307][525]LogShaderCompilers: Display: Total thread time: 2,061.799 s
+[2025.05.19-12.45.02:307][525]LogShaderCompilers: Display: Total thread preprocess time: 124.443 s
+[2025.05.19-12.45.02:307][525]LogShaderCompilers: Display: Percentage time preprocessing: 6.04%
+[2025.05.19-12.45.02:307][525]LogShaderCompilers: Display: Effective parallelization: 7.57 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2025.05.19-12.45.02:307][525]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2025.05.19-12.45.02:307][525]LogShaderCompilers: Display:                                   FSSDTemporalAccumulationCS (compiled   10 times, average 6.14 sec, max 8.00 sec, min 4.27 sec)
+[2025.05.19-12.45.02:307][525]LogShaderCompilers: Display:                                          FClusteredShadingPS (compiled    4 times, average 5.71 sec, max 9.58 sec, min 0.89 sec)
+[2025.05.19-12.45.02:307][525]LogShaderCompilers: Display:                                        FCloudRenderViewPS011 (compiled    1 times, average 3.51 sec, max 3.51 sec, min 3.51 sec)
+[2025.05.19-12.45.02:307][525]LogShaderCompilers: Display:                                        FCloudRenderViewPS111 (compiled    1 times, average 3.42 sec, max 3.42 sec, min 3.42 sec)
+[2025.05.19-12.45.02:307][525]LogShaderCompilers: Display:                                        FCloudRenderViewPS110 (compiled    1 times, average 2.51 sec, max 2.51 sec, min 2.51 sec)
+[2025.05.19-12.45.02:307][525]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2025.05.19-12.45.02:307][525]LogShaderCompilers: Display:                                             FDeferredLightPS - 12.81% of total time (compiled  134 times, average 1.97 sec, max 3.60 sec, min 0.84 sec)
+[2025.05.19-12.45.02:307][525]LogShaderCompilers: Display:                                FVirtualShadowMapProjectionCS - 5.36% of total time (compiled   96 times, average 1.15 sec, max 2.95 sec, min 0.60 sec)
+[2025.05.19-12.45.02:307][525]LogShaderCompilers: Display:                                     FReflectionTraceVoxelsCS - 4.51% of total time (compiled   96 times, average 0.97 sec, max 1.97 sec, min 0.30 sec)
+[2025.05.19-12.45.02:307][525]LogShaderCompilers: Display:                      FRenderSingleScatteringWithPreshadingCS - 4.11% of total time (compiled  128 times, average 0.66 sec, max 1.78 sec, min 0.14 sec)
+[2025.05.19-12.45.02:307][525]LogShaderCompilers: Display:                                  FScreenProbeTraceMeshSDFsCS - 3.92% of total time (compiled   96 times, average 0.84 sec, max 1.58 sec, min 0.18 sec)
+[2025.05.19-12.45.02:307][525]LogShaderCompilers: Display: ================================================
+[2025.05.19-12.45.04:048][561]LogSlate: Window 'Message Log' being destroyed
+[2025.05.19-12.45.04:068][561]LogSlate: Window 'Message Log' being destroyed
+[2025.05.19-12.45.08:665][851]LogUObjectHash: Compacting FUObjectHashTables data took   7.78ms
+[2025.05.19-12.45.10:476][851]LogSlate: Window 'Delete Assets' being destroyed
+[2025.05.19-12.45.10:546][851]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2025.05.19-12.45.10:569][851]LogUObjectHash: Compacting FUObjectHashTables data took   1.21ms
+[2025.05.19-12.45.10:588][851]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2025.05.19-12.45.10:605][852]LogAutomationController: Ignoring very large delta of 2.08 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2025.05.19-12.45.15:260][944]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\Microsoft\Downloads\uploads_files_2880839_CC0_Bucket+3\Bucket3.FBX)
+[2025.05.19-12.45.15:264][944]LogFbx: Loading FBX Scene from C:\Users\Microsoft\Downloads\uploads_files_2880839_CC0_Bucket+3\Bucket3.FBX
+[2025.05.19-12.45.15:277][944]LogFbx: FBX Scene Loaded Succesfully
+[2025.05.19-12.45.17:907][944]LogSlate: Window 'FBX Import Options' being destroyed
+[2025.05.19-12.45.18:077][944]LogEditorFactories: Display: Image imported as : TSF BGRA8
+[2025.05.19-12.45.18:098][944]LogTexture: Display: Building textures: /Game/assets/Freeasset/bucket/Bucket3Albedo.Bucket3Albedo (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 288.062484 MB), EncodeSpeed: Fast
+[2025.05.19-12.45.18:319][944]LogEditorFactories: Display: Auto-detected grayscale, image changed to G8
+[2025.05.19-12.45.18:319][944]LogEditorFactories: Display: Image imported as : TSF G8
+[2025.05.19-12.45.18:326][944]LogTexture: Display: Building textures: /Game/assets/Freeasset/bucket/Bucket3Rough.Bucket3Rough (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 276.062484 MB), EncodeSpeed: Fast
+[2025.05.19-12.45.18:515][944]LogEditorFactories: Display: Image imported as : TSF BGRA8
+[2025.05.19-12.45.18:529][944]LogTexture: Display: Building textures: /Game/assets/Freeasset/bucket/Bucket3Normal.Bucket3Normal (TFO_BC5, 2048x2048 x1x1x1) (Required Memory Estimate: 336.562488 MB), EncodeSpeed: Fast
+[2025.05.19-12.45.18:640][944]LogFbx: Display: Triangulating static mesh Bucket3
+[2025.05.19-12.45.18:710][944]LogStaticMesh: Display: Building static mesh Bucket3...
+[2025.05.19-12.45.18:804][944]LogStaticMesh: Built static mesh [0.09s] /Game/assets/Freeasset/bucket/Bucket3.Bucket3
+[2025.05.19-12.45.18:812][944]LogStaticMesh: Warning: Bucket3 has some nearly zero tangents which can create some issues. (Tolerance of 1E-4)
+[2025.05.19-12.45.18:812][944]LogStaticMesh: Warning: Bucket3 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2025.05.19-12.45.18:818][944]FBXImport: Warning: Bucket3 has some nearly zero tangents which can create some issues. (Tolerance of 1E-4) 
+[2025.05.19-12.45.18:818][944]FBXImport: Warning: Bucket3 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4) 
+[2025.05.19-12.45.18:902][944]LogAutomationController: Ignoring very large delta of 3.65 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2025.05.19-12.45.20:474][974]LogSlate: Window 'Message Log' being destroyed
+[2025.05.19-12.45.20:493][974]LogSlate: Window 'Message Log' being destroyed
+[2025.05.19-12.45.23:346][167]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/assets/Freeasset/bucket/Bucket3.Bucket3
+[2025.05.19-12.45.23:506][167]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.05.19-12.45.23:520][167]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.05.19-12.45.24:461][167]LogViewport: Scene viewport resized to 1403x848, mode Windowed.
+[2025.05.19-12.45.29:179][379]LogSlate: Window 'Bucket3' being destroyed
+[2025.05.19-12.45.29:200][379]LogSlate: Window 'Bucket3' being destroyed
+[2025.05.19-12.45.29:276][379]LogWorld: UWorld::CleanupWorld for World_35, bSessionEnded=true, bCleanupResources=true
+[2025.05.19-12.45.29:283][379]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.19-12.45.30:577][418]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/assets/Freeasset/bucket/Bucket3.Bucket3
+[2025.05.19-12.45.30:578][418]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/assets/Freeasset/bucket/Bucket3.Bucket3
+[2025.05.19-12.45.30:587][418]LogActorFactory: Actor Factory spawned StaticMesh /Game/assets/Freeasset/bucket/Bucket3.Bucket3 as actor: StaticMeshActor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_6
+[2025.05.19-12.45.30:944][424]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/assets/Freeasset/bucket/Bucket3.Bucket3
+[2025.05.19-12.45.30:944][424]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/assets/Freeasset/bucket/Bucket3.Bucket3
+[2025.05.19-12.45.30:958][424]LogActorFactory: Actor Factory spawned StaticMesh /Game/assets/Freeasset/bucket/Bucket3.Bucket3 as actor: StaticMeshActor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_A036BC6D4AA5E96902_1954256390
+[2025.05.19-12.45.40:034][ 10]Cmd: DELETE
+[2025.05.19-12.45.40:034][ 10]Cmd: ACTOR DELETE
+[2025.05.19-12.45.40:073][ 10]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.05.19-12.45.40:106][ 10]LogUObjectHash: Compacting FUObjectHashTables data took   1.23ms
+[2025.05.19-12.45.40:109][ 10]LogEditorActor: Deleted 1 Actors (0.052 secs)
+[2025.05.19-12.45.46:311][409]LogUObjectHash: Compacting FUObjectHashTables data took   1.28ms
+[2025.05.19-12.45.48:301][409]LogSlate: Window 'Delete Assets' being destroyed
+[2025.05.19-12.45.48:397][409]LogWorldPartition: Actor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_60189573EF5BA76902_1496140133 is unreachable without properly detaching object /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/0/02/Z7S4BZL8CGELS417IZT9R4.PackageMetaData in its package
+[2025.05.19-12.45.48:399][409]LogWorldPartition: Actor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_A036BC6D4AA5E96902_1954256390 is unreachable without properly detaching object /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/E/LB/6EKNWJDZ7AYDAIBZG18UQK.PackageMetaData in its package
+[2025.05.19-12.45.48:430][409]LogUObjectHash: Compacting FUObjectHashTables data took   1.30ms
+[2025.05.19-12.45.48:453][409]LogUObjectHash: Compacting FUObjectHashTables data took   1.47ms
+[2025.05.19-12.45.48:470][409]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2025.05.19-12.45.48:513][409]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2025.05.19-12.45.48:520][409]LogAutomationController: Ignoring very large delta of 2.24 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2025.05.19-12.48.13:610][316]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\Microsoft\Downloads\uploads_files_3899193_plastic+bucket.fbx)
+[2025.05.19-12.48.13:625][316]LogFbx: Loading FBX Scene from C:\Users\Microsoft\Downloads\uploads_files_3899193_plastic+bucket.fbx
+[2025.05.19-12.48.13:658][316]LogFbx: FBX Scene Loaded Succesfully
+[2025.05.19-12.48.16:252][316]LogSlate: Window 'FBX Import Options' being destroyed
+[2025.05.19-12.48.16:354][316]LogFbx: Display: Triangulating static mesh plastic_bucket_001
+[2025.05.19-12.48.16:397][316]LogFbx: Display: Triangulating static mesh plastic_bucket
+[2025.05.19-12.48.16:458][316]LogStaticMesh: Display: Building static mesh uploads_files_3899193_plastic+bucket...
+[2025.05.19-12.48.16:559][316]LogStaticMesh: Built static mesh [0.10s] /Game/assets/Freeasset/bucket/uploads_files_3899193_plastic+bucket.uploads_files_3899193_plastic+bucket
+[2025.05.19-12.48.16:572][316]LogStaticMesh: Warning: uploads_files_3899193_plastic+bucket has some nearly zero tangents which can create some issues. (Tolerance of 1E-4)
+[2025.05.19-12.48.16:572][316]LogStaticMesh: Warning: uploads_files_3899193_plastic+bucket has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2025.05.19-12.48.16:580][316]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2025.05.19-12.48.16:580][316]FBXImport: Warning: uploads_files_3899193_plastic+bucket has some nearly zero tangents which can create some issues. (Tolerance of 1E-4) 
+[2025.05.19-12.48.16:580][316]FBXImport: Warning: uploads_files_3899193_plastic+bucket has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4) 
+[2025.05.19-12.48.16:667][316]LogAutomationController: Ignoring very large delta of 3.16 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2025.05.19-12.48.16:768][318]LogShaderCompilers: Display: ================================================
+[2025.05.19-12.48.16:768][318]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2025.05.19-12.48.16:768][318]LogShaderCompilers: Display: Total job queries 4,506, among them cache hits 488 (10.83%)
+[2025.05.19-12.48.16:768][318]LogShaderCompilers: Display: Tracking 3,888 distinct input hashes that result in 2,746 distinct outputs (70.63%)
+[2025.05.19-12.48.16:768][318]LogShaderCompilers: Display: RAM used: 72.62 MiB of 409.60 MiB budget. Usage: 17.73%
+[2025.05.19-12.48.16:768][318]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2025.05.19-12.48.16:768][318]LogShaderCompilers: Display: Shaders Compiled: 3,888
+[2025.05.19-12.48.16:768][318]LogShaderCompilers: Display: Jobs assigned 3,888, completed 3,888 (100%)
+[2025.05.19-12.48.16:768][318]LogShaderCompilers: Display: Average time worker was idle: 191.76 s
+[2025.05.19-12.48.16:768][318]LogShaderCompilers: Display: Time job spent in pending queue: average 88.46 s, longest 202.13 s
+[2025.05.19-12.48.16:768][318]LogShaderCompilers: Display: Job execution time: average 4.92 s, max 19.86 s
+[2025.05.19-12.48.16:768][318]LogShaderCompilers: Display: Job life time (pending + execution): average 93.37 s, max 208.13
+[2025.05.19-12.48.16:768][318]LogShaderCompilers: Display: Shader code size: average 38.334 KiB, min 2.086 KiB, max 162.84 KiB
+[2025.05.19-12.48.16:768][318]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 272.46 s
+[2025.05.19-12.48.16:768][318]LogShaderCompilers: Display: Jobs were issued in 655 batches (only local compilation was used), average 5.94 jobs/batch
+[2025.05.19-12.48.16:768][318]LogShaderCompilers: Display: Average processing rate: 14.27 jobs/sec
+[2025.05.19-12.48.16:768][318]LogShaderCompilers: Display: Total thread time: 2,061.799 s
+[2025.05.19-12.48.16:768][318]LogShaderCompilers: Display: Total thread preprocess time: 124.443 s
+[2025.05.19-12.48.16:768][318]LogShaderCompilers: Display: Percentage time preprocessing: 6.04%
+[2025.05.19-12.48.16:768][318]LogShaderCompilers: Display: Effective parallelization: 7.57 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2025.05.19-12.48.16:768][318]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2025.05.19-12.48.16:768][318]LogShaderCompilers: Display:                                   FSSDTemporalAccumulationCS (compiled   10 times, average 6.14 sec, max 8.00 sec, min 4.27 sec)
+[2025.05.19-12.48.16:768][318]LogShaderCompilers: Display:                                          FClusteredShadingPS (compiled    4 times, average 5.71 sec, max 9.58 sec, min 0.89 sec)
+[2025.05.19-12.48.16:768][318]LogShaderCompilers: Display:                                        FCloudRenderViewPS011 (compiled    1 times, average 3.51 sec, max 3.51 sec, min 3.51 sec)
+[2025.05.19-12.48.16:768][318]LogShaderCompilers: Display:                                        FCloudRenderViewPS111 (compiled    1 times, average 3.42 sec, max 3.42 sec, min 3.42 sec)
+[2025.05.19-12.48.16:768][318]LogShaderCompilers: Display:                                        FCloudRenderViewPS110 (compiled    1 times, average 2.51 sec, max 2.51 sec, min 2.51 sec)
+[2025.05.19-12.48.16:768][318]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2025.05.19-12.48.16:768][318]LogShaderCompilers: Display:                                             FDeferredLightPS - 12.81% of total time (compiled  134 times, average 1.97 sec, max 3.60 sec, min 0.84 sec)
+[2025.05.19-12.48.16:768][318]LogShaderCompilers: Display:                                FVirtualShadowMapProjectionCS - 5.36% of total time (compiled   96 times, average 1.15 sec, max 2.95 sec, min 0.60 sec)
+[2025.05.19-12.48.16:768][318]LogShaderCompilers: Display:                                     FReflectionTraceVoxelsCS - 4.51% of total time (compiled   96 times, average 0.97 sec, max 1.97 sec, min 0.30 sec)
+[2025.05.19-12.48.16:769][318]LogShaderCompilers: Display:                      FRenderSingleScatteringWithPreshadingCS - 4.11% of total time (compiled  128 times, average 0.66 sec, max 1.78 sec, min 0.14 sec)
+[2025.05.19-12.48.16:769][318]LogShaderCompilers: Display:                                  FScreenProbeTraceMeshSDFsCS - 3.92% of total time (compiled   96 times, average 0.84 sec, max 1.58 sec, min 0.18 sec)
+[2025.05.19-12.48.16:769][318]LogShaderCompilers: Display: ================================================
+[2025.05.19-12.48.18:442][325]LogSlate: Window 'Message Log' being destroyed
+[2025.05.19-12.48.18:468][325]LogSlate: Window 'Message Log' being destroyed
+[2025.05.19-12.48.34:314][808]LogSlate: Window 'Interchange Pipeline Configuration (Import Content)' being destroyed
+[2025.05.19-12.48.34:331][808]LogInterchangeEngine: [Pending] Importing
+[2025.05.19-12.48.34:332][808]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/Microsoft/D...2880839_CC0_Bucket+3/Bucket3.obj]
+[2025.05.19-12.48.34:341][808]LogAutomationController: Ignoring very large delta of 2.64 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2025.05.19-12.48.34:364][809]LogTemp: Display: Interchange Obj translator: Unknown keyword: map_refl
+[2025.05.19-12.48.34:365][809]LogTemp: Warning: Interchange Obj translator: Unexpected extra arguments on vt keyword
+[2025.05.19-12.48.34:366][809]LogTemp: Display: Interchange Obj translator: Unknown keyword: s
+[2025.05.19-12.48.34:413][809]LogInterchangeEngine: [Pending] Importing
+[2025.05.19-12.48.34:500][811]LogTexture: Display: Building textures: /Game/assets/Freeasset/bucket/TEX_Map__120_Normal_Bump.TEX_Map__120_Normal_Bump (TFO_BC5, 512x512 x1x1x1) (Required Memory Estimate: 81.562488 MB), EncodeSpeed: Fast
+[2025.05.19-12.48.34:507][811]LogRendererCore: Warning: FlushRenderingCommands called recursively! 2 calls on the stack.
+[2025.05.19-12.48.34:652][811]LogRendererCore: Warning: FlushRenderingCommands called recursively! 2 calls on the stack.
+[2025.05.19-12.48.34:659][811]LogStaticMesh: Display: Building static mesh Bucket31...
+[2025.05.19-12.48.34:667][811]Interchange: Warning: Renamed Assets:
+ OriginalName:[/Game/assets/Freeasset/bucket/Bucket3] NewName:[/Game/assets/Freeasset/bucket/Bucket31]
+[2025.05.19-12.48.34:667][811]Interchange: Error: Failed to import ImageWrapper, cannot open file.
+[2025.05.19-12.48.34:667][811]Interchange: Error: Unable to retrieve the payload from the source file.
+[2025.05.19-12.48.34:667][811]Interchange: Error: Failed to import ImageWrapper, cannot open file.
+[2025.05.19-12.48.34:667][811]Interchange: Error: Unable to retrieve the payload from the source file.
+[2025.05.19-12.48.34:690][811]LogStaticMesh: Built static mesh [0.03s] /Game/assets/Freeasset/bucket/Bucket31.Bucket31
+[2025.05.19-12.48.34:791][811]LogInterchangeEngine: [Success] Import Done
+[2025.05.19-12.48.35:028][812]LogInterchangeEngine: [Success] Import Done
+[2025.05.19-12.48.38:722][957]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 16324.021484
+[2025.05.19-12.48.39:394][962]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.19-12.48.39:394][962]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 16324.681641, Update Interval: 323.185516
+[2025.05.19-12.48.43:842][221]LogUObjectHash: Compacting FUObjectHashTables data took   1.57ms
+[2025.05.19-12.48.46:490][221]LogSlate: Window 'Delete Assets' being destroyed
+[2025.05.19-12.48.46:504][222]LogAutomationController: Ignoring very large delta of 2.70 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2025.05.19-12.49.13:399][723]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2025.05.19-12.49.15:149][723]LogSlate: Window 'Delete Assets' being destroyed
+[2025.05.19-12.49.15:311][723]LogUObjectGlobals: Force Deleting 2 Package(s):
+	Asset Name: /Game/assets/Freeasset/bucket/Bucket3.Bucket3
+	Asset Type: Material
+	Asset Name: /Game/assets/Freeasset/bucket/TEX_Map__120_Normal_Bump.TEX_Map__120_Normal_Bump
+	Asset Type: Texture2D
+[2025.05.19-12.49.18:091][723]LogMaterial: Warning: [AssetLog] /Game/assets/Freeasset/bucket/Bucket3.Bucket3: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	(Node TextureObject) Texture Object> Requires valid texture
+	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+
+[2025.05.19-12.49.18:092][723]LogMaterial: Warning: Bucket3: Requesting an invalid TextureIndex! (3 / 1)
+[2025.05.19-12.49.18:094][723]LogMaterial: Warning: [AssetLog] /Game/assets/Freeasset/bucket/Bucket3.Bucket3: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	(Node TextureObject) Texture Object> Requires valid texture
+	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+
+[2025.05.19-12.49.18:171][723]LogUObjectHash: Compacting FUObjectHashTables data took   1.08ms
+[2025.05.19-12.49.18:188][723]LogUObjectHash: Compacting FUObjectHashTables data took   1.02ms
+[2025.05.19-12.49.18:208][723]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2025.05.19-12.49.18:217][724]LogAutomationController: Ignoring very large delta of 5.06 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2025.05.19-12.49.22:680][846]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\Microsoft\Downloads\uploads_files_2880839_CC0_Bucket+3\Bucket3.FBX)
+[2025.05.19-12.49.22:685][846]LogFbx: Loading FBX Scene from C:\Users\Microsoft\Downloads\uploads_files_2880839_CC0_Bucket+3\Bucket3.FBX
+[2025.05.19-12.49.22:691][846]LogFbx: FBX Scene Loaded Succesfully
+[2025.05.19-12.49.23:910][846]LogSlate: Window 'FBX Import Options' being destroyed
+[2025.05.19-12.49.24:052][846]LogEditorFactories: Display: Image imported as : TSF BGRA8
+[2025.05.19-12.49.24:074][846]LogTexture: Display: Building textures: /Game/assets/Freeasset/bucket/Bucket3Albedo.Bucket3Albedo (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 288.062484 MB), EncodeSpeed: Fast
+[2025.05.19-12.49.24:249][846]LogEditorFactories: Display: Auto-detected grayscale, image changed to G8
+[2025.05.19-12.49.24:249][846]LogEditorFactories: Display: Image imported as : TSF G8
+[2025.05.19-12.49.24:269][846]LogTexture: Display: Building textures: /Game/assets/Freeasset/bucket/Bucket3Rough.Bucket3Rough (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 276.062484 MB), EncodeSpeed: Fast
+[2025.05.19-12.49.24:488][846]LogEditorFactories: Display: Image imported as : TSF BGRA8
+[2025.05.19-12.49.24:499][846]LogTexture: Display: Building textures: /Game/assets/Freeasset/bucket/Bucket3Normal.Bucket3Normal (TFO_BC5, 2048x2048 x1x1x1) (Required Memory Estimate: 336.562488 MB), EncodeSpeed: Fast
+[2025.05.19-12.49.24:591][846]LogFbx: Display: Triangulating static mesh Bucket3
+[2025.05.19-12.49.24:654][846]LogStaticMesh: Warning: Bucket3 has some nearly zero tangents which can create some issues. (Tolerance of 1E-4)
+[2025.05.19-12.49.24:654][846]LogStaticMesh: Warning: Bucket3 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2025.05.19-12.49.24:662][846]FBXImport: Warning: Bucket3 has some nearly zero tangents which can create some issues. (Tolerance of 1E-4) 
+[2025.05.19-12.49.24:662][846]FBXImport: Warning: Bucket3 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4) 
+[2025.05.19-12.49.24:752][847]LogAutomationController: Ignoring very large delta of 2.08 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2025.05.19-12.49.26:220][872]LogSlate: Window 'Message Log' being destroyed
+[2025.05.19-12.49.26:241][872]LogSlate: Window 'Message Log' being destroyed
+[2025.05.19-12.49.29:952][ 43]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/assets/Freeasset/bucket/Bucket31.Bucket31
+[2025.05.19-12.49.29:952][ 43]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/assets/Freeasset/bucket/Bucket31.Bucket31
+[2025.05.19-12.49.29:953][ 43]LogActorFactory: Actor Factory spawned StaticMesh /Game/assets/Freeasset/bucket/Bucket31.Bucket31 as actor: StaticMeshActor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_7
+[2025.05.19-12.49.31:043][ 85]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/assets/Freeasset/bucket/Bucket31.Bucket31
+[2025.05.19-12.49.31:043][ 85]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/assets/Freeasset/bucket/Bucket31.Bucket31
+[2025.05.19-12.49.31:046][ 85]LogActorFactory: Actor Factory spawned StaticMesh /Game/assets/Freeasset/bucket/Bucket31.Bucket31 as actor: StaticMeshActor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_A036BC6D4AA5EA6902_1120613567
+[2025.05.19-12.50.27:752][330]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/assets/Freeasset/bucket/Bucket31.Bucket31
+[2025.05.19-12.50.27:880][330]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.05.19-12.50.27:881][330]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.05.19-12.50.28:518][330]LogViewport: Scene viewport resized to 1403x848, mode Windowed.
+[2025.05.19-12.50.34:725][606]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.05.19-12.50.34:807][606]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/assets/Freeasset/bucket/Bucket31" FILE="../../../../../../Users/Microsoft/Documents/GitHub/LDA-new/LDAnew/Content/assets/Freeasset/bucket/Bucket31.uasset" SILENT=true
+[2025.05.19-12.50.34:833][606]LogSavePackage: Moving output files for package: /Game/assets/Freeasset/bucket/Bucket31
+[2025.05.19-12.50.34:833][606]LogSavePackage: Moving '../../../../../../Users/Microsoft/Documents/GitHub/LDA-new/LDAnew/Saved/Bucket3149D9C9214D7E1E5187B262B1ACC82550.tmp' to '../../../../../../Users/Microsoft/Documents/GitHub/LDA-new/LDAnew/Content/assets/Freeasset/bucket/Bucket31.uasset'
+[2025.05.19-12.50.34:851][606]LogFileHelpers: InternalPromptForCheckoutAndSave took 125 ms (total: 14.5 sec)
+[2025.05.19-12.50.34:856][606]AssetCheck: New page: Asset Save: Bucket31
+[2025.05.19-12.50.34:856][606]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/assets/Freeasset/bucket/Bucket31.Bucket31
+[2025.05.19-12.50.35:815][652]LogSlate: Window 'Bucket31' being destroyed
+[2025.05.19-12.50.35:836][652]LogSlate: Window 'Bucket31' being destroyed
+[2025.05.19-12.50.35:886][652]LogWorld: UWorld::CleanupWorld for World_36, bSessionEnded=true, bCleanupResources=true
+[2025.05.19-12.50.35:887][652]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.19-12.50.56:220][897]LogUObjectHash: Compacting FUObjectHashTables data took   1.98ms
+[2025.05.19-12.50.57:220][897]LogSlate: Window 'Save Content' being destroyed
+[2025.05.19-12.50.57:228][897]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.05.19-12.50.57:342][897]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/assets/Freeasset/bucket/Bucket3" FILE="../../../../../../Users/Microsoft/Documents/GitHub/LDA-new/LDAnew/Content/assets/Freeasset/bucket/Bucket3.uasset" SILENT=true
+[2025.05.19-12.50.57:346][897]LogSavePackage: Moving output files for package: /Game/assets/Freeasset/bucket/Bucket3
+[2025.05.19-12.50.57:346][897]LogSavePackage: Moving '../../../../../../Users/Microsoft/Documents/GitHub/LDA-new/LDAnew/Saved/Bucket37998B1B74FE03D358B48E4B138EE6B03.tmp' to '../../../../../../Users/Microsoft/Documents/GitHub/LDA-new/LDAnew/Content/assets/Freeasset/bucket/Bucket3.uasset'
+[2025.05.19-12.50.57:360][897]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/C/T4/83WFMDHX7BMRL9CGC7WT06
+[2025.05.19-12.50.57:360][897]LogSavePackage: Moving '../../../../../../Users/Microsoft/Documents/GitHub/LDA-new/LDAnew/Saved/83WFMDHX7BMRL9CGC7WT060E4663AA4BCD39EBB10A6E8CCFF71895.tmp' to '../../../../../../Users/Microsoft/Documents/GitHub/LDA-new/LDAnew/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/C/T4/83WFMDHX7BMRL9CGC7WT06.uasset'
+[2025.05.19-12.50.57:438][897]LogSavePackage: Moving output files for package: /Game/assets/Freeasset/bucket/Bucket3Albedo
+[2025.05.19-12.50.57:438][897]LogSavePackage: Moving '../../../../../../Users/Microsoft/Documents/GitHub/LDA-new/LDAnew/Saved/Bucket3Albedo20FDF4624E8E48FDC4D1C0988D4CC7BE.tmp' to '../../../../../../Users/Microsoft/Documents/GitHub/LDA-new/LDAnew/Content/assets/Freeasset/bucket/Bucket3Albedo.uasset'
+[2025.05.19-12.50.57:505][897]LogSavePackage: Moving output files for package: /Game/assets/Freeasset/bucket/Bucket3Normal
+[2025.05.19-12.50.57:505][897]LogSavePackage: Moving '../../../../../../Users/Microsoft/Documents/GitHub/LDA-new/LDAnew/Saved/Bucket3Normal36C030F94A3A107DB1FEF7B292E3714B.tmp' to '../../../../../../Users/Microsoft/Documents/GitHub/LDA-new/LDAnew/Content/assets/Freeasset/bucket/Bucket3Normal.uasset'
+[2025.05.19-12.50.57:542][897]LogSavePackage: Moving output files for package: /Game/assets/Freeasset/bucket/Bucket3Rough
+[2025.05.19-12.50.57:542][897]LogSavePackage: Moving '../../../../../../Users/Microsoft/Documents/GitHub/LDA-new/LDAnew/Saved/Bucket3Rough4FCD95FC4B2B58800CDB6FA759AD03C1.tmp' to '../../../../../../Users/Microsoft/Documents/GitHub/LDA-new/LDAnew/Content/assets/Freeasset/bucket/Bucket3Rough.uasset'
+[2025.05.19-12.50.57:575][897]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/assets/Freeasset/bucket/Bucket4" FILE="../../../../../../Users/Microsoft/Documents/GitHub/LDA-new/LDAnew/Content/assets/Freeasset/bucket/Bucket4.uasset" SILENT=true
+[2025.05.19-12.50.57:578][897]LogSavePackage: Moving output files for package: /Game/assets/Freeasset/bucket/Bucket4
+[2025.05.19-12.50.57:578][897]LogSavePackage: Moving '../../../../../../Users/Microsoft/Documents/GitHub/LDA-new/LDAnew/Saved/Bucket4A89114824304A1194428B6A2AFEEF7CA.tmp' to '../../../../../../Users/Microsoft/Documents/GitHub/LDA-new/LDAnew/Content/assets/Freeasset/bucket/Bucket4.uasset'
+[2025.05.19-12.50.57:607][897]LogSavePackage: Moving output files for package: /Game/assets/Freeasset/bucket/plastic_bucket
+[2025.05.19-12.50.57:607][897]LogSavePackage: Moving '../../../../../../Users/Microsoft/Documents/GitHub/LDA-new/LDAnew/Saved/plastic_bucket922C1D9C46FDEF00D28DCAB88B1F07E8.tmp' to '../../../../../../Users/Microsoft/Documents/GitHub/LDA-new/LDAnew/Content/assets/Freeasset/bucket/plastic_bucket.uasset'
+[2025.05.19-12.50.57:625][897]LogSavePackage: Moving output files for package: /Game/assets/Freeasset/bucket/uploads_files_3899193_plastic+bucket
+[2025.05.19-12.50.57:625][897]LogSavePackage: Moving '../../../../../../Users/Microsoft/Documents/GitHub/LDA-new/LDAnew/Saved/uploads_files_3899193_plastic+bu885DFA0648CAC4EC894E298F841F6550.tmp' to '../../../../../../Users/Microsoft/Documents/GitHub/LDA-new/LDAnew/Content/assets/Freeasset/bucket/uploads_files_3899193_plastic+bucket.uasset'
+[2025.05.19-12.50.57:641][897]LogFileHelpers: InternalPromptForCheckoutAndSave took 412 ms (total: 14.9 sec)
+[2025.05.19-12.50.57:654][897]AssetCheck: New page: Asset Save: multiple assets
+[2025.05.19-12.50.57:654][897]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/assets/Freeasset/bucket/Bucket3.Bucket3
+[2025.05.19-12.50.57:654][897]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_A036BC6D4AA5EA6902_1120613567
+[2025.05.19-12.50.57:654][897]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/assets/Freeasset/bucket/Bucket3Albedo.Bucket3Albedo
+[2025.05.19-12.50.57:654][897]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/assets/Freeasset/bucket/Bucket3Normal.Bucket3Normal
+[2025.05.19-12.50.57:654][897]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/assets/Freeasset/bucket/Bucket3Rough.Bucket3Rough
+[2025.05.19-12.50.57:655][897]LogContentValidation: Display: Validating /Script/Engine.Material /Game/assets/Freeasset/bucket/Bucket4.Bucket4
+[2025.05.19-12.50.57:655][897]LogContentValidation: Display: Validating /Script/Engine.Material /Game/assets/Freeasset/bucket/plastic_bucket.plastic_bucket
+[2025.05.19-12.50.57:655][897]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/assets/Freeasset/bucket/uploads_files_3899193_plastic+bucket.uploads_files_3899193_plastic+bucket
+[2025.05.19-12.51.18:799][256]LogShaderCompilers: Display: ================================================
+[2025.05.19-12.51.18:799][256]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2025.05.19-12.51.18:799][256]LogShaderCompilers: Display: Total job queries 4,546, among them cache hits 524 (11.53%)
+[2025.05.19-12.51.18:799][256]LogShaderCompilers: Display: Tracking 3,892 distinct input hashes that result in 2,748 distinct outputs (70.61%)
+[2025.05.19-12.51.18:799][256]LogShaderCompilers: Display: RAM used: 72.70 MiB of 409.60 MiB budget. Usage: 17.75%
+[2025.05.19-12.51.18:799][256]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2025.05.19-12.51.18:799][256]LogShaderCompilers: Display: Shaders Compiled: 3,892
+[2025.05.19-12.51.18:799][256]LogShaderCompilers: Display: Jobs assigned 3,892, completed 3,892 (100%)
+[2025.05.19-12.51.18:799][256]LogShaderCompilers: Display: Average time worker was idle: 193.72 s
+[2025.05.19-12.51.18:799][256]LogShaderCompilers: Display: Time job spent in pending queue: average 88.37 s, longest 202.13 s
+[2025.05.19-12.51.18:799][256]LogShaderCompilers: Display: Job execution time: average 4.91 s, max 19.86 s
+[2025.05.19-12.51.18:799][256]LogShaderCompilers: Display: Job life time (pending + execution): average 93.28 s, max 208.13
+[2025.05.19-12.51.18:799][256]LogShaderCompilers: Display: Shader code size: average 38.331 KiB, min 2.086 KiB, max 162.84 KiB
+[2025.05.19-12.51.18:799][256]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 273.50 s
+[2025.05.19-12.51.18:799][256]LogShaderCompilers: Display: Jobs were issued in 659 batches (only local compilation was used), average 5.91 jobs/batch
+[2025.05.19-12.51.18:799][256]LogShaderCompilers: Display: Average processing rate: 14.23 jobs/sec
+[2025.05.19-12.51.18:799][256]LogShaderCompilers: Display: Total thread time: 2,062.813 s
+[2025.05.19-12.51.18:799][256]LogShaderCompilers: Display: Total thread preprocess time: 124.814 s
+[2025.05.19-12.51.18:799][256]LogShaderCompilers: Display: Percentage time preprocessing: 6.05%
+[2025.05.19-12.51.18:799][256]LogShaderCompilers: Display: Effective parallelization: 7.54 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2025.05.19-12.51.18:799][256]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2025.05.19-12.51.18:799][256]LogShaderCompilers: Display:                                   FSSDTemporalAccumulationCS (compiled   10 times, average 6.14 sec, max 8.00 sec, min 4.27 sec)
+[2025.05.19-12.51.18:799][256]LogShaderCompilers: Display:                                          FClusteredShadingPS (compiled    4 times, average 5.71 sec, max 9.58 sec, min 0.89 sec)
+[2025.05.19-12.51.18:799][256]LogShaderCompilers: Display:                                        FCloudRenderViewPS011 (compiled    1 times, average 3.51 sec, max 3.51 sec, min 3.51 sec)
+[2025.05.19-12.51.18:799][256]LogShaderCompilers: Display:                                        FCloudRenderViewPS111 (compiled    1 times, average 3.42 sec, max 3.42 sec, min 3.42 sec)
+[2025.05.19-12.51.18:799][256]LogShaderCompilers: Display:                                        FCloudRenderViewPS110 (compiled    1 times, average 2.51 sec, max 2.51 sec, min 2.51 sec)
+[2025.05.19-12.51.18:800][256]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2025.05.19-12.51.18:800][256]LogShaderCompilers: Display:                                             FDeferredLightPS - 12.80% of total time (compiled  134 times, average 1.97 sec, max 3.60 sec, min 0.84 sec)
+[2025.05.19-12.51.18:800][256]LogShaderCompilers: Display:                                FVirtualShadowMapProjectionCS - 5.36% of total time (compiled   96 times, average 1.15 sec, max 2.95 sec, min 0.60 sec)
+[2025.05.19-12.51.18:800][256]LogShaderCompilers: Display:                                     FReflectionTraceVoxelsCS - 4.51% of total time (compiled   96 times, average 0.97 sec, max 1.97 sec, min 0.30 sec)
+[2025.05.19-12.51.18:800][256]LogShaderCompilers: Display:                      FRenderSingleScatteringWithPreshadingCS - 4.11% of total time (compiled  128 times, average 0.66 sec, max 1.78 sec, min 0.14 sec)
+[2025.05.19-12.51.18:800][256]LogShaderCompilers: Display:                                  FScreenProbeTraceMeshSDFsCS - 3.92% of total time (compiled   96 times, average 0.84 sec, max 1.58 sec, min 0.18 sec)
+[2025.05.19-12.51.18:800][256]LogShaderCompilers: Display: ================================================
+[2025.05.19-12.53.21:706][220]LogUObjectHash: Compacting FUObjectHashTables data took   1.84ms
+[2025.05.19-12.53.22:500][220]LogSlate: Window 'Save Content' being destroyed
+[2025.05.19-12.53.22:508][220]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.05.19-12.53.22:580][220]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/4/0U/YEA5ESET45RDIUT44KO3EB
+[2025.05.19-12.53.22:581][220]LogSavePackage: Moving '../../../../../../Users/Microsoft/Documents/GitHub/LDA-new/LDAnew/Saved/YEA5ESET45RDIUT44KO3EBD668122043BDDD0424B5C2AB36897026.tmp' to '../../../../../../Users/Microsoft/Documents/GitHub/LDA-new/LDAnew/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/4/0U/YEA5ESET45RDIUT44KO3EB.uasset'
+[2025.05.19-12.53.22:586][220]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/3/2F/9Z19DXEWD4CP8GHY01GJ96
+[2025.05.19-12.53.22:586][220]LogSavePackage: Moving '../../../../../../Users/Microsoft/Documents/GitHub/LDA-new/LDAnew/Saved/9Z19DXEWD4CP8GHY01GJ96F4E3E73E447417FA974BB98C540A4FFE.tmp' to '../../../../../../Users/Microsoft/Documents/GitHub/LDA-new/LDAnew/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/3/2F/9Z19DXEWD4CP8GHY01GJ96.uasset'
+[2025.05.19-12.53.22:598][220]LogFileHelpers: InternalPromptForCheckoutAndSave took 89 ms (total: 15.0 sec)
+[2025.05.19-12.53.22:602][220]AssetCheck: New page: Asset Save: multiple assets
+[2025.05.19-12.53.22:602][220]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_60189573EF5BA76902_1496109104
+[2025.05.19-12.53.22:602][220]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_60189573EF5BA76902_1496093088
+[2025.05.19-12.54.47:083][392]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 16692.201172
+[2025.05.19-12.54.48:418][396]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.19-12.54.48:418][396]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 16693.201172, Update Interval: 308.152100
+[2025.05.19-13.00.46:458][470]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 17051.726562
+[2025.05.19-13.00.47:457][473]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.19-13.00.47:457][473]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 17052.392578, Update Interval: 309.578552
+[2025.05.19-13.06.39:513][529]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 17405.017578
+[2025.05.19-13.06.40:847][533]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.19-13.06.40:847][533]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 17406.025391, Update Interval: 335.344086
+[2025.05.19-13.12.59:899][670]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 17785.611328
+[2025.05.19-13.13.00:899][673]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.19-13.13.00:900][673]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 17786.279297, Update Interval: 345.323639
+[2025.05.19-13.19.36:612][860]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 18182.775391
+[2025.05.19-13.19.37:611][863]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.19-13.19.37:611][863]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 18183.441406, Update Interval: 314.158142
+[2025.05.19-13.25.42:650][958]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 18549.351562
+[2025.05.19-13.25.43:652][961]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.19-13.25.43:652][961]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 18550.019531, Update Interval: 350.344543
+[2025.05.19-13.32.18:037][144]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 18945.248047
+[2025.05.19-13.32.19:037][147]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.19-13.32.19:037][147]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 18945.916016, Update Interval: 336.078369
+[2025.05.19-13.32.48:350][234]LogDerivedDataCache: C:/Users/Microsoft/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:18.579 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 9383 files in 11651 folders with total size 1130 MiB.
+[2025.05.19-13.38.25:735][247]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 19313.455078
+[2025.05.19-13.38.27:069][251]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.19-13.38.27:069][251]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 19314.457031, Update Interval: 357.517029
+[2025.05.19-13.44.59:776][429]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 19707.986328
+[2025.05.19-13.45.00:774][432]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.19-13.45.00:774][432]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 19708.652344, Update Interval: 302.600189
+[2025.05.19-13.50.42:489][457]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 20050.916016
+[2025.05.19-13.50.43:489][460]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.19-13.50.43:489][460]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 20051.583984, Update Interval: 310.761444
+[2025.05.19-13.56.33:528][510]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 20402.123047
+[2025.05.19-13.56.34:527][513]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.19-13.56.34:527][513]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 20402.792969, Update Interval: 343.078705
+[2025.05.19-14.03.12:910][708]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 20801.771484
+[2025.05.19-14.03.14:244][712]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.19-14.03.14:244][712]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 20802.773438, Update Interval: 300.604279
+[2025.05.19-14.08.07:268][715]LogEOSSDK: LogEOSAuth: Refreshing authentication session. AccessTokenExpired: No RefreshRequired: Yes VerifyRequired: No UserId: 058...038
+[2025.05.19-14.08.07:268][715]LogEOSSDK: LogEOSAuth: Refresh authentication session. AuthState: 1 AccessExpires: 99.99 RefreshExpires: 1.554e+07
+[2025.05.19-14.08.08:312][724]LogEOSSDK: LogEOSAuth: UpdateUserAuthToken: User ClientId: xyz...459 AccountId: 058...038 Access[Expires: 2025.05.19-16.08.10 Remaining: 7200.42] Refresh[Expires: 2025-11-15T12:09:49.321Z Remaining: 15544899.32] State: Valid
