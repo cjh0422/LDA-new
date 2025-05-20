@@ -1593,3 +1593,160 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2025.05.20-00.09.23:947][512]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
 [2025.05.20-00.09.23:961][512]LogUObjectHash: Compacting FUObjectHashTables data took   1.26ms
 [2025.05.20-00.09.24:324][513]LogPlayLevel: Display: Destroying online subsystem :Context_4
+[2025.05.20-00.10.17:462][905]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.05.20-00.10.17:540][907]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.05.20-00.10.18:915][989]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2025.05.20-00.10.24:006][989]LogSlate: Window 'Save Content' being destroyed
+[2025.05.20-00.10.24:018][989]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.05.20-00.10.24:104][989]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/C/FL/0534S6ID7OTAID7L0N4JXE
+[2025.05.20-00.10.24:104][989]LogSavePackage: Moving '../../../../../../Users/Microsoft/Documents/GitHub/LDA-new/LDAnew/Saved/0534S6ID7OTAID7L0N4JXEB26034DE471B9DAD1DAF7286207945F9.tmp' to '../../../../../../Users/Microsoft/Documents/GitHub/LDA-new/LDAnew/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/C/FL/0534S6ID7OTAID7L0N4JXE.uasset'
+[2025.05.20-00.10.24:143][989]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/E/X5/1R0HNTBNFMEZQA3Y26ADOF
+[2025.05.20-00.10.24:143][989]LogSavePackage: Moving '../../../../../../Users/Microsoft/Documents/GitHub/LDA-new/LDAnew/Saved/1R0HNTBNFMEZQA3Y26ADOF6FF2539B4EB5B8C49927FF812556C39B.tmp' to '../../../../../../Users/Microsoft/Documents/GitHub/LDA-new/LDAnew/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/E/X5/1R0HNTBNFMEZQA3Y26ADOF.uasset'
+[2025.05.20-00.10.24:164][989]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/2/7Z/0XA42D8X8VHGJ4P4M52EWI
+[2025.05.20-00.10.24:165][989]LogSavePackage: Moving '../../../../../../Users/Microsoft/Documents/GitHub/LDA-new/LDAnew/Saved/0XA42D8X8VHGJ4P4M52EWI7E7D4D62416826B88207DDA6E875DDD1.tmp' to '../../../../../../Users/Microsoft/Documents/GitHub/LDA-new/LDAnew/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/2/7Z/0XA42D8X8VHGJ4P4M52EWI.uasset'
+[2025.05.20-00.10.24:175][989]LogFileHelpers: InternalPromptForCheckoutAndSave took 157 ms (total: 1.03 sec)
+[2025.05.20-00.10.24:769][989]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.05.20-00.10.24:786][989]LogAnimation: Warning: Setting an additive animation (characterAnim) on an AnimSingleNodeInstance (AnimSingleNodeInstance /Game/MainLevel/Level1.Level1:PersistentLevel.PoliceBehaviour_C_1.SkeletalMesh.AnimSingleNodeInstance_0) is not allowed. This will not function correctly in cooked builds!
+[2025.05.20-00.10.24:786][989]LogAnimation: Warning: Setting an additive animation (characterAnim) on an AnimSingleNodeInstance (AnimSingleNodeInstance /Game/MainLevel/Level1.Level1:PersistentLevel.PoliceBehaviour_C_1.SkeletalMesh.AnimSingleNodeInstance_0) is not allowed. This will not function correctly in cooked builds!
+[2025.05.20-00.10.24:786][989]LogAnimation: Warning: Setting an additive animation (characterAnim) on an AnimSingleNodeInstance (AnimSingleNodeInstance /Game/MainLevel/Level1.Level1:PersistentLevel.PoliceBehaviour_C_2.SkeletalMesh.AnimSingleNodeInstance_0) is not allowed. This will not function correctly in cooked builds!
+[2025.05.20-00.10.24:786][989]LogAnimation: Warning: Setting an additive animation (characterAnim) on an AnimSingleNodeInstance (AnimSingleNodeInstance /Game/MainLevel/Level1.Level1:PersistentLevel.PoliceBehaviour_C_2.SkeletalMesh.AnimSingleNodeInstance_0) is not allowed. This will not function correctly in cooked builds!
+[2025.05.20-00.10.24:796][989]LogAnimation: Warning: Setting an additive animation (characterAnim) on an AnimSingleNodeInstance (AnimSingleNodeInstance /Game/MainLevel/Level1.Level1:PersistentLevel.PoliceBehaviour_C_1.SkeletalMesh.AnimSingleNodeInstance_0) is not allowed. This will not function correctly in cooked builds!
+[2025.05.20-00.10.24:796][989]LogAnimation: Warning: Setting an additive animation (characterAnim) on an AnimSingleNodeInstance (AnimSingleNodeInstance /Game/MainLevel/Level1.Level1:PersistentLevel.PoliceBehaviour_C_1.SkeletalMesh.AnimSingleNodeInstance_0) is not allowed. This will not function correctly in cooked builds!
+[2025.05.20-00.10.24:796][989]LogAnimation: Warning: Setting an additive animation (characterAnim) on an AnimSingleNodeInstance (AnimSingleNodeInstance /Game/MainLevel/Level1.Level1:PersistentLevel.PoliceBehaviour_C_1.SkeletalMesh.AnimSingleNodeInstance_1) is not allowed. This will not function correctly in cooked builds!
+[2025.05.20-00.10.24:796][989]LogAnimation: Warning: Setting an additive animation (characterAnim) on an AnimSingleNodeInstance (AnimSingleNodeInstance /Game/MainLevel/Level1.Level1:PersistentLevel.PoliceBehaviour_C_1.SkeletalMesh.AnimSingleNodeInstance_1) is not allowed. This will not function correctly in cooked builds!
+[2025.05.20-00.10.24:797][989]LogAnimation: Warning: Setting an additive animation (characterAnim) on an AnimSingleNodeInstance (AnimSingleNodeInstance /Game/MainLevel/Level1.Level1:PersistentLevel.PoliceBehaviour_C_2.SkeletalMesh.AnimSingleNodeInstance_0) is not allowed. This will not function correctly in cooked builds!
+[2025.05.20-00.10.24:797][989]LogAnimation: Warning: Setting an additive animation (characterAnim) on an AnimSingleNodeInstance (AnimSingleNodeInstance /Game/MainLevel/Level1.Level1:PersistentLevel.PoliceBehaviour_C_2.SkeletalMesh.AnimSingleNodeInstance_0) is not allowed. This will not function correctly in cooked builds!
+[2025.05.20-00.10.24:797][989]LogAnimation: Warning: Setting an additive animation (characterAnim) on an AnimSingleNodeInstance (AnimSingleNodeInstance /Game/MainLevel/Level1.Level1:PersistentLevel.PoliceBehaviour_C_2.SkeletalMesh.AnimSingleNodeInstance_1) is not allowed. This will not function correctly in cooked builds!
+[2025.05.20-00.10.24:797][989]LogAnimation: Warning: Setting an additive animation (characterAnim) on an AnimSingleNodeInstance (AnimSingleNodeInstance /Game/MainLevel/Level1.Level1:PersistentLevel.PoliceBehaviour_C_2.SkeletalMesh.AnimSingleNodeInstance_1) is not allowed. This will not function correctly in cooked builds!
+[2025.05.20-00.10.24:804][989]LogAssetEditorSubsystem: Opening Asset editor for World /Game/MainLevel/Level1.Level1
+[2025.05.20-00.10.24:806][989]Cmd: MAP LOAD FILE="../../../../../../Users/Microsoft/Documents/GitHub/LDA-new/LDAnew/Content/MainLevel/Level1.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2025.05.20-00.10.24:808][989]LightingResults: New page: Lighting Build
+[2025.05.20-00.10.24:814][989]LoadErrors: New page: Loading map: Level1.umap
+[2025.05.20-00.10.24:967][989]LogWorld: UWorld::CleanupWorld for FirstPersonMap, bSessionEnded=true, bCleanupResources=true
+[2025.05.20-00.10.24:968][989]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.20-00.10.25:012][989]LogContentBundle: [FirstPersonMap(Standalone)] Deleting container.
+[2025.05.20-00.10.25:013][989]MapCheck: New page: Map Check
+[2025.05.20-00.10.25:013][989]LightingResults: New page: Lighting Build
+[2025.05.20-00.10.25:045][989]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.05.20-00.10.25:247][989]LogUObjectHash: Compacting FUObjectHashTables data took   0.89ms
+[2025.05.20-00.10.25:290][989]LogWorld: UWorld::CleanupWorld for Level1, bSessionEnded=true, bCleanupResources=true
+[2025.05.20-00.10.25:291][989]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.20-00.10.25:305][989]LogUObjectHash: Compacting FUObjectHashTables data took   0.47ms
+[2025.05.20-00.10.25:311][989]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2025.05.20-00.10.25:337][989]LogAudio: Display: Audio Device (ID: 1) registered with world 'Level1'.
+[2025.05.20-00.10.25:337][989]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.05.20-00.10.25:337][989]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.05.20-00.10.25:338][989]LogAIModule: Creating AISystem for world Level1
+[2025.05.20-00.10.25:347][989]LogAnimation: Warning: Setting an additive animation (characterAnim) on an AnimSingleNodeInstance (AnimSingleNodeInstance /Game/MainLevel/Level1.Level1:PersistentLevel.PoliceBehaviour_C_1.SkeletalMesh.AnimSingleNodeInstance_0) is not allowed. This will not function correctly in cooked builds!
+[2025.05.20-00.10.25:347][989]LogAnimation: Warning: Setting an additive animation (characterAnim) on an AnimSingleNodeInstance (AnimSingleNodeInstance /Game/MainLevel/Level1.Level1:PersistentLevel.PoliceBehaviour_C_1.SkeletalMesh.AnimSingleNodeInstance_0) is not allowed. This will not function correctly in cooked builds!
+[2025.05.20-00.10.25:348][989]LogAnimation: Warning: Setting an additive animation (characterAnim) on an AnimSingleNodeInstance (AnimSingleNodeInstance /Game/MainLevel/Level1.Level1:PersistentLevel.PoliceBehaviour_C_2.SkeletalMesh.AnimSingleNodeInstance_0) is not allowed. This will not function correctly in cooked builds!
+[2025.05.20-00.10.25:348][989]LogAnimation: Warning: Setting an additive animation (characterAnim) on an AnimSingleNodeInstance (AnimSingleNodeInstance /Game/MainLevel/Level1.Level1:PersistentLevel.PoliceBehaviour_C_2.SkeletalMesh.AnimSingleNodeInstance_0) is not allowed. This will not function correctly in cooked builds!
+[2025.05.20-00.10.25:358][989]LogAnimation: Warning: Setting an additive animation (characterAnim) on an AnimSingleNodeInstance (AnimSingleNodeInstance /Game/MainLevel/Level1.Level1:PersistentLevel.PoliceBehaviour_C_1.SkeletalMesh.AnimSingleNodeInstance_0) is not allowed. This will not function correctly in cooked builds!
+[2025.05.20-00.10.25:358][989]LogAnimation: Warning: Setting an additive animation (characterAnim) on an AnimSingleNodeInstance (AnimSingleNodeInstance /Game/MainLevel/Level1.Level1:PersistentLevel.PoliceBehaviour_C_1.SkeletalMesh.AnimSingleNodeInstance_0) is not allowed. This will not function correctly in cooked builds!
+[2025.05.20-00.10.25:359][989]LogAnimation: Warning: Setting an additive animation (characterAnim) on an AnimSingleNodeInstance (AnimSingleNodeInstance /Game/MainLevel/Level1.Level1:PersistentLevel.PoliceBehaviour_C_1.SkeletalMesh.AnimSingleNodeInstance_1) is not allowed. This will not function correctly in cooked builds!
+[2025.05.20-00.10.25:359][989]LogAnimation: Warning: Setting an additive animation (characterAnim) on an AnimSingleNodeInstance (AnimSingleNodeInstance /Game/MainLevel/Level1.Level1:PersistentLevel.PoliceBehaviour_C_1.SkeletalMesh.AnimSingleNodeInstance_1) is not allowed. This will not function correctly in cooked builds!
+[2025.05.20-00.10.25:359][989]LogAnimation: Warning: Setting an additive animation (characterAnim) on an AnimSingleNodeInstance (AnimSingleNodeInstance /Game/MainLevel/Level1.Level1:PersistentLevel.PoliceBehaviour_C_2.SkeletalMesh.AnimSingleNodeInstance_0) is not allowed. This will not function correctly in cooked builds!
+[2025.05.20-00.10.25:359][989]LogAnimation: Warning: Setting an additive animation (characterAnim) on an AnimSingleNodeInstance (AnimSingleNodeInstance /Game/MainLevel/Level1.Level1:PersistentLevel.PoliceBehaviour_C_2.SkeletalMesh.AnimSingleNodeInstance_0) is not allowed. This will not function correctly in cooked builds!
+[2025.05.20-00.10.25:360][989]LogAnimation: Warning: Setting an additive animation (characterAnim) on an AnimSingleNodeInstance (AnimSingleNodeInstance /Game/MainLevel/Level1.Level1:PersistentLevel.PoliceBehaviour_C_2.SkeletalMesh.AnimSingleNodeInstance_1) is not allowed. This will not function correctly in cooked builds!
+[2025.05.20-00.10.25:360][989]LogAnimation: Warning: Setting an additive animation (characterAnim) on an AnimSingleNodeInstance (AnimSingleNodeInstance /Game/MainLevel/Level1.Level1:PersistentLevel.PoliceBehaviour_C_2.SkeletalMesh.AnimSingleNodeInstance_1) is not allowed. This will not function correctly in cooked builds!
+[2025.05.20-00.10.25:495][989]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2025.05.20-00.10.25:810][989]LogNavigation: Warning: Exporting collision geometry with too many triangles (557230). This might cause performance and memory issues. Add a simple collision or change GeometryExportVertexCountWarningThreshold. See 'StaticMeshComponent /Game/MainLevel/Level1.Level1:PersistentLevel.StaticMeshActor_123.StaticMeshComponent0'.
+[2025.05.20-00.10.25:965][989]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2025.05.20-00.10.25:973][989]Cmd: MAP CHECKDEP NOCLEARLOG
+[2025.05.20-00.10.25:974][989]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.585ms to complete.
+[2025.05.20-00.10.26:014][989]AssetCheck: New page: Asset Save: multiple assets
+[2025.05.20-00.12.33:142][844]LogFactory: FactoryCreateFile: SoundWave with SoundFactory (0 0 C:\Users\Microsoft\Downloads\499711__isohoo__night_bird_grasshopper.wav)
+[2025.05.20-00.12.33:427][844]LogAudioDerivedData: Display: Building compressed audio format BINKA hash BINKA_SCVER_5028_R4DV_false_SR0_-1.000000_SR1_-1.000000_SR2_-1.000000_SR3_-1.000000_SR4_-1.000000_QMOD_1.000000_CQLT_-1_ASTH_0.000000_INLC_false_CSZE_65536_LCF_false_ZCS_0_MCSO_-1_END wave 499711__isohoo__night_bird_grasshopper...
+[2025.05.20-00.12.33:702][844]LogAudio: Display: Chunk sizes for SoundWave /Game/assets/music/499711__isohoo__night_bird_grasshopper.499711__isohoo__night_bird_grasshopper: Chunk0=28 bytes, Chunk1-N=256k
+[2025.05.20-00.12.33:710][844]LogAudioDerivedData: Display: Building compressed audio format BINKA hash BINKA_SCVER_5028_R4DV_false_SR0_-1.000000_SR1_-1.000000_SR2_-1.000000_SR3_-1.000000_SR4_-1.000000_QMOD_1.000000_CQLT_-1_ASTH_0.000000_INLC_false_CSZE_65536_LCF_false_ZCS_0_MCSO_-1_END wave 499711__isohoo__night_bird_grasshopper...
+[2025.05.20-00.12.34:008][846]LogAudio: Display: Chunk sizes for SoundWave /Game/assets/music/499711__isohoo__night_bird_grasshopper.499711__isohoo__night_bird_grasshopper: Chunk0=28 bytes, Chunk1-N=256k
+[2025.05.20-00.12.40:988][106]LogAssetEditorSubsystem: Opening Asset editor for SoundWave /Game/assets/music/499711__isohoo__night_bird_grasshopper.499711__isohoo__night_bird_grasshopper
+[2025.05.20-00.12.44:611][266]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.05.20-00.12.44:738][266]LogSavePackage: Moving output files for package: /Game/assets/music/499711__isohoo__night_bird_grasshopper
+[2025.05.20-00.12.44:738][266]LogSavePackage: Moving '../../../../../../Users/Microsoft/Documents/GitHub/LDA-new/LDAnew/Saved/499711__isohoo__night_bird_grassD1F7BEFD41C6A2D16080989073198E13.tmp' to '../../../../../../Users/Microsoft/Documents/GitHub/LDA-new/LDAnew/Content/assets/music/499711__isohoo__night_bird_grasshopper.uasset'
+[2025.05.20-00.12.44:749][266]LogFileHelpers: InternalPromptForCheckoutAndSave took 138 ms (total: 1.16 sec)
+[2025.05.20-00.12.44:750][266]AssetCheck: New page: Asset Save: 499711__isohoo__night_bird_grasshopper
+[2025.05.20-00.12.44:750][266]LogContentValidation: Display: Validating /Script/Engine.SoundWave /Game/assets/music/499711__isohoo__night_bird_grasshopper.499711__isohoo__night_bird_grasshopper
+[2025.05.20-00.12.45:833][316]LogSlate: Window '499711__isohoo__night_bird_grasshopper' being destroyed
+[2025.05.20-00.12.45:856][316]LogSlate: Window '499711__isohoo__night_bird_grasshopper' being destroyed
+[2025.05.20-00.12.46:728][350]LogActorFactory: Actor Factory attempting to spawn SoundWave /Game/assets/music/499711__isohoo__night_bird_grasshopper.499711__isohoo__night_bird_grasshopper
+[2025.05.20-00.12.46:729][350]LogActorFactory: Actor Factory attempting to spawn SoundWave /Game/assets/music/499711__isohoo__night_bird_grasshopper.499711__isohoo__night_bird_grasshopper
+[2025.05.20-00.12.46:731][350]LogActorFactory: Actor Factory spawned SoundWave /Game/assets/music/499711__isohoo__night_bird_grasshopper.499711__isohoo__night_bird_grasshopper as actor: AmbientSound /Game/MainLevel/Level1.Level1:PersistentLevel.AmbientSound_1
+[2025.05.20-00.12.46:731][350]LogActorFactory: Actor Factory spawned SoundWave /Game/assets/music/499711__isohoo__night_bird_grasshopper.499711__isohoo__night_bird_grasshopper as actor: AmbientSound /Game/MainLevel/Level1.Level1:PersistentLevel.AmbientSound_1
+[2025.05.20-00.12.47:380][379]LogActorFactory: Actor Factory attempting to spawn SoundWave /Game/assets/music/499711__isohoo__night_bird_grasshopper.499711__isohoo__night_bird_grasshopper
+[2025.05.20-00.12.47:380][379]LogActorFactory: Actor Factory attempting to spawn SoundWave /Game/assets/music/499711__isohoo__night_bird_grasshopper.499711__isohoo__night_bird_grasshopper
+[2025.05.20-00.12.47:388][379]LogActorFactory: Actor Factory spawned SoundWave /Game/assets/music/499711__isohoo__night_bird_grasshopper.499711__isohoo__night_bird_grasshopper as actor: AmbientSound /Game/MainLevel/Level1.Level1:PersistentLevel.AmbientSound_2
+[2025.05.20-00.12.47:388][379]LogActorFactory: Actor Factory spawned SoundWave /Game/assets/music/499711__isohoo__night_bird_grasshopper.499711__isohoo__night_bird_grasshopper as actor: AmbientSound /Game/MainLevel/Level1.Level1:PersistentLevel.AmbientSound_2
+[2025.05.20-00.12.49:038][454]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.05.20-00.12.49:046][454]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.05.20-00.12.49:046][454]PIE: New page: PIE session: Level1 (May 20, 2025, 4:12:49 PM)
+[2025.05.20-00.12.49:069][454]LogPlayLevel: Creating play world package: /Game/MainLevel/UEDPIE_0_Level1
+[2025.05.20-00.12.49:086][454]LogPlayLevel: PIE: StaticDuplicateObject took: (0.017162s)
+[2025.05.20-00.12.49:086][454]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MainLevel/Level1.Level1 to /Game/MainLevel/UEDPIE_0_Level1.Level1 (0.017257s)
+[2025.05.20-00.12.49:092][454]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2025.05.20-00.12.49:095][454]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.05.20-00.12.49:095][454]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.05.20-00.12.49:096][454]LogAIModule: Creating AISystem for world Level1
+[2025.05.20-00.12.49:096][454]LogPlayLevel: PIE: World Init took: (0.001022s)
+[2025.05.20-00.12.49:096][454]LogAudio: Display: Creating Audio Device:                 Id: 4, Scope: Unique, Realtime: True
+[2025.05.20-00.12.49:096][454]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.05.20-00.12.49:096][454]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.05.20-00.12.49:096][454]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.05.20-00.12.49:096][454]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.05.20-00.12.49:096][454]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2025.05.20-00.12.49:096][454]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.05.20-00.12.49:096][454]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2025.05.20-00.12.49:096][454]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.05.20-00.12.49:097][454]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.05.20-00.12.49:097][454]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.05.20-00.12.49:097][454]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.05.20-00.12.49:098][454]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.05.20-00.12.49:156][454]LogAudioMixer: Display: Using Audio Hardware Device Headphones (Realtek(R) Audio)
+[2025.05.20-00.12.49:158][454]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.05.20-00.12.49:158][454]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.05.20-00.12.49:158][454]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.05.20-00.12.49:158][454]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=4
+[2025.05.20-00.12.49:158][454]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=4
+[2025.05.20-00.12.49:160][454]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=4
+[2025.05.20-00.12.49:160][454]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=4
+[2025.05.20-00.12.49:161][454]LogInit: FAudioDevice initialized with ID 4.
+[2025.05.20-00.12.49:161][454]LogAudio: Display: Audio Device (ID: 4) registered with world 'Level1'.
+[2025.05.20-00.12.49:161][454]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 4
+[2025.05.20-00.12.49:164][454]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2025.05.20-00.12.49:172][454]LogAnimation: Warning: Setting an additive animation (characterAnim) on an AnimSingleNodeInstance (AnimSingleNodeInstance /Game/MainLevel/UEDPIE_0_Level1.Level1:PersistentLevel.PoliceBehaviour_C_1.SkeletalMesh.AnimSingleNodeInstance_0) is not allowed. This will not function correctly in cooked builds!
+[2025.05.20-00.12.49:172][454]LogAnimation: Warning: Setting an additive animation (characterAnim) on an AnimSingleNodeInstance (AnimSingleNodeInstance /Game/MainLevel/UEDPIE_0_Level1.Level1:PersistentLevel.PoliceBehaviour_C_1.SkeletalMesh.AnimSingleNodeInstance_0) is not allowed. This will not function correctly in cooked builds!
+[2025.05.20-00.12.49:173][454]LogAnimation: Warning: Setting an additive animation (characterAnim) on an AnimSingleNodeInstance (AnimSingleNodeInstance /Game/MainLevel/UEDPIE_0_Level1.Level1:PersistentLevel.PoliceBehaviour_C_2.SkeletalMesh.AnimSingleNodeInstance_0) is not allowed. This will not function correctly in cooked builds!
+[2025.05.20-00.12.49:173][454]LogAnimation: Warning: Setting an additive animation (characterAnim) on an AnimSingleNodeInstance (AnimSingleNodeInstance /Game/MainLevel/UEDPIE_0_Level1.Level1:PersistentLevel.PoliceBehaviour_C_2.SkeletalMesh.AnimSingleNodeInstance_0) is not allowed. This will not function correctly in cooked builds!
+[2025.05.20-00.12.49:173][454]LogWorld: Bringing World /Game/MainLevel/UEDPIE_0_Level1.Level1 up for play (max tick rate 0) at 2025.05.20-08.12.49
+[2025.05.20-00.12.49:174][454]LogAnimation: Warning: Setting an additive animation (characterAnim) on an AnimSingleNodeInstance (AnimSingleNodeInstance /Game/MainLevel/UEDPIE_0_Level1.Level1:PersistentLevel.PoliceBehaviour_C_1.SkeletalMesh.AnimSingleNodeInstance_1) is not allowed. This will not function correctly in cooked builds!
+[2025.05.20-00.12.49:174][454]LogAnimation: Warning: Setting an additive animation (characterAnim) on an AnimSingleNodeInstance (AnimSingleNodeInstance /Game/MainLevel/UEDPIE_0_Level1.Level1:PersistentLevel.PoliceBehaviour_C_1.SkeletalMesh.AnimSingleNodeInstance_1) is not allowed. This will not function correctly in cooked builds!
+[2025.05.20-00.12.49:174][454]LogAnimation: Warning: Setting an additive animation (characterAnim) on an AnimSingleNodeInstance (AnimSingleNodeInstance /Game/MainLevel/UEDPIE_0_Level1.Level1:PersistentLevel.PoliceBehaviour_C_2.SkeletalMesh.AnimSingleNodeInstance_1) is not allowed. This will not function correctly in cooked builds!
+[2025.05.20-00.12.49:174][454]LogAnimation: Warning: Setting an additive animation (characterAnim) on an AnimSingleNodeInstance (AnimSingleNodeInstance /Game/MainLevel/UEDPIE_0_Level1.Level1:PersistentLevel.PoliceBehaviour_C_2.SkeletalMesh.AnimSingleNodeInstance_1) is not allowed. This will not function correctly in cooked builds!
+[2025.05.20-00.12.49:175][454]LogWorld: Bringing up level for play took: 0.011100
+[2025.05.20-00.12.49:178][454]LogOnline: OSS: Created online subsystem instance for: :Context_7
+[2025.05.20-00.12.49:184][454]PIE: Server logged in
+[2025.05.20-00.12.49:185][454]PIE: Play in editor total start time 0.139 seconds.
+[2025.05.20-00.13.05:849][ 30]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.05.20-00.13.05:849][ 30]LogWorld: BeginTearingDown for /Game/MainLevel/UEDPIE_0_Level1
+[2025.05.20-00.13.05:850][ 30]LogWorld: UWorld::CleanupWorld for Level1, bSessionEnded=true, bCleanupResources=true
+[2025.05.20-00.13.05:851][ 30]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.20-00.13.05:866][ 30]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.05.20-00.13.05:871][ 30]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.20-00.13.05:877][ 30]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.05.20-00.13.05:878][ 30]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 4
+[2025.05.20-00.13.05:878][ 30]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=4
+[2025.05.20-00.13.05:880][ 30]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=4
+[2025.05.20-00.13.05:884][ 30]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.05.20-00.13.05:889][ 30]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2025.05.20-00.13.06:044][ 31]LogPlayLevel: Display: Destroying online subsystem :Context_7
+[2025.05.20-00.13.12:368][228]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2025.05.20-00.13.13:181][228]LogSlate: Window 'Save Content' being destroyed
+[2025.05.20-00.13.13:189][228]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.05.20-00.13.13:261][228]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MainLevel/Level1" FILE="../../../../../../Users/Microsoft/Documents/GitHub/LDA-new/LDAnew/Content/MainLevel/Level1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2025.05.20-00.13.13:289][228]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms
+[2025.05.20-00.13.13:402][228]LogSavePackage: Moving output files for package: /Game/MainLevel/Level1
+[2025.05.20-00.13.13:403][228]LogSavePackage: Moving '../../../../../../Users/Microsoft/Documents/GitHub/LDA-new/LDAnew/Saved/Level153CDD73F4B02FE2194B7D397C56E815D.tmp' to '../../../../../../Users/Microsoft/Documents/GitHub/LDA-new/LDAnew/Content/MainLevel/Level1.umap'
+[2025.05.20-00.13.13:414][228]LogFileHelpers: Saving map 'Level1' took 0.156
+[2025.05.20-00.13.13:424][228]LogFileHelpers: InternalPromptForCheckoutAndSave took 235 ms (total: 1.40 sec)
+[2025.05.20-00.13.13:428][228]AssetCheck: New page: Asset Save: Level1
+[2025.05.20-00.13.13:428][228]LogContentValidation: Display: Validating /Script/Engine.World /Game/MainLevel/Level1.Level1
